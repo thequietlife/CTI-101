@@ -10,5 +10,5 @@ ___________________________
 
 ### Table of contents
 
-* Basic concepts
+* [Basic concepts](https://github.com/thequietlife/CTI-101/blob/378c5f3175dd4e013a3eaa2b1b3fce110f779416/assets/basics.md)
 * CTI frameworks
