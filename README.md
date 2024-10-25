@@ -4,7 +4,7 @@ Over the last two years I have learnt alot about cybersecurity from a wide range
 
 I have gone through a stack of CTI analyst job ads to find the skills hiring managers want.
 
-I have also used Katie Nickels and Andy Piazza's Cyber Threat Intelligence study plans as a guide.
+I have also used Katie Nickels [A Cyber Threat Intelligence Self-Study Plan](https://medium.com/katies-five-cents/a-cyber-threat-intelligence-self-study-plan-part-1-968b5a8daf9a) and Andy Piazza's [Cyber Threat Intelligence Study Plan](https://klrgrz.medium.com/cyber-threat-intelligence-study-plan-c60484d319cb) as guides.
 
 ___________________________
 
