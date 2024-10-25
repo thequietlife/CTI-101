@@ -10,9 +10,11 @@ ___________________________
 
 ### Table of contents
 
+Now:
 * [Basics](https://github.com/thequietlife/CTI-101/blob/378c5f3175dd4e013a3eaa2b1b3fce110f779416/assets/basics.md) (Security+ level of knowledge)
-<!---
+
+Next:
 * Writing with clarity
 * Study APT reports
 * Critical thinking
-* Intelligence analysis fundamentals --->
+* Intelligence analysis fundamentals 
