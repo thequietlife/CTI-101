@@ -7,8 +7,8 @@ ___________________________
 ### Table of contents
 
 Now:
-* [Basics](https://github.com/thequietlife/CTI-101/blob/378c5f3175dd4e013a3eaa2b1b3fce110f779416/assets/basics.md) 
-
+* [Basics](https://github.com/thequietlife/CTI-101/blob/6991e46a39fadd39fd4b7e953c30d9434c952b46/assets/basics.md)
+  
 Next:
 * Writing with clarity
 * Study APT reports
