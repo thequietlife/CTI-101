@@ -1,6 +1,8 @@
 ## Basics (Security+ level of knowledge)
 
-### How does a computer work?
+### How computers work?
+
+
 <!---Next:
 ### Networking fundamentals
 ### Security architecture and best practices
