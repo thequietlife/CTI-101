@@ -4,23 +4,22 @@
 
 #### Software
 
-##### Applications or Programs
-* Software designed for a specific task
-    * Apple Pages
-    * Adobe Acrobat
-    * Mozilla Firefox
-* .exe (Windows) or .app (Mac) file
-* Can use without needing to understand how it works (**abstraction**) - another example is a TV remote
-* Programs are written in **code**, the next layer of abstraction
+##### Applications 
+* Programs like Adobe Acrobat and Mozilla Firefox
 
 ##### Intro to Code
 ##### +ve of computers
-* Speed
-* Accuracy
+* Can process a lot of information quickly
+* Accuracte
   
 ##### -ve of computers
-* Literal
+* Only does what is asked
 * 
+
+
+**Sources**
+Nick Parlante, CS101
+
 
 
 <!---Next:
