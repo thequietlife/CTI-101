@@ -7,7 +7,7 @@ ___________________________
 ### Table of contents
 
 Now:
-* [Basics](https://github.com/thequietlife/CTI-101/blob/5c6cd39cd37cb31ffd85f1415139983995e10ec6/assets/basics.md)
+* Basics
   
 Next:
 * Writing with clarity
