@@ -22,11 +22,11 @@ ___________________________
 #### Software
 
 #### Applications
-* programs like Adobe Acrobat and Mozilla Firefox
+* e.g. Mozilla Firefox - consists of 20 million machine code instructions
 
 #### Intro to Code
 +ve of computers - can process a lot of information quickly, accurately <br>
--ve of computers - only does what is asked, it is not a human brain with a will of it's own
+-ve of computers - only does what is asked, it is not a human brain with a will of its own
 
 #### How Computers Work
 * code is step by step instructions for a computer to follow
@@ -36,7 +36,7 @@ ___________________________
   
 #### Developers
 * link the code and computer together
-* with a new feature a developer uses their knowledge of computers, creativity and insights about user needs
+* when creating a new feature a developer uses their knowledge of computers, creativity and insights about user needs
 * developers work out each step and write it in code for the computer
   
 #### First Code Operation
@@ -68,6 +68,20 @@ print (" *   * ")
 
 #### Open Source in Practice
 * right to modify
+* all developers can contribute
 
 #### The Operating System
+* e.g. Apple Mac macOS Sequoia 15.0.1 and Microsoft Windows 11
+* boot-up process starts when a computer is switched on
+* manages the starting, running, stopping of programs
+* ensures all resources are released when a program ends
+* sandboxing of programs
+* allows software updates
+
+#### Lifecycle of a Program
+* loads the program
+* each program gets its own **memory**
+
+#### Ending Programs
+*
 
