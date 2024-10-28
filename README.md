@@ -14,12 +14,13 @@ ___________________________
 * Writing with Clarity
 * Study APT Reports
 * Critical Thinking
-* Intelligence Analysis Fundamentals 
+* Intelligence Analysis Fundamentals
 
-### Basics - Computer Science 101
-#### Intro to Computers
+____________________________
 
-#### Software
+### Basics - [Computer Science (CS) 101](https://web.stanford.edu/class/cs101/)
+
+### Computer Software
 
 #### Applications
 * e.g. Mozilla Firefox - consists of 20 million machine code instructions
@@ -83,5 +84,36 @@ print (" *   * ")
 * each program gets its own **memory**
 
 #### Ending Programs
-*
+* user closes program
+* program glitches "not responding"
+* running out of memory
+* program tries to access the memory of another program (corrupted data)
+
+#### OS: Reboot
+* why does this work?
+*   fixes a bug in the OS or hardware error
+*   rebooting wipes all the memory
+*   in theory not needed but in reality it seems to work a lot
+
+#### Architecture: Machine Code
+* architecture is like a guide, it helps the computer understand what to do
+* each line of machine code is like one step in a recipe
+* Javascript gets converted into machine code
+* machine code is written in **binary**
+  
+_______________
+
+### Computer Hardware
+* the Central Processing Unit (CPU) 
+  
+
+
+
+
+
+
+
+
+
+
 
