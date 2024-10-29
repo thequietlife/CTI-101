@@ -101,14 +101,37 @@ _______________
 * Intel, AMD, Apple, NVIDIA make CPUs
 * CPUs are made of a multitude of transistors
 * Apple's M2 has 20 billion transistors
-* like a switch
+* transistors are like a digital switch
 * solid state = no moving parts
 * Moore's Law (Gordon Moore, Intel cofounder) = number of transistors on a chip doubles every few years. Compare M1 to M2
 
 #### Memory
-* 
+* a storage area for bytes
+* two types
+  - Random Access Memory (RAM)
+  - Persistent Storage
+ 
+#### RAM
+* not persistent, if you are working in github and the power glitches, you only have up to where you last committed changes
+* when you hover over a browser tab you can see the memory usage (198MB)
 
+#### Persistent Storage
+* saved even when not switched on
+* e.g.  hard drive, flash drive, Solid State Disk (SSD)
 
+#### Circuits
+* helps make a toy train move
+* made up of digital logic gates
+    - AND gate
+    - OR gate
+    - XOR gate
+    - NOT gate
+      
+
+AND gate: 💡 💡 both switches need to be on for the light to shine
+OR gate: 💡 the light shines if at least one switch is on
+XOR gate: 💡 the light shines if one switch is on but not both
+NOT gate: topsy turvy time. if the switch is off, the light shines 💡
 
 
 
