@@ -127,11 +127,13 @@ _______________
     - XOR gate
     - NOT gate
       
-
 AND gate: 💡 💡 both switches need to be on for the light to shine <br>
 OR gate: 💡 the light shines if at least one switch is on <br>
 XOR gate: 💡 the light shines if one switch is on but not both <br> 
 NOT gate: topsy turvy time. if the switch is off, the light shines 💡<br>
+
+#### The Operating System: All the elements pulled together
+
 
 
 
