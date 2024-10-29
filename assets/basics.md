@@ -134,7 +134,9 @@ NOT gate: topsy turvy time. if the switch is off, the light shines 💡<br>
 
 #### The Operating System: All the elements pulled together
 
-
+<img
+src="https://github.com/thequietlife/CTI-101/blob/95e02d6e10d1b9e672bac02df03cec65df6262b8/images/os.jpeg"
+alt="three parts of the operating system. 1. CPU 2. RAM 3. Storage" width="400"/>
 
 
 
