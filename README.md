@@ -7,7 +7,7 @@ ___________________________
 ## Table of Contents
 
 ### Now:
-### Basics
+### [Basics](assets/basics.md)
   - Computer Science 101
   
 ### Next:
