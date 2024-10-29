@@ -84,8 +84,63 @@ print (" *   * ")
 _______________
 
 ### Computer Hardware
-* the Central Processing Unit (CPU) 
-  
+* Physical parts of a computer
+
+#### Central Processing Unit (CPU) 
+* microprocessor
+* the belle of the ball
+* in every computer
+* not just one chip, it has three main components
+  - control unit: assigns tasks
+  - logic unit: in charge of math tasks
+  - memory unit: responsible for memory usage
+* fetches, decodes and executes
+
+#### Chips and Transistors
+* Big business selling CPUs
+* Intel, AMD, Apple, NVIDIA make CPUs
+* CPUs are made of a multitude of transistors
+* Apple's M2 has 20 billion transistors
+* like a switch
+* solid state = no moving parts
+* Moore's Law (Gordon Moore, Intel cofounder) = number of transistors on a chip doubles every few years. Compare M1 to M2
+
+#### Memory
+* 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
