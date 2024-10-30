@@ -145,7 +145,7 @@ Sure does get dusty in there. A huge heatsink! especially compared to the teeny 
 
 
 <img
-src="https://github.com/thequietlife/CTI-101/blob/d4e01a7fd1ccbe87c7c8caaef351c5607c41692c/images/pc-1.jpeg"
+src="https://github.com/thequietlife/CTI-101/blob/93452f9f764f518278cb1c236ced034da5afce51/images/pc-1.jpeg"
 alt="motherboard and all the various components" width="400"/>
 
 
