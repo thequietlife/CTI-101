@@ -138,6 +138,17 @@ NOT gate: topsy turvy time. if the switch is off, the light shines 💡<br>
 src="https://github.com/thequietlife/CTI-101/blob/95e02d6e10d1b9e672bac02df03cec65df6262b8/images/os.jpeg"
 alt="three parts of the operating system. 1. CPU 2. RAM 3. Storage" width="400"/>
 
+<img
+src="https://github.com/thequietlife/CTI-101/blob/d4e01a7fd1ccbe87c7c8caaef351c5607c41692c/images/pc-1.jpeg"
+alt="motherboard and all the various components" width="400"/>
+
+<img
+src="https://github.com/thequietlife/CTI-101/blob/d4e01a7fd1ccbe87c7c8caaef351c5607c41692c/images/pc-2.jpeg"
+alt="CPU released out of motherboard" width="400"/>
+
+<img
+src="https://github.com/thequietlife/CTI-101/blob/d4e01a7fd1ccbe87c7c8caaef351c5607c41692c/images/pc-3.jpeg"
+alt="bottom of the CPU" width="400"/>
 
 
 
