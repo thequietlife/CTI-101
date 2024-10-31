@@ -3,7 +3,7 @@
 
 ### 1. Computer Software
 
-### <a id="ComputerHardware"></a>Computer Hardware ###
+### [Computer-Hardware](#Computer-Hardware)
 
 
 
@@ -90,7 +90,7 @@ print (" *   * ")
   
 _______________
 
-### [Computer Hardware](#Computer-Hardware)
+### <a id="Computer Hardware"></a>Computer-Hardware
 
 * Physical parts of a computer
 
