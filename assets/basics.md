@@ -1,9 +1,9 @@
 
 ## Basics
 
-### 1. Computer Software
+## 1. Computer Software
 
-### 2. Computer-Hardware {: #Computer_Hardware }
+## 2. Computer Hardware {: #Computer-Hardware }
 
 
 ### Computer Software
