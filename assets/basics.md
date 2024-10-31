@@ -1,7 +1,9 @@
 ## Basics
+### Computer Science 101
+
 1. Computer Software
 2. Computer Hardware
-
+3. Data and Storage
 
 ### Computer Software
 
@@ -191,6 +193,21 @@ alt="RAM DIMM removed from the motherboard" width="400"/>
 * when a computer is switched on, the BIOS checks all the parts are ready. then it tells the CPU it can get to work
 __________________
 
+### Data and Storage
+
+### Bits and Bytes
+
+#### Decimal Number System
+* **decimal number system** is the number system we are used to: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9
+* all the the numbers we use daily consist of these 10 different digits
+* e.g. 57, 3920, 453, 23450
+* referred to as **Base 10**
+
+#### Binary Number System
+* the computer uses a Binary Number System
+* only uses two digits: **0 and 1**
+* e.g. 1, 10, 11, 100, 101, 110, 111, 1000, 1001, 1010
+* 
 
 
 
@@ -198,9 +215,11 @@ __________________
 
 
 
+__________________
 Sources: 
-1. [CS 101, Stanford University](https://web.stanford.edu/class/cs101/)
+1. [Stanford CS 101](https://web.stanford.edu/class/cs101/)
 2. [How Computers Work, Ron White, Tim Downs](https://www.amazon.com/How-Computers-Work-Ron-White/dp/0789736136)
+3. [Stanford CS105](https://www.youtube.com/playlist?list=PLoROMvodv4rPzLcXBhbCFt8ahPrQGFSmN)
 
 
 
