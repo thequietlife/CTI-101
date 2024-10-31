@@ -1,7 +1,9 @@
+
 ## Basics
 
-1. Computer Software
-2. Computer Hardware
+### 1. Computer Software
+### [2. Computer Hardware](#anchor-link)
+
 
 
 ### Computer Software
