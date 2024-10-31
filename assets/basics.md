@@ -1,7 +1,3 @@
-# Header
-
-
-### [Computer-Hardware](#Computer-Hardware)
 
 
 
@@ -12,16 +8,18 @@
 
 
 
-### <a name="computer-hardware"></a>Computer
-these are the mm
+
+
+
 
 
 
 ## Basics
 
-## 1. Computer Software
+### Computer Software
 
-## 2. Computer Hardware {: #Computer-Hardware }
+### [Computer-Hardware](#Computer-Hardware)
+
 
 
 ### Computer Software
@@ -107,8 +105,7 @@ print (" *   * ")
   
 _______________
 
-### <a id="Computer Hardware"></a>Computer-Hardware
-
+### <a name="computer-hardware"></a>Computer
 * Physical parts of a computer
 
 #### Central Processing Unit (CPU) 
