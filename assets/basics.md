@@ -142,16 +142,29 @@ alt="three parts of the operating system. 1. CPU 2. RAM 3. Storage" width="400"/
 
 #### The motherboard 
 Sure does get dusty in there. A huge heatsink! especially compared to the teeny Raspberry Pi ones
-
+1. CPU
+2. RAM
+3. Heatsink
+4. I/O Controller Hub
 
 <img
 src="https://github.com/thequietlife/CTI-101/blob/93452f9f764f518278cb1c236ced034da5afce51/images/pc-1.jpeg"
 alt="motherboard and all the various components" width="400"/>
 
+#### CPU socket
+The CPU removed from its secure spot
+- clip that needs to be unhooked
+- little wires that connect to the CPU
+
 
 <img
 src="https://github.com/thequietlife/CTI-101/blob/d4e01a7fd1ccbe87c7c8caaef351c5607c41692c/images/pc-2.jpeg"
 alt="CPU released out of motherboard" width="400"/>
+
+#### CPU
+The CPU flipped over
+- gold spots that connect to the wires in the socket
+- if we sliced it open we would see a silicon chip and resistors poking out
 
 <img
 src="https://github.com/thequietlife/CTI-101/blob/d4e01a7fd1ccbe87c7c8caaef351c5607c41692c/images/pc-3.jpeg"
