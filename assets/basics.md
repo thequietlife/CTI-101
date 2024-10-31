@@ -132,16 +132,16 @@ OR gate: 💡 the light shines if at least one switch is on <br>
 XOR gate: 💡 the light shines if one switch is on but not both <br> 
 NOT gate: topsy turvy time. if the switch is off, the light shines 💡<br>
 
-#### The Operating System: All the elements pulled together
+#### The Operating System: All the Elements Pulled Together
 
 <img
 src="https://github.com/thequietlife/CTI-101/blob/95e02d6e10d1b9e672bac02df03cec65df6262b8/images/os.jpeg"
 alt="three parts of the operating system. 1. CPU 2. RAM 3. Storage" width="400"/>
 
-#### 🪛 Teardown time
+#### 🪛 Teardown Time
 
-#### The motherboard 
-Sure does get dusty in there. A huge heatsink! especially compared to the teeny Raspberry Pi ones
+#### The Motherboard 
+Sure does get dusty in there. This is an old PC I inherited. Ripe for a teardown. <br>A huge heatsink! especially compared to the teeny Raspberry Pi ones
 1. CPU
 2. RAM
 3. Heatsink
@@ -151,10 +151,10 @@ Sure does get dusty in there. A huge heatsink! especially compared to the teeny 
 src="https://github.com/thequietlife/CTI-101/blob/93452f9f764f518278cb1c236ced034da5afce51/images/pc-1.jpeg"
 alt="motherboard and all the various components" width="400"/>
 
-#### CPU socket
+#### CPU Socket
 The CPU removed from its secure spot
-- clip that needs to be unhooked
-- little wires that connect to the CPU
+* clip that needs to be unhooked
+* little wires that connect to the CPU
 
 
 <img
@@ -163,12 +163,33 @@ alt="CPU released out of motherboard" width="400"/>
 
 #### CPU
 The CPU flipped over
-- gold spots that connect to the wires in the socket
-- if we sliced it open we would see a silicon chip and resistors poking out
+* gold spots that connect to the wires in the socket
+* if we sliced it open we would see a silicon chip and resistors poking out
 
 <img
 src="https://github.com/thequietlife/CTI-101/blob/d4e01a7fd1ccbe87c7c8caaef351c5607c41692c/images/pc-3.jpeg"
 alt="bottom of the CPU" width="400"/>
+
+#### RAM
+* the RAM consists of chips stuck on a printed circuit board (PCB) called a DIMM (Dual In-Line Memory Module)
+* a few years earlier the chips would have been bigger. Moore's Law backed up.
+
+<img
+src="https://github.com/thequietlife/CTI-101/blob/25734a483b4288cdd2a4f467be304c95e170bd1d/images/pc-4.jpeg"
+alt="RAM DIMM removed from the motherboard" width="400"/>
+
+#### Hard Drive
+* hard drive connects to the motherboard via a SATA (Serial AT Attachment) cable
+* 500GB hard drive. an example of persistent storage
+* it has a 3.5 inch spinning disk inside
+  
+__________________
+
+
+
+
+
+
 
 
 Sources: 
