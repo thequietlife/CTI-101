@@ -3,8 +3,7 @@
 
 ### 1. Computer Software
 
-### [Computer-Hardware](#Computer-Hardware)
-
+### 2. Computer-Hardware {: #Computer_Hardware }
 
 
 ### Computer Software
