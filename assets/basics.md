@@ -2,7 +2,7 @@
 ## Basics
 
 ### 1. Computer Software
-### [2. Computer Hardware](#ComputerHardware)
+### [2. Computer Hardware](#Computer_Hardware)
 
 
 
@@ -89,6 +89,7 @@ print (" *   * ")
   
 _______________
 
+### <a name="Computer Hardware"></a>Computer Hardware
 ### Computer Hardware
 * Physical parts of a computer
 
