@@ -1,5 +1,7 @@
 # Header
-[Defines](#defines)
+
+
+### [Computer-Hardware](#Computer-Hardware)
 
 
 
@@ -10,10 +12,7 @@
 
 
 
-### Defines
-These are the
-
-### <a name="custom-names"></a>Custom/Names
+### <a name="computer-hardware"></a>Computer
 these are the mm
 
 
