@@ -1,4 +1,4 @@
-### Basics
+## Basics
 
 ### Computer Software
 
@@ -182,7 +182,9 @@ alt="RAM DIMM removed from the motherboard" width="400"/>
 * hard drive connects to the motherboard via a SATA (Serial AT Attachment) cable
 * 500GB hard drive. an example of persistent storage
 * it has a 3.5 inch spinning disk inside
-  
+
+#### BIOS
+* when a computer is switched on, the BIOS checks all the parts are ready. then it tells the CPU it can get to work
 __________________
 
 
@@ -194,6 +196,7 @@ __________________
 
 Sources: 
 1. [CS 101, Stanford University](https://web.stanford.edu/class/cs101/)
+2. [How Computers Work, Ron White, Tim Downs](https://www.amazon.com/How-Computers-Work-Ron-White/dp/0789736136)
 
 
 
