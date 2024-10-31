@@ -1,5 +1,9 @@
 ## Basics
 
+1. Computer Software
+2. Computer Hardware
+
+
 ### Computer Software
 
 #### Applications
