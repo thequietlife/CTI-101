@@ -86,7 +86,7 @@ print (" *   * ")
   
 _______________
 
-### Computer-Hardware
+### Computer Hardware
 
 * Physical parts of a computer
 
