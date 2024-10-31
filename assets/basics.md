@@ -1,25 +1,8 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Basics
 
 ### Computer Software
 
 ### [Computer-Hardware](#Computer-Hardware)
-
 
 
 ### Computer Software
@@ -105,7 +88,8 @@ print (" *   * ")
   
 _______________
 
-### <a name="computer-hardware"></a>Computer
+### <a name="computer-hardware"></a>Computer-Hardware
+
 * Physical parts of a computer
 
 #### Central Processing Unit (CPU) 
