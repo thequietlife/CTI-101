@@ -3,7 +3,7 @@
 
 ### 1. Computer Software
 
-### <a id="Computer-Hardware"></a>Computer Hardware
+### <a id="ComputerHardware"></a>Computer Hardware ###
 
 
 
@@ -91,6 +91,7 @@ print (" *   * ")
 _______________
 
 ### [Computer Hardware](#Computer-Hardware)
+
 * Physical parts of a computer
 
 #### Central Processing Unit (CPU) 
