@@ -207,7 +207,21 @@ __________________
 * the computer uses a Binary Number System
 * only uses two digits: **0 and 1**
 * e.g. 1, 10, 11, 100, 101, 110, 111, 1000, 1001, 1010
-* 
+
+#### Bit
+* solid state drive (SSD) uses electronic switches 
+* these electronic switches like light switches can be either on or off
+* switch on 💡 = 1 binary digit
+* switch off = 0
+* binary digit = bit
+* so bit: 0 or 1 (off/on)
+* single bits aren't very useful
+
+#### Byte
+* instead add the bits into groups
+* 8 Bits = 1 Byte
+* e.g. 0 1 0 1 1 0 1 0
+* One byte can store one character, e.g. 'A' or 'x' or '$'
 
 
 
