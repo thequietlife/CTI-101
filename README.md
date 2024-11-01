@@ -12,6 +12,7 @@ ___________________________
   - Networking Fundamentals
   - Security Architecture and Best Practices
   - Encryption Standards
+  - Security Concepts
   - Common Attack Types
   
 ### Next:
