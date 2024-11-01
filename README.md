@@ -7,7 +7,7 @@ ___________________________
 ## Table of Contents
 
 ### Now:
-### [Basics](assets/basics.md)
+### [Basics](assets/how computers work.md)
   - How Computers Work
   - Networking Fundamentals
   - Security Architecture and Best Practices
