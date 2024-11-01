@@ -1,11 +1,5 @@
 ## Basics
 
-1. How Computers Work
-2. Networking Fundamentals
-3. Security Architecture and Best Practices
-4. Encryption Standards
-5. Common Attack Types
-
 ### How Computers Work
 ### Computer Software
 
