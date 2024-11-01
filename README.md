@@ -8,7 +8,11 @@ ___________________________
 
 ### Now:
 ### [Basics](assets/basics.md)
-  - Computer Science 101
+  - How Computers Work
+  - Networking Fundamentals
+  - Security Architecture and Best Practices
+  - Encryption Standards
+  - Common Attack Types
   
 ### Next:
 * Writing with Clarity
