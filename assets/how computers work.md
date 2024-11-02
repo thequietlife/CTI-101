@@ -204,7 +204,7 @@ __________________
 * only uses two digits: **0 and 1**
 * e.g. 1, 10, 11, 100, 101, 110, 111, 1000, 1001, 1010
 
-#### Bit
+#### Bits
 * solid state drive (SSD) uses electronic switches 
 * these electronic switches like light switches can be either on or off
 * switch on 💡 = 1 binary digit
@@ -213,11 +213,52 @@ __________________
 * so bit: 0 or 1 (off/on)
 * single bits aren't very useful
 
-#### Byte
+#### Bytes and Words
 * instead add the bits into groups
 * 8 Bits = 1 Byte
 * e.g. 0 1 0 1 1 0 1 0
-* One byte can store one character, e.g. 'A' or 'x' or '$'
+* one byte can store one character, e.g. 'A' or 'x' or '$'
+
+#### Bytes and Characters: ASCII Code
+* ASCII: each character has a corresponding number
+* e.g. 'i' = 105, 01101001
+* ASCII covers only 128 characters 
+* unicode expands to include math symbols, Greek amd emoji
+
+#### Typing Texts, Bytes
+* When you send a text each letter is converted to a number
+* character encoding (ASCII)
+* e.g. "Hi" = 72, 105
+  - H = 72
+  - i = 105
+
+#### Sizes of Information Packages
+* Kilobytes (KB): roughly 1000 bytes
+  - e.g. an email without images is about 2KB
+  
+* Megabytes (MB): roughly 1000 KB; 1 million bytes
+  - e.g. an email with attachments can be about 2MB
+  - used to measure image sizes
+* Gigabytes (GB): approx a billion bytes
+  - e.g. early iphone's capacity was 8GB 
+  - an iphone 16 pro capacity ranges from 128GB - 1TB 😱
+    
+* Terabytes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
 
 
 
