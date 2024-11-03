@@ -233,17 +233,61 @@ __________________
   - i = 105
 
 #### Sizes of Information Packages
-* Kilobytes (KB): roughly 1000 bytes
+* Kilobyte (KB): roughly 1000 bytes
   - e.g. an email without images is about 2KB
   
-* Megabytes (MB): roughly 1000 KB; 1 million bytes
+* Megabyte (MB): roughly 1000 KB; 1 million bytes
   - e.g. an email with attachments can be about 2MB
   - used to measure image sizes
-* Gigabytes (GB): approx a billion bytes
+    
+* Gigabyte (GB): approx a billion bytes
   - e.g. early iphone's capacity was 8GB 
   - an iphone 16 pro capacity ranges from 128GB - 1TB 😱
     
-* Terabytes
+* Terabyte (TB): roughly 1000 gigabytes (about 1 trillion bytes)
+  - e.g. Western Digital portable hard drive (HDD) capacities range from 1TB - 6TB
+ 
+#### Digital Media
+#### Digital Compression Lossless
+* **Compression** rearranges data to use fewer bytes 
+* **Lossless** compresses and keeps the orginal quality
+* PNG (Portable Network Graphic) is lossless, it won't loose any of its data
+* e.g. PNG used for logos, hero images
+
+#### Digital Compression Lossy
+* **Lossy** compression 
+* compresses but you loose some quality
+* JPEG (Joint Photographic Experts Group) looses data when compressed but the advantage is that it doesn't take much space
+* e.g. JPEG files are used on websites, like a blog post
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
