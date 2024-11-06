@@ -6,10 +6,8 @@ ___________________________
 
 ## Table of Contents
 
-### Now:
-
-### [Basics](https://github.com/thequietlife/CTI-101/blob/eef5576ac2c1535f69523d9b9558d515fcf51859/assets/how%20computers%20work.md)
-  - 💻 How Computers Work
+### Basics
+  - 💻 [How Computers Work](https://github.com/thequietlife/CTI-101/blob/eef5576ac2c1535f69523d9b9558d515fcf51859/assets/how%20computers%20work.md)
   - Networking Fundamentals
   - Security Architecture and Best Practices
   - Encryption Standards
