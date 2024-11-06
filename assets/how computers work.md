@@ -1,6 +1,12 @@
 ## Basics
 
 ### How Computers Work
+
+### Summary: 
+Computers need an **input** like entering your password on the keyboard to log in
+**Storage** and **processing**: A computer takes the input and processes it (algorhythm)
+**Output** If the password is correct you get logged in
+
 ### Computer Software
 
 #### Applications
@@ -262,9 +268,6 @@ __________________
 
 
 #### Wrap Up
-Computers need an **input** like entering your password on the keyboard to log in
-**Storage** and **processing**: A computer takes the input and processes it (algorhythm)
-**Output** If the password is correct you get logged in
 
 Power On > Boot-Up > Operating System Loads > Input > Processing > Temporary Storage > Permanent Storage > Output > Networking > Cooling > Sleep
 
