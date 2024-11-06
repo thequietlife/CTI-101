@@ -8,7 +8,7 @@ ___________________________
 
 ### Now:
 
-### [Basics](https://github.com/thequietlife/CTI-101/blob/18332d1df4f0156cf73066ae655eba096ecdbc99/assets/how%20computers%20work.md)
+### [Basics](https://github.com/thequietlife/CTI-101/blob/eef5576ac2c1535f69523d9b9558d515fcf51859/assets/how%20computers%20work.md)
   - 💻 How Computers Work
   - Networking Fundamentals
   - Security Architecture and Best Practices
