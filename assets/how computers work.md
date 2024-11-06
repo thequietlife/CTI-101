@@ -269,51 +269,6 @@ Computers need an **input** like entering your password on the keyboard to log i
 Power On > Boot-Up > Operating System Loads > Input > Processing > Temporary Storage > Permanent Storage > Output > Networking > Cooling > Sleep
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-
-
-
-
-
-
 __________________
 Sources: 
 1. [Stanford CS 101](https://web.stanford.edu/class/cs101/)
