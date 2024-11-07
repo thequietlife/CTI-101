@@ -1,6 +1,4 @@
-## Basics
-
-### 🚧 How Computers Work
+## 🚧 How Computers Work
 
 ### Summary: 
 Computers need an **input** like entering your password on the keyboard to log in
