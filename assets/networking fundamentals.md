@@ -14,7 +14,7 @@ The OSI model is used for understanding and troubleshooting networking problems.
 | 7 | Application | Data | Human + computer interaction | Check apps are properly configured |
 | 6 | Presentation | Data | Makes data presentable for applications to consume. Encryption. Compressing data. Translation | Check for encryption issues |
 | 5 | Session| Data | Communication. Responsible for opening and closing comms between two devices. Synchronises data transder with checkpoints | Check if sessions are being maintained or if they are timing out |
-| 4 | Transport | Segment | End-to-end communication between two devices (TCP and UDP). Includes firewalls |  Check port numbers. Use ```ping``` to see where connections are dropping  |
+| 4 | Transport | Segment | End-to-end communication between two devices (TCP and UDP happen). Includes firewalls |  Check port numbers. Use ```ping``` to see where connections are dropping  |
 | 3 | Network | Packet | Data transfer between two different networks. Action central a lot happens here. Manages packet forwarding, routing and logical addressing (IP addresses) | Check IP addresses are configured correctly, routers working properly |
 | 2 | Data link | Frame| Takes packets from the Network layer and breaks them into smaller pieces, frames | Check MAC addresses |
 | 1 | Physical | Bit | Physical connection (cables, switches). Converts bits into a signal |  Check power, cables, connections |
@@ -28,10 +28,15 @@ Terminology
 
 * IP Addresses
 * MAC Addresses
-* TCP, UDP, Three-Way Handshake
+* TCP
+* UDP
+* Three-Way Handshake
 * Common Ports and Protocols
 * OSI Model
 * Subnetting
+* Routing
+* Switching
+  
 
 
 [### Summary.]: # 
@@ -39,7 +44,8 @@ Terminology
 
 __________________
 Sources: 
-1. [OSI model](https://en.wikipedia.org/wiki/OSI_model)
-2. [What is the OSI Model?](https://www.cloudflare.com/en-gb/learning/ddos/glossary/open-systems-interconnection-model-osi/)
-3. [OSI Model Layers and its Functions](https://electricalacademia.com/computer/osi-model-layers-functions/)
-4. 
+1. [Understanding Basic Networking Concepts, Gerald Auger](https://youtu.be/XgOF6GhiMuM?si=rBbBhiCsdPO-1D4o)
+2. [OSI model](https://en.wikipedia.org/wiki/OSI_model)
+3. [What is the OSI Model?](https://www.cloudflare.com/en-gb/learning/ddos/glossary/open-systems-interconnection-model-osi/)
+4. [OSI Model Layers and its Functions](https://electricalacademia.com/computer/osi-model-layers-functions/)
+5. 
