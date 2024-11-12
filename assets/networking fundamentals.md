@@ -9,15 +9,13 @@ The Open Systems Interconnenction (OSI) Model is a universal language for comput
 The OSI model is used for understanding and troubleshooting networking problems. It provides a methodical approach. Issues can be pinpointed and fixed more efficiently.
 
 
-
-
 | Number      | Layers   | Protocol data unit | Purpose | Troubleshooting |
 | :---    |    :----:   |   ---    | -- | -- |
-| 7 | Application | Data | -- | -- |
-| 6 | Presentation | Data | -- | -- |
-| 5 | Session| Data | -- | -- |
-| 4 | Transport | Segment | -- |  -- |
-| 3 | Network | Packet | Data transfer between two different networks | -- |
+| 7 | Application | Data | Human + computer interaction | Check apps are properly configured |
+| 6 | Presentation | Data | Makes data presentable for applications to consume. Encryption. Compressing data. Translation | Check for encryption issues |
+| 5 | Session| Data | Communication. Responsible for opening and closing comms between two devices. Synchronises data transder with checkpoints | Check if sessions are being maintained or if they are timing out |
+| 4 | Transport | Segment | End-to-end communication between two devices (TCP and UDP). Includes firewalls |  Check port numbers. Use ```ping``` to see where connections are dropping  |
+| 3 | Network | Packet | Data transfer between two different networks. Action central a lot happens here. Manages packet forwarding, routing and logical addressing (IP addresses) | Check IP addresses are configured correctly, routers working properly |
 | 2 | Data link | Frame| Takes packets from the Network layer and breaks them into smaller pieces, frames | Check MAC addresses |
 | 1 | Physical | Bit | Physical connection (cables, switches). Converts bits into a signal |  Check power, cables, connections |
 
