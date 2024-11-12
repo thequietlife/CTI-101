@@ -8,7 +8,7 @@ ___________________________
 
 ### Basics
   - 💻 [How Computers Work](https://github.com/thequietlife/CTI-101/blob/eef5576ac2c1535f69523d9b9558d515fcf51859/assets/how%20computers%20work.md)
-  - Networking Fundamentals
+  - 🍰 [Networking Fundamentals](https://github.com/thequietlife/CTI-101/blob/f3a80a5cea5159acd74472a131984511413aec2b/assets/networking%20fundamentals.md)
   - Security Architecture and Best Practices
   - Encryption Standards
   - Security Concepts
