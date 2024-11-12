@@ -9,15 +9,18 @@ The OSI model is used for understanding and troubleshooting networking problems.
 
 
 
-| Number      | Layer | Example    |
-| :---        |    :----:   |   -----------     |
-| 1   | Physical       | data cables     |
-| 2   | Data Link       | --     |
-| 3   | Network       | --   |
-| 4   | Transport       | --    |
-| 5   | Session      | --   |
-| 6   | Presentation       | --    |
-| 7   | Application   | --    |
+| Number      | Layers   | Protocol data unit | Role |
+| :---    |    :----:   |   ---    | -- |
+| 7 | Application | Data | -- |
+| 6 | Presentation | Data | -- |
+| 5 | Session| Data | -- |
+| 4 | Transport | Segment | -- | 
+| 3 | Network | Packet | -- |
+| 2 | Data link | Frame| -- |
+| 1 | Physical | Bit | -- |
+
+
+
 
 
 Terminology
