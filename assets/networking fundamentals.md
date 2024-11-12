@@ -1,5 +1,7 @@
 ## Networking Fundamentals
 
+Dropping all my networking notes into one spot
+
 ### The OSI Model
 
 The Open Systems Interconnenction (OSI) Model is a universal language for computer networking. It explains how different computer systems communicate with each other. It breaks down a complex topic into seven segments. Each layer has a specific job and communicates with the layers above and below.
@@ -9,18 +11,18 @@ The OSI model is used for understanding and troubleshooting networking problems.
 
 
 
-| Number      | Layers   | Protocol data unit | Role |
-| :---    |    :----:   |   ---    | -- |
-| 7 | Application | Data | -- |
-| 6 | Presentation | Data | -- |
-| 5 | Session| Data | -- |
-| 4 | Transport | Segment | -- | 
-| 3 | Network | Packet | -- |
-| 2 | Data link | Frame| -- |
-| 1 | Physical | Bit | -- |
+| Number      | Layers   | Protocol data unit | Purpose | Troubleshooting |
+| :---    |    :----:   |   ---    | -- | -- |
+| 7 | Application | Data | -- | -- |
+| 6 | Presentation | Data | -- | -- |
+| 5 | Session| Data | -- | -- |
+| 4 | Transport | Segment | -- |  -- |
+| 3 | Network | Packet | Data transfer between two different networks | -- |
+| 2 | Data link | Frame| Takes packets from the Network layer and breaks them into smaller pieces, frames | Check MAC addresses |
+| 1 | Physical | Bit | Physical connection (cables, switches). Converts bits into a signal |  Check power, cables, connections |
 
 
-
+Summary: Start troubleshooting at Level 1 Physical
 
 
 Terminology
@@ -35,3 +37,11 @@ Terminology
 
 
 [### Summary.]: # 
+
+
+__________________
+Sources: 
+1. [OSI model](https://en.wikipedia.org/wiki/OSI_model)
+2. [What is the OSI Model?](https://www.cloudflare.com/en-gb/learning/ddos/glossary/open-systems-interconnection-model-osi/)
+3. [OSI Model Layers and its Functions](https://electricalacademia.com/computer/osi-model-layers-functions/)
+4. 
