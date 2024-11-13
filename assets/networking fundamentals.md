@@ -1,6 +1,8 @@
 ## Networking Fundamentals
 
-Dropping all my networking notes into one spot
+
+### Summary: The OSI Model is a universal language for computer networking. It is broken into seven parts to make it easier to understand and troubleshoot. Start troubleshooting at Level 1 Physical.
+
 
 ### The OSI Model
 
@@ -19,20 +21,33 @@ The OSI model is used for understanding and troubleshooting networking problems.
 | 2 | Data link | Frame| Takes packets from the Network layer and breaks them into smaller pieces, frames | Check MAC addresses |
 | 1 | Physical | Bit | Physical connection (cables, switches). Converts bits into a signal |  Check power, cables, connections |
 
+### Protocols
 
-Summary: Start troubleshooting at Level 1 Physical
+* ARP
+* BGP
+* DNS
+* Ethernet
+* IP
+* ICMP (ping)
+* SSL/TLS
+* UDP
 
 
-Terminology
+### Other Concepts
+* Checksum
+* IP Address
+* Nameserver
+* NAT
+* Socket
+* Router
+* TTL
 
-
+  
 * IP Addresses
 * MAC Addresses
-* TCP
-* UDP
-* Three-Way Handshake
+
 * Common Ports and Protocols
-* OSI Model
+
 * Subnetting
 * Routing
 * Switching
