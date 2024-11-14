@@ -21,7 +21,8 @@ Visiting a website is really just your computer asking another computer for info
 <img src="https://github.com/thequietlife/CTI-101/blob/824958a327a127181061da1b59e71d6551b551f3/images/IPv6.png"
 alt="IP address showing all 32 bits" width="600"/>
 
-
+<img src="https://github.com/thequietlife/CTI101/blob/038b1480d3af9252ff890b18714e4821b7e62427/images/IP%204%20layers.png"
+alt="IP broken down into layers" width="600"/>
 
 ### Summary
 The OSI Model is a universal language for computer networking. It is broken into seven parts to make it easier to understand and troubleshoot. Start troubleshooting at Level 1 Physical.
