@@ -27,6 +27,9 @@ alt="IP broken down into layers" width="600"/>
 <img src="https://github.com/thequietlife/CTI-101/blob/ac1590f45945f5628c353cda597c41b1b7ff7258/images/IPv6.png"
 alt="breakdown of 128 bits of IPv6" width="600"/>
 
+<img src="https://github.com/thequietlife/CTI-101/blob/9c5af5332fb2c077945a81aed3360c77f3a4d014/images/dns.png"
+alt="pic shows how DNS works at a simplistic level" width="600"/>
+
 ### Summary
 The OSI Model is a universal language for computer networking. It is broken into seven parts to make it easier to understand and troubleshoot. Start troubleshooting at Level 1 Physical.
 
