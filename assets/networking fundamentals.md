@@ -18,7 +18,8 @@ Networks need to be able to talk to one another. Back in the '70s there was no s
 Internet Protocol = IP = a computer's address e.g. 174:129:14:120 <br>
 Visiting a website is really just your computer asking another computer for information. Your computer sends a message.
 
-
+<img src="https://github.com/thequietlife/CTI-101/blob/824958a327a127181061da1b59e71d6551b551f3/images/IPv6.png"
+alt="IP address showing all 32 bits" width="600"/>
 
 
 
