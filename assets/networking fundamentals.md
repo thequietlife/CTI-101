@@ -1,5 +1,26 @@
 ## Networking Fundamentals
 
+### What is the Internet? 
+
+The internet is a network of networks. It links billions of devices together all around the globe.
+
+### How does the Internet Work?
+
+If you are in a cafe using wifi, the bits get sent through a wireless router and then are transformed to the physical wire to travel the really long distances of the internet. The physical method for sending bits may change in the future. e.g. lasers sent between satellites or radio waves from balloons or drones. But the binary representation of information and protocols for sending that information and receiving that information have pretty much stayed the same.
+
+### Bit Sending
+
+Everything on the internet - emails, cat videos - all come down to these ones and zeros being delivered by electronic pulses, light beams, radio waves
+
+### IP Addresses + DNS
+
+Networks need to be able to talk to one another. Back in the '70s there was no standard method for this. Enter Vint Cerf and Bob Kahn who developed the Internet Working Protocol. The internet is really a **design** philosohy and an architecture expressed in a set of protocols. <br>
+Internet Protocol = IP = a computer's address e.g. 174:129:14:120 <br>
+Visiting a website is really just your computer asking another computer for information. Your computer sends a message.
+
+
+
+
 
 ### Summary: The OSI Model is a universal language for computer networking. It is broken into seven parts to make it easier to understand and troubleshoot. Start troubleshooting at Level 1 Physical.
 
@@ -21,46 +42,20 @@ The OSI model is used for understanding and troubleshooting networking problems.
 | 2 | Data link | Frame| Takes packets from the Network layer and breaks them into smaller pieces, frames | Check MAC addresses |
 | 1 | Physical | Bit | Physical connection (cables, switches). Converts bits into a signal |  Check power, cables, connections |
 
-### Protocols
-
-* ARP
-* BGP
-* DNS
-* Ethernet
-* IP
-* ICMP (ping)
-* SSL/TLS
-* UDP
 
 
-### Other Concepts
-* Checksum
-* IP Address
-* Nameserver
-* NAT
-* Socket
-* Router
-* TTL
-
-  
-* IP Addresses
-* MAC Addresses
-
-* Common Ports and Protocols
-
-* Subnetting
-* Routing
-* Switching
-  
 
 
-[### Summary.]: # 
+
 
 
 __________________
 Sources: 
-1. [Understanding Basic Networking Concepts, Gerald Auger](https://youtu.be/XgOF6GhiMuM?si=rBbBhiCsdPO-1D4o)
-2. [OSI model](https://en.wikipedia.org/wiki/OSI_model)
-3. [What is the OSI Model?](https://www.cloudflare.com/en-gb/learning/ddos/glossary/open-systems-interconnection-model-osi/)
-4. [OSI Model Layers and its Functions](https://electricalacademia.com/computer/osi-model-layers-functions/)
-5. 
+1. [Networking! ACK!, Julia Evans](https://jvns.ca/networking-zine.pdf)
+2. [Why does DNS always break the internet?, InsiderPhD](https://youtu.be/yp1rH7Kj12o?si=fNMAa3lNEGPZpkAu)
+3. [Understanding Basic Networking Concepts, Gerald Auger](https://youtu.be/XgOF6GhiMuM?si=rBbBhiCsdPO-1D4o)
+4. [OSI model](https://en.wikipedia.org/wiki/OSI_model)
+5. [What is the OSI Model?](https://www.cloudflare.com/en-gb/learning/ddos/glossary/open-systems-interconnection-model-osi/)
+6. [OSI Model Layers and its Functions](https://electricalacademia.com/computer/osi-model-layers-functions/)
+
+
