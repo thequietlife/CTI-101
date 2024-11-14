@@ -22,7 +22,8 @@ Visiting a website is really just your computer asking another computer for info
 
 
 
-### Summary: The OSI Model is a universal language for computer networking. It is broken into seven parts to make it easier to understand and troubleshoot. Start troubleshooting at Level 1 Physical.
+### Summary
+The OSI Model is a universal language for computer networking. It is broken into seven parts to make it easier to understand and troubleshoot. Start troubleshooting at Level 1 Physical.
 
 
 ### The OSI Model
