@@ -22,7 +22,7 @@ Visiting a website is really just your computer asking another computer for info
 alt="IP address showing all 32 bits" width="600"/>
 
 <img src="https://github.com/thequietlife/CTI-101/blob/7fdbb82ea06368a55bef83e9af7d42e0aa8689dd/images/IP%204%20layers.png"
-alt="IP broken down into layers" width="800"/>
+alt="IP broken down into layers" width="600"/>
 
 <img src="https://github.com/thequietlife/CTI-101/blob/ac1590f45945f5628c353cda597c41b1b7ff7258/images/IPv6.png"
 alt="breakdown of 128 bits of IPv6" width="600"/>
@@ -38,17 +38,18 @@ alt="image shows DNS spoofing" width="600"/>
 How is data delivered to you reliably?
 
 <img src="https://github.com/thequietlife/CTI-101/blob/fd097bc0c835783c1826628db78d651307fc32fb/images/spotify%20server.png"
-alt="image of laptop and spotify server" width="400"/>
+alt="image of laptop and spotify server" width="600"/>
 
 Data travels on the internet in a much less direct way
 
 <img src="https://github.com/thequietlife/CTI-101/blob/39267b6a01f2e9d008e89926fd0fa92987097c08/images/packets%20of%20info.png"
-alt="image of packets of information travelling" width="400"/>
+alt="image of packets of information travelling" width="600"/>
 
 Packets of information <br>
 A packet travels from one place to another kinda like when you try to wing it and take 3x longer to get somewhere than if you used a map. Many kinds of digital informatio can be sent with IP packets - but there are limits.
 
-
+<img src="https://github.com/thequietlife/CTI-101/blob/a9241762ff2153787005b4237ca4157c107d21b3/images/shuttle%20parts.png"
+alt="image of space shuttle on a road" width="
 
 ### Summary
 The OSI Model is a universal language for computer networking. It is broken into seven parts to make it easier to understand and troubleshoot. Start troubleshooting at Level 1 Physical.
