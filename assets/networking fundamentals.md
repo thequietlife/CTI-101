@@ -33,6 +33,11 @@ alt="pic shows how DNS works at a simplistic level" width="600"/>
 <img src="https://github.com/thequietlife/CTI-101/blob/ba6cdb57bb7791664254f48403873730b8f4a215/images/fake.png"
 alt="image shows DNS spoofing" width="600"/>
 
+<img src="https://github.com/thequietlife/CTI-101/blob/fd097bc0c835783c1826628db78d651307fc32fb/images/spotify%20server.png"
+alt="image of laptop and spotify server" width="400"/>
+
+
+
 ### Summary
 The OSI Model is a universal language for computer networking. It is broken into seven parts to make it easier to understand and troubleshoot. Start troubleshooting at Level 1 Physical.
 
