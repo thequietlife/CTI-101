@@ -65,6 +65,13 @@ There are too many to send in one packet. It will be broken down into 100s or 10
 <img src="https://github.com/thequietlife/CTI-101/blob/6e3e5e1017e743138225fc0844212c1683b1c3d5/images/too%20many.png"
 alt="cat gif zoomed in showing all the packets" width="600"/>
 
+Routers act like traffic managers to keep packets moving through the networks smoothly. If one route is congested individual packets may travel different routes or even out of order
+
+<img src="https://github.com/thequietlife/CTI-101/blob/2c554566933e62b2cf6c08077d5658416c1d7ee7/images/routers.png"
+alt="router and laptop with a network of routers in betweeon" width="600"/>
+
+Every router keeps track of multiple paths for sending packets and it chooses the "cheapest" path available. Factors involved are time, politics, relatioships between companies. Often the best route isn't the most direct. **Fault Tolerant** Having options for paths makes the network fault tolerant. The network can keep sending packets even of something goes wrong.
+<br> Basic key principle of the internet is **Reliability**
 
 
 ### Summary
