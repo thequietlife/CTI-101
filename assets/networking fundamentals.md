@@ -42,14 +42,30 @@ alt="image of laptop and spotify server" width="600"/>
 
 Data travels on the internet in a much less direct way
 
-<img src="https://github.com/thequietlife/CTI-101/blob/39267b6a01f2e9d008e89926fd0fa92987097c08/images/packets%20of%20info.png"
+<img src="https://github.com/thequietlife/CTI-101/blob/6e3e5e1017e743138225fc0844212c1683b1c3d5/images/packets%20of%20info.png"
 alt="image of packets of information travelling" width="600"/>
 
 Packets of information <br>
-A packet travels from one place to another kinda like when you try to wing it and take 3x longer to get somewhere than if you used a map. Many kinds of digital informatio can be sent with IP packets - but there are limits.
+A packet travels from one place to another kinda like when you try to wing it and take 3x longer to get somewhere than if you used a map. Many kinds of digital informatio can be sent with IP packets - but there are limits
+
+What happens when you build a rocket and need to move it to the launch pad? The rocket won't fit on one truck so it is delivered in parts
 
 <img src="https://github.com/thequietlife/CTI-101/blob/a9241762ff2153787005b4237ca4157c107d21b3/images/shuttle%20parts.png"
-alt="image of space shuttle on a road" width="
+alt="image of space shuttle on a road" width="600"/>
+
+When all the parts of the rocket have been delivered they are then assembled
+
+When you have a large image you want to share with a friend or upload to a website. That image may be made up of 10s of millions of bits, of 1s and 0s
+
+<img src="https://github.com/thequietlife/CTI-101/blob/6e3e5e1017e743138225fc0844212c1683b1c3d5/images/send%20more%20cat%20gifs.png"
+alt="image of mobile and a picture of a cat" width="600"/>
+
+There are too many to send in one packet. It will be broken down into 100s or 1000s of smaller parts called packets
+
+<img src="https://github.com/thequietlife/CTI-101/blob/6e3e5e1017e743138225fc0844212c1683b1c3d5/images/too%20many.png"
+alt="cat gif zoomed in showing all the packets" width="600"/>
+
+
 
 ### Summary
 The OSI Model is a universal language for computer networking. It is broken into seven parts to make it easier to understand and troubleshoot. Start troubleshooting at Level 1 Physical.
