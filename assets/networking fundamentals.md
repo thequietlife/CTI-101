@@ -73,7 +73,25 @@ alt="router and laptop with a network of routers in betweeon" width="600"/>
 Every router keeps track of multiple paths for sending packets and it chooses the "cheapest" path available. Factors involved are time, politics, relatioships between companies. Often the best route isn't the most direct. **Fault Tolerant** Having options for paths makes the network fault tolerant. The network can keep sending packets even of something goes wrong.
 <br> Basic key principle of the internet is **Reliability**
 
+### Transmission Control Protocol **TCP**
+Responsible for making sure all your data gets delivered so that your spotify songs play without glitches.
+Also referred to as **3-Way Handshake**
 
+<img src="https://github.com/thequietlife/CTI-101/blob/252c7db2e32a8497403f29e573468f4dd793d881/images/three%20way%20handshake.png"
+alt="shows three way handshake, SYN, SYN/ACK, ACK" width="600"/> 
+
+TCP manages the sending and receiving of all your data as packets. It's like a guaranteed mail service. TCP does a full inventory and sends back acknowledgements of each packet received. If all the packets are received, TCP signs for your delivery and the song plays.
+
+If TCP finds some packets are missing it won't sign. Otherwise your song wouldn't sound as good or portions of the song could be missing. For each missing or incomplete packet, spotify will resend them. Once TCP verifies the delivery of the packets, for that one song, it will play.
+
+TCP and router systems are scalable. They can work for 8 devices or 8 billion devices.
+
+Principles of **Fault Tolerance Redundancy**
+The more routers we add the more reliable the internet becomes. 
+____
+
+## 
+____
 ### Summary
 The OSI Model is a universal language for computer networking. It is broken into seven parts to make it easier to understand and troubleshoot. Start troubleshooting at Level 1 Physical.
 
@@ -107,9 +125,10 @@ Sources:
 1. [Networking! ACK!, Julia Evans](https://jvns.ca/networking-zine.pdf)
 2. [Why does DNS always break the internet?, InsiderPhD](https://youtu.be/yp1rH7Kj12o?si=fNMAa3lNEGPZpkAu)
 3. [Understanding Basic Networking Concepts, Gerald Auger](https://youtu.be/XgOF6GhiMuM?si=rBbBhiCsdPO-1D4o)
-4. [OSI model](https://en.wikipedia.org/wiki/OSI_model)
-5. [What is the OSI Model?](https://www.cloudflare.com/en-gb/learning/ddos/glossary/open-systems-interconnection-model-osi/)
-6. [OSI Model Layers and its Functions](https://electricalacademia.com/computer/osi-model-layers-functions/)
+4. [How The Internet Works, Code.org](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7)
+5. [OSI model](https://en.wikipedia.org/wiki/OSI_model)
+6. [What is the OSI Model?](https://www.cloudflare.com/en-gb/learning/ddos/glossary/open-systems-interconnection-model-osi/)
+7. [OSI Model Layers and its Functions](https://electricalacademia.com/computer/osi-model-layers-functions/)
 
 Credits:
 1. Drawings made in Keynote and using [draw.io](https://app.diagrams.net/)
