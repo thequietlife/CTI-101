@@ -111,4 +111,6 @@ Sources:
 5. [What is the OSI Model?](https://www.cloudflare.com/en-gb/learning/ddos/glossary/open-systems-interconnection-model-osi/)
 6. [OSI Model Layers and its Functions](https://electricalacademia.com/computer/osi-model-layers-functions/)
 
-
+Credits:
+1. Drawings made in Keynote and using [draw.io](https://app.diagrams.net/)
+2. Icons from [Flaticon](https://www.flaticon.com/)
