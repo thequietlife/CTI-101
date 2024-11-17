@@ -88,17 +88,14 @@ TCP and router systems are scalable. They can work for 8 devices or 8 billion de
 
 Principles of **Fault Tolerance Redundancy**
 The more routers we add the more reliable the internet becomes. 
-____
 
-## 
 ____
 ### Summary
-The OSI Model is a universal language for computer networking. It is broken into seven parts to make it easier to understand and troubleshoot. Start troubleshooting at Level 1 Physical.
-
+When I type in google.com in a web browser and hit enter. The way that the information goes from my web browser and gets communicated to the server at google. The OSI model is how it happens. 
 
 ### The OSI Model
 
-The Open Systems Interconnenction (OSI) Model is a universal language for computer networking. It explains how different computer systems communicate with each other. It breaks down a complex topic into seven segments. Each layer has a specific job and communicates with the layers above and below.
+The Open Systems Interconnenction (OSI) Model is a universal language for computer networking. It is broken into seven parts to make it easier to understand and troubleshoot. It explains how different computer systems communicate with each other. It breaks down a complex topic into seven segments. Each layer has a specific job and communicates with the layers above and below.
 
 The OSI model is used for understanding and troubleshooting networking problems. It provides a methodical approach. Issues can be pinpointed and fixed more efficiently.
 
@@ -111,7 +108,7 @@ The OSI model is used for understanding and troubleshooting networking problems.
 | 4 | Transport | Segment | End-to-end communication between two devices (TCP and UDP happen). Includes firewalls |  Check port numbers. Use ```ping``` to see where connections are dropping  |
 | 3 | Network | Packet | Data transfer between two different networks. Action central a lot happens here. Manages packet forwarding, routing and logical addressing (IP addresses) | Check IP addresses are configured correctly, routers working properly |
 | 2 | Data link | Frame| Takes packets from the Network layer and breaks them into smaller pieces, frames | Check MAC addresses |
-| 1 | Physical | Bit | Physical connection (cables, switches). Converts bits into a signal |  Check power, cables, connections |
+| 1 | Physical | Bit | Physical connection (cables, switches). Converts bits into a signal |  Start troubleshooting here first. Check power, cables, connections |
 
 
 
