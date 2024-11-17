@@ -1,5 +1,8 @@
 ## Networking Fundamentals
 
+### Summary
+When I type in google.com in a web browser and hit enter. The way that the information goes from my web browser and gets communicated to the server at google. The OSI model is how it happens (DNS Lookup → TCP Connection (Three Way Handshake) → HTTP Request → Server Response → Rendering of the Web browser page → Displaying the page) 
+
 ### What is the Internet? 
 
 The internet is a network of networks. It links billions of devices together all around the globe.
@@ -90,8 +93,6 @@ Principles of **Fault Tolerance Redundancy**
 The more routers we add the more reliable the internet becomes. 
 
 ____
-### Summary
-When I type in google.com in a web browser and hit enter. The way that the information goes from my web browser and gets communicated to the server at google. The OSI model is how it happens. 
 
 ### The OSI Model
 
