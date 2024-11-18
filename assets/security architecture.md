@@ -1,4 +1,4 @@
-## Security Architecture
+## 📐 Security Architecture
 
 ### What is Security Architecture?
 It is the strategic design of systems to protect, information and ensure its integrity, confidentiality and availability against threats
