@@ -1,7 +1,7 @@
 ## Networking Fundamentals
 
 ### Summary
-When I type in google.com in a web browser and hit enter what happens? The way that the information goes from my web browser and gets communicated to the server at google. The OSI model is how it happens (DNS Lookup → TCP Connection (Three Way Handshake) → HTTP Request → Server Response → Rendering of the Web browser page → Displaying the page) 
+When I type in google.com in a web browser and hit enter what happens? The way that the information goes from my web browser and gets communicated to the server at google. The OSI model is how it happens (DNS Lookup → TCP Connection (Three Way Handshake) → HTTP Request → Server Response → Rendering of the Web browser page → Displaying the page).
 
 ### What is the Internet? 
 
@@ -13,7 +13,7 @@ If you are in a cafe using wifi, the bits get sent through a wireless router and
 
 ### Bit Sending
 
-Everything on the internet - emails, cat videos - all come down to these ones and zeros being delivered by electronic pulses, light beams, radio waves
+Everything on the internet - emails, cat videos - all come down to these ones and zeros being delivered by electronic pulses, light beams, radio waves.
 
 ### IP Addresses + DNS
 
@@ -43,37 +43,38 @@ How is data delivered to you reliably?
 <img src="https://github.com/thequietlife/CTI-101/blob/fd097bc0c835783c1826628db78d651307fc32fb/images/spotify%20server.png"
 alt="image of laptop and spotify server" width="600"/>
 
-Data travels on the internet in a much less direct way
+Data travels on the internet in a much less direct way.
 
 <img src="https://github.com/thequietlife/CTI-101/blob/6e3e5e1017e743138225fc0844212c1683b1c3d5/images/packets%20of%20info.png"
 alt="image of packets of information travelling" width="600"/>
 
 Packets of information <br>
-A packet travels from one place to another kinda like when you try to wing it and take 3x longer to get somewhere than if you used a map. Many kinds of digital informatio can be sent with IP packets - but there are limits
+A packet travels from one place to another kinda like when you try to wing it and take 3x longer to get somewhere than if you used a map. Many kinds of digital information can be sent with IP packets - but there are limits.
 
-What happens when you build a rocket and need to move it to the launch pad? The rocket won't fit on one truck so it is delivered in parts
+What happens when you build a rocket and need to move it to the launch pad? The rocket won't fit on one truck so it is delivered in parts.
 
 <img src="https://github.com/thequietlife/CTI-101/blob/a9241762ff2153787005b4237ca4157c107d21b3/images/shuttle%20parts.png"
 alt="image of space shuttle on a road" width="600"/>
 
-When all the parts of the rocket have been delivered they are then assembled
+When all the parts of the rocket have been delivered they are then assembled.
 
-When you have a large image you want to share with a friend or upload to a website. That image may be made up of 10s of millions of bits, of 1s and 0s
+When you have a large image you want to share with a friend or upload to a website, that image may be made up of 10s of millions of bits, of 1s and 0s.
 
 <img src="https://github.com/thequietlife/CTI-101/blob/6e3e5e1017e743138225fc0844212c1683b1c3d5/images/send%20more%20cat%20gifs.png"
 alt="image of mobile and a picture of a cat" width="600"/>
 
-There are too many to send in one packet. It will be broken down into 100s or 1000s of smaller parts called packets
+There are too many to send in one packet. It will be broken down into 100s or 1000s of smaller parts called packets.
 
 <img src="https://github.com/thequietlife/CTI-101/blob/6e3e5e1017e743138225fc0844212c1683b1c3d5/images/too%20many.png"
 alt="cat gif zoomed in showing all the packets" width="600"/>
 
-Routers act like traffic managers to keep packets moving through the networks smoothly. If one route is congested individual packets may travel different routes or even out of order
+Routers act like traffic managers to keep packets moving through the networks smoothly. If one route is congested individual packets may travel different routes or even out of order.
 
 <img src="https://github.com/thequietlife/CTI-101/blob/2c554566933e62b2cf6c08077d5658416c1d7ee7/images/routers.png"
 alt="router and laptop with a network of routers in betweeon" width="600"/>
 
-Every router keeps track of multiple paths for sending packets and it chooses the "cheapest" path available. Factors involved are time, politics, relatioships between companies. Often the best route isn't the most direct. **Fault Tolerant** Having options for paths makes the network fault tolerant. The network can keep sending packets even of something goes wrong.
+Every router keeps track of multiple paths for sending packets and it chooses the "cheapest" path available. Factors involved are time, politics, relatioships between companies. Often the best route isn't the most direct. <br>
+**Fault Tolerant** Having options for paths makes the network fault tolerant. The network can keep sending packets even of something goes wrong.
 <br> Basic key principle of the internet is **Reliability**
 
 ### Transmission Control Protocol **TCP**
