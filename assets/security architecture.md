@@ -7,7 +7,7 @@ It is the strategic design of systems to protect, information and ensure its int
 To reduce the risk of security breaches and protect organisations from threats
 
 ### Five Security Principles to Follow (and One to Avoid)
-#### 1 Defence in Depth <br>
+#### 1. Defence in Depth <br>
 Aims to provide a number of layers to thwart a threat actor. Like American Ninja Warrior.
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/American_Ninja_Warrior_Fly_Wheels_obstacle_Indianapolis_2016.jpg/440px-American_Ninja_Warrior_Fly_Wheels_obstacle_Indianapolis_2016.jpg"
