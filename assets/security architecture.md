@@ -31,6 +31,8 @@ alt="castle with a moat - ring of water surrounding the castle" width="200"/>
 
 A system of security mechanisms.
 
+
+
 __________________
 Sources: 
 1. [What Is Security Architecture?, Palo Alto Networks](https://www.paloaltonetworks.com/cyberpedia/what-is-security-architecture)
