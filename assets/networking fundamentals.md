@@ -90,8 +90,7 @@ If TCP finds some packets are missing it won't sign. Otherwise your song wouldn'
 
 TCP and router systems are scalable. They can work for 8 devices or 8 billion devices.
 
-Principles of **Fault Tolerance Redundancy**
-The more routers we add the more reliable the internet becomes. 
+Principles of **Fault Tolerance Redundancy**, the more routers we add the more reliable the internet becomes. 
 
 ____
 
@@ -106,7 +105,7 @@ The OSI model is used for understanding and troubleshooting networking problems.
 | :---    |    :----:   |   ---    | -- | -- |
 | 7 | Application | Data | Human + computer interaction | Check apps are properly configured |
 | 6 | Presentation | Data | Makes data presentable for applications to consume. Encryption. Compressing data. Translation | Check for encryption issues |
-| 5 | Session| Data | Communication. Responsible for opening and closing comms between two devices. Synchronises data transder with checkpoints | Check if sessions are being maintained or if they are timing out |
+| 5 | Session| Data | Communication. Responsible for opening and closing comms between two devices. Synchronises data transfer with checkpoints | Check if sessions are being maintained or if they are timing out |
 | 4 | Transport | Segment | End-to-end communication between two devices (TCP and UDP happen). Includes firewalls |  Check port numbers. Use ```ping``` to see where connections are dropping  |
 | 3 | Network | Packet | Data transfer between two different networks. Action central a lot happens here. Manages packet forwarding, routing and logical addressing (IP addresses) | Check IP addresses are configured correctly, routers working properly |
 | 2 | Data link | Frame| Takes packets from the Network layer and breaks them into smaller pieces, frames | Check MAC addresses |
