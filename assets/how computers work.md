@@ -27,21 +27,21 @@ Computers need an **Input** like entering your password on the keyboard to log i
   
 #### First Code Operation
 * Javascript
-* print("hello, world")
+* print ("hello, world")
 
 #### Bugs
 * syntax and logic errors
 
 #### ASCII Art
-print (" *   * ")
+* print (" *   * ")
 
 #### Programming Languages
 * rules for the code
 * high level through to low level
 
 #### Types of Programming Languages
-* Compiled
-* Interpreted
+* compiled
+* interpreted
 
 #### Programming Languages: Source Code
 * editable
@@ -75,7 +75,7 @@ print (" *   * ")
 * program tries to access the memory of another program (corrupted data)
 
 #### OS: Reboot
-* why does this work?
+*   why does this work?
 *   fixes a bug in the OS or hardware error
 *   rebooting wipes all the memory
 *   in theory not needed but in reality it seems to work a lot
@@ -90,7 +90,7 @@ _______________
 
 ### Computer Hardware
 
-* Physical parts of a computer
+* physical parts of a computer
 
 #### Central Processing Unit (CPU) 
 * microprocessor
@@ -103,7 +103,7 @@ _______________
 * fetches, decodes and executes
 
 #### Chips and Transistors
-* Big business selling CPUs
+* big business selling CPUs
 * Intel, AMD, Apple, NVIDIA make CPUs
 * CPUs are made of a multitude of transistors
 * Apple's M2 has 20 billion transistors
@@ -115,7 +115,7 @@ _______________
 * a storage area for bytes
 * two types
   - Random Access Memory (RAM)
-  - Persistent Storage
+  - persistent storage
  
 #### RAM
 * not persistent, if you are working in github and the power glitches, you only have up to where you last committed changes
