@@ -8,7 +8,7 @@ ___________________________
 
 ### Basics
   - 💻 [How Computers Work](https://github.com/thequietlife/CTI-101/blob/9ecf04ce747effdf5213c5bd420961c5000abefb/assets/how%20computers%20work.md)
-  - 🍰 [Networking Fundamentals](https://github.com/thequietlife/CTI-101/blob/a81c203c72ab253385d899cf4b262d1263a16d79/assets/networking%20fundamentals.md)
+  - 🍰 [Networking Fundamentals](https://github.com/thequietlife/CTI-101/blob/ca3cadef9b37ead345df7ba0cc789fd69224e3a1/assets/networking%20fundamentals.md)
   
   - 📐 [Security Architecture](https://github.com/thequietlife/CTI-101/blob/842f7028db6c14d5760320a65960233f6800fd35/assets/security%20architecture.md) 
   - Encryption Standards
