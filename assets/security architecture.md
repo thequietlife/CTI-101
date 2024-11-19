@@ -6,21 +6,30 @@ It is the strategic design of systems to protect, information and ensure its int
 ### Main Objectives of Security Architecture?
 To reduce the risk of security breaches and protect organisations from threats
 
-### Five Principles to Follow (and One to Avoid)
+### Five Security Principles to Follow (and One to Avoid)
 #### 1 Defence in Depth <br>
-Don't rely on one single security mechanism to keep the network safe. Think of a castle. It needs a door. But the door adds a weakness. 
+Aims to provide a number of layers to thwart a threat actor. Like American Ninja Warrior.
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/American_Ninja_Warrior_Fly_Wheels_obstacle_Indianapolis_2016.jpg/440px-American_Ninja_Warrior_Fly_Wheels_obstacle_Indianapolis_2016.jpg"
+alt="American Ninja Warrior course close up of Fly Wheel" width="200"/>
+
+Don't rely on one single security mechanism to keep the network safe. 
+Think of a castle, a building with thick, high walls. Built robustly to keep the kingdom safe. 
 
 <img src="https://github.com/thequietlife/CTI-101/blob/442c9b622e7fa00575bbc38894c11c1a953cc2d0/images/castle%20no%20door.png"
 alt="castle with no door" width="200"/>
 
+But it needed a door. And the door added a weakness to the castle. Security was added with a bolt and gate. But that didn't provide enough protection.
+
 <img src="https://github.com/thequietlife/CTI-101/blob/442c9b622e7fa00575bbc38894c11c1a953cc2d0/images/castle%20door.png"
 alt="castle with a door" width="200"/>
 
-So a moat is added to give an extra layer of security.
+So a moat was added to give an extra layer of security. 🐊 And crocodiles.
 
 <img src="https://github.com/thequietlife/CTI-101/blob/442c9b622e7fa00575bbc38894c11c1a953cc2d0/images/castle%20moat.png"
 alt="castle with a moat - ring of water surrounding the castle" width="200"/>
 
+A system of security mechanisms.
 
 __________________
 Sources: 
