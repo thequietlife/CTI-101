@@ -75,11 +75,11 @@ alt="router and laptop with a network of routers in betweeon" width="600"/>
 
 Every router keeps track of multiple paths for sending packets and it chooses the "cheapest" path available. Factors involved are time, politics, relatioships between companies. Often the best route isn't the most direct. <br>
 **Fault Tolerant** Having options for paths makes the network fault tolerant. The network can keep sending packets even of something goes wrong.
-<br> Basic key principle of the internet is **Reliability**
+<br> Basic key principle of the internet is **Reliability**.
 
 ### Transmission Control Protocol **TCP**
 Responsible for making sure all your data gets delivered so that your spotify songs play without glitches.
-Also referred to as **3-Way Handshake**
+Also referred to as **3-Way Handshake**.
 
 <img src="https://github.com/thequietlife/CTI-101/blob/252c7db2e32a8497403f29e573468f4dd793d881/images/three%20way%20handshake.png"
 alt="shows three way handshake, SYN, SYN/ACK, ACK" width="600"/> 
