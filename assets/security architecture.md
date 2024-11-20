@@ -14,7 +14,7 @@ Aims to provide a number of layers to thwart a threat actor. Like American Ninja
 alt="American Ninja Warrior course close up of Fly Wheel" width="200"/>
 
 Don't rely on one single security mechanism to keep the network safe. 
-Think of a castle, a building with thick, high walls. Built robustly to keep the kingdom safe. 
+🏰 Think of a castle, a building with thick, high walls. Built robustly to keep the kingdom safe. 
 
 <img src="https://github.com/thequietlife/CTI-101/blob/442c9b622e7fa00575bbc38894c11c1a953cc2d0/images/castle%20no%20door.png"
 alt="castle with no door" width="200"/>
@@ -34,8 +34,10 @@ A system of security mechanisms.
 <img src="https://github.com/thequietlife/CTI-101/blob/d8e2223f2c27f73e33fc0c44c173947b7d29d9b3/images/modern%20security.png"
 alt="image shows layers involved in a user browsing the web on a network and the security measures that can be put in place" width="800"/>
 
+<img src="https://github.com/thequietlife/CTI-101/blob/788b175aa5b848df6d6b5b9b6ed89585b3d20cc0/images/def%20in%20depth%20tools.png"
+alt="following on from the previous image. shows what mechanisms can be put in place" width="800"/>
 
-
+🛡️ Modern security takes a layered approach like the olde worlde castle example. We are not relying on one tool to do all the protecting. Each part of a network can have tools added to it. For example, MFA, MDM, EDR, firewalls, vulnerability testing, 🔒 encryption.
 
 __________________
 Sources: 
