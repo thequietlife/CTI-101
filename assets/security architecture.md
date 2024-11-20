@@ -31,6 +31,10 @@ alt="castle with a moat - ring of water surrounding the castle" width="200"/>
 
 A system of security mechanisms.
 
+<img src="https://github.com/thequietlife/CTI-101/blob/d8e2223f2c27f73e33fc0c44c173947b7d29d9b3/images/modern%20security.png"
+alt="image shows layers involved in a user browsing the web on a network and the security measures that can be put in place" width="800"/>
+
+
 
 
 __________________
