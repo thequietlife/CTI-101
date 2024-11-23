@@ -37,7 +37,10 @@ alt="image shows layers involved in a user browsing the web on a network and the
 <img src="https://github.com/thequietlife/CTI-101/blob/788b175aa5b848df6d6b5b9b6ed89585b3d20cc0/images/def%20in%20depth%20tools.png"
 alt="following on from the previous image. shows what mechanisms can be put in place" width="800"/>
 
-🛡️ Modern security takes a layered approach like the olde worlde castle example. We are not relying on one tool to do all the protecting. Each part of a network can have tools added to it. For example, MFA, MDM, EDR, firewalls, vulnerability testing, 🔒 encryption.
+🛡️ Modern security takes a layered approach like the olde worlde castle example. We are not relying on one tool to do all the protecting. Each part of a network can have tools added to it. For example, MFA, MDM, EDR, firewalls, vulnerability testing, 🔒 encryption. <br>
+
+#### 2. Least Privilege <br>
+Giving people access to only what they need to do their job and only for as long as they need that access. For example giving an employee access to only the floor they work on rather than access to all floors of the building.
 
 __________________
 Sources: 
