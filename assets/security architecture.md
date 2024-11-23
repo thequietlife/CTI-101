@@ -45,6 +45,8 @@ Giving people access to only what they need to do their job and only for as long
 <img src="https://github.com/thequietlife/CTI-101/blob/8a5b9c98f2667bcc1cf97a1c022bd789710888f5/images/least%20priv%201.png"
 alt="image shows a web server with HTTP, FTP and SSH services connected" width="200"/>
 
+<img src="https://github.com/thequietlife/CTI-101/blob/577d34bbf0de822faf4748affdd9effdf4fca853/images/least%20priv%202.png"
+alt="image shows the web server with FTP and SSH services removed" width="200"/> 
 
 __________________
 Sources: 
