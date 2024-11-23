@@ -42,6 +42,10 @@ alt="following on from the previous image. shows what mechanisms can be put in p
 #### 2. Least Privilege <br>
 Giving people access to only what they need to do their job and only for as long as they need that access. For example giving an employee access to only the floor they work on rather than access to all floors of the building.
 
+<img src="https://github.com/thequietlife/CTI-101/blob/8a5b9c98f2667bcc1cf97a1c022bd789710888f5/images/least%20priv%201.png"
+alt="image shows a web server with HTTP, FTP and SSH services connected" width="200"/>
+
+
 __________________
 Sources: 
 1. [What Is Security Architecture?, Palo Alto Networks](https://www.paloaltonetworks.com/cyberpedia/what-is-security-architecture)
