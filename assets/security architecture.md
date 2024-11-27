@@ -54,6 +54,8 @@ Remove access to services that are not needed like remote access into a server. 
 **Privilege Creep** When an employee moves to a new project or role and keeps all the same access, gets more access and maybe also is given 'just in case' access. This can be mitigated by regular reviews of access rights.
 
 #### 3. Separation of Duties <br>
+Ensures no single person has complete control over all aspects of a critical process or task. A manager has authority approve a timesheet or invoice which then goes to the finance person for processing.
+
 
 __________________
 Sources: 
