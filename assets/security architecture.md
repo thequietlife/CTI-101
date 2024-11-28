@@ -86,7 +86,14 @@ alt="shows black box security - the algorhythm is secret known only by the found
 <img src="https://github.com/thequietlife/CTI-101/blob/baa2e05b6fafcd6662e02f1619c1871e7fbae4ef/images/glass%20box.png"
 alt="similar to previous image but the box is clear and shows cogs" width="300"/>
 
-We want glass box security not a black box security. Glass box security uses industry recognised algorhythms like NIST's Advanced Encryption Standard (AES). This is an algorhythm that anyone who is interested can look into it and see how it works.
+We want glass box security not black box security. Glass box security uses industry recognised algorhythms like NIST's Advanced Encryption Standard (AES). This is an algorhythm that anyone who is interested can look into it and see how it works.
+__________________
+
+#### CIA Triad
+
+
+
+
 
 __________________
 Sources: 
