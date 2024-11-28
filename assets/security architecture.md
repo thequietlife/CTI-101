@@ -61,6 +61,11 @@ alt="image show a person at a desk with an arrow going to another person at a de
 
 #### 4. Secure by Design <br>
 Incorporating security from the start and at each stage of a project, all the way from design to deployment and the maintain phase (continuous improvement)
+
+<img src="https://github.com/thequietlife/CTI-101/blob/567e780bced7dddf2e6a6774dc8f69a5395e1b8c/images/SDLC.png"
+alt="stages of the software development lifecycle. the deploy stage is highlighted." width="300"/>
+
+
 __________________
 Sources: 
 1. [What Is Security Architecture?, Palo Alto Networks](https://www.paloaltonetworks.com/cyberpedia/what-is-security-architecture)
