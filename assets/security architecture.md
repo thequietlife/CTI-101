@@ -4,7 +4,7 @@
 It is the strategic design of systems to protect, information and ensure its integrity, confidentiality and availability against threats
 
 ### Main Objectives of Security Architecture?
-To reduce the risk of security breaches and protect organisations from threats
+To reduce the risk of security breaches and protect organisations from threats. The aim is to avoid a single point of control. For example, one person can not approve an invoice and process it for payment.
 
 ### Five Security Principles to Follow (and One to Avoid)
 #### 1. Defence in Depth <br>
@@ -54,9 +54,13 @@ Remove access to services that are not needed like remote access into a server. 
 **Privilege Creep** When an employee moves to a new project or role and keeps all the same access, gets more access and maybe also is given 'just in case' access. This can be mitigated by regular reviews of access rights.
 
 #### 3. Separation of Duties <br>
-Ensures no single person has complete control over all aspects of a critical process or task. A manager has authority approve a timesheet or invoice which then goes to the finance person for processing.
+🪜 Ensures no single person has complete control over all aspects of a critical process or task. A manager has authority approve a timesheet or invoice which then goes to the finance person for processing. Another example is a developer asking IT for access to a database.
 
+<img src="https://github.com/thequietlife/CTI-101/blob/63fb2904ec9990bbec90414bf0a3ea82c77b81bb/images/duties.png"
+alt="image show a person at a desk with an arrow going to another person at a desk with a tick and cross above them. An arrow then goes to an action like a database" width="300"/> 
 
+#### 4. Secure by Design <br>
+Incorporating security from the start and at each stage of a project, all the way from design to deployment and the maintain phase (continuous improvement)
 __________________
 Sources: 
 1. [What Is Security Architecture?, Palo Alto Networks](https://www.paloaltonetworks.com/cyberpedia/what-is-security-architecture)
