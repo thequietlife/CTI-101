@@ -60,10 +60,25 @@ Remove access to services that are not needed like remote access into a server. 
 alt="image show a person at a desk with an arrow going to another person at a desk with a tick and cross above them. An arrow then goes to an action like a database" width="300"/> 
 
 #### 4. Secure by Design <br>
-Incorporating security from the start and at each stage of a project, all the way from design to deployment and the maintain phase (continuous improvement)
+Incorporating security from the start and at each stage of a project, all the way from design to deployment and the maintain phase (continuous improvement). 
 
 <img src="https://github.com/thequietlife/CTI-101/blob/567e780bced7dddf2e6a6774dc8f69a5395e1b8c/images/SDLC.png"
-alt="stages of the software development lifecycle. the deploy stage is highlighted." width="300"/>
+alt="stages of the software development lifecycle. the deploy stage is highlighted" width="300"/>
+
+It is too late to consider security at the deploy stage.
+
+<img src="https://github.com/thequietlife/CTI-101/blob/44ab3a1f99126647d2d18a8c66c7b6333095a09f/images/SDLC%20sec.png"
+alt="stages of the software development lifecycle repeated but with security in the centre and pointing to each stage" width="300"/>
+
+Security needs to be incorporated at each stage. Look at the requirements through a security lens &rarr; build security into the design &rarr; secure code principles &rarr; install on a secure system &rarr; testing and guarding the test data &rarr; consider security in CI.
+
+🔐 📦 Secure out of the box.
+
+#### 5. K.I.S.S. <br>
+Make the system secure but also as simple as possible. If it is too hard to do the right thing, users go with the easier way which will usually be the wrong thing. E.g. using one password for multiple applications. The system needs to be complex enough to keep threat actors out. But not so complex for our users to do the right thing.
+
+#### X. Don't do this: Security by Obscurity <br>
+Relys on secret knowledge to keep a system secure. E.g. A house with a secret room. The room is opened by knowing which book on the bookshelf opens the door. We want glass box security not a black box security.
 
 
 __________________
