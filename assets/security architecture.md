@@ -91,7 +91,8 @@ __________________
 
 #### CIA Triad
 
-
+<img src="https://github.com/thequietlife/CTI-101/blob/c9ae0dd1cc179b5e5b3b7928f26abf611a7c8f35/images/CIA%20Triad.png"
+alt="triangle with a text on each side - confidentiality, integrity, availability" width="300"/>
 
 
 
