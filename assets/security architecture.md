@@ -78,8 +78,15 @@ Security needs to be incorporated at each stage. Look at the requirements throug
 Make the system secure but also as simple as possible. If it is too hard to do the right thing, users go with the easier way which will usually be the wrong thing. E.g. using one password for multiple applications. The system needs to be complex enough to keep threat actors out. But not so complex for our users to do the right thing.
 
 #### X. Don't do this: Security by Obscurity <br>
-Relys on secret knowledge to keep a system secure. E.g. A house with a secret room. The room is opened by knowing which book on the bookshelf opens the door. We want glass box security not a black box security.
+Relys on secret knowledge to keep a system secure. E.g. A house with a secret room. The room is opened by knowing which book on the bookshelf opens the door. 
 
+<img src="https://github.com/thequietlife/CTI-101/blob/baa2e05b6fafcd6662e02f1619c1871e7fbae4ef/images/black%20box.png"
+alt="shows black box security - the algorhythm is secret known only by the founder" width="300"/>
+
+<img src="https://github.com/thequietlife/CTI-101/blob/baa2e05b6fafcd6662e02f1619c1871e7fbae4ef/images/glass%20box.png"
+alt="similar to previous image but the box is clear and shows cogs" width="300"/>
+
+We want glass box security not a black box security. Glass box security uses industry recognised algorhythms like NIST's Advanced Encryption Standard (AES). This is an algorhythm that anyone who is interested can look into it and see how it works.
 
 __________________
 Sources: 
