@@ -89,7 +89,23 @@ alt="similar to previous image but the box is clear and shows cogs" width="300"/
 We want glass box security not black box security. Glass box security uses industry recognised algorhythms like NIST's Advanced Encryption Standard (AES). This is an algorhythm that anyone who is interested can look into it and see how it works.
 __________________
 
-#### CIA Triad
+####  Confidentiality, Integrity, Availability (CIA) Triad
+The CIA Triad is a framework that helps guide the protection of data and systems. 
+The three principles are: 
+* Confidentiality
+* Integrity
+* Availability
+
+**Confidentiality**: Sensitive data is available only to authorised users. <br>
+How?
+* Access control
+- Tech: authentication and authorisation (e.g. MFA and role based access control/privileges)
+* Encryption
+  
+Integrity: Only authorised users can make changes to data.
+Availability: Sensitive data should be visible and accessible whenever needed.
+
+
 
 <img src="https://github.com/thequietlife/CTI-101/blob/c9ae0dd1cc179b5e5b3b7928f26abf611a7c8f35/images/CIA%20Triad.png"
 alt="triangle with a text on each side - confidentiality, integrity, availability" width="300"/>
@@ -100,6 +116,7 @@ __________________
 Sources: 
 1. [What Is Security Architecture?, Palo Alto Networks](https://www.paloaltonetworks.com/cyberpedia/what-is-security-architecture)
 2. [Cybersecurity Architecture, Jeff Crume IBM Technology](https://www.youtube.com/watch?v=jq_LZ1RFPfU)
+3. [Describe the basic concepts of cybersecurity, Microsoft](https://learn.microsoft.com/en-us/training/paths/describe-basic-concepts-of-cybersecurity/)
 
 
 
