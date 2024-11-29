@@ -96,19 +96,18 @@ The three principles are:
 * Integrity
 * Availability
 
+<img src="https://github.com/thequietlife/CTI-101/blob/c9ae0dd1cc179b5e5b3b7928f26abf611a7c8f35/images/CIA%20Triad.png"
+alt="triangle with a text on each side - confidentiality, integrity, availability" width="300"/>
+
 **Confidentiality**: Sensitive data is available only to authorised users. <br>
 How?
-* Access control
-- Tech: authentication and authorisation (e.g. MFA and role based access control/privileges)
+* Access control: via authentication and authorisation (e.g. MFA and role based access control/privileges)
 * Encryption
   
 Integrity: Only authorised users can make changes to data.
 Availability: Sensitive data should be visible and accessible whenever needed.
 
 
-
-<img src="https://github.com/thequietlife/CTI-101/blob/c9ae0dd1cc179b5e5b3b7928f26abf611a7c8f35/images/CIA%20Triad.png"
-alt="triangle with a text on each side - confidentiality, integrity, availability" width="300"/>
 
 
 
