@@ -123,6 +123,10 @@ This other person does not have the cryptographic key and can not decrypt the me
   
 Integrity: Only authorised users can make changes to data. If data gets modified then it can be detected. And if it is detected we know not to trust it and we can take necessary steps.
 
+<img src="https://github.com/thequietlife/CTI-101/blob/7f255657bb797060c5c6bb4bfa9617440c2854b0/images/integrity%20good.png"
+alt="image shows authorised person using a system and their actions are recorded in the syslog" width="300"/>
+
+
 
 Availability: Sensitive data should be visible and accessible whenever needed.
 
