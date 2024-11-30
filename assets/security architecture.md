@@ -121,7 +121,9 @@ alt="image shows a person sending a message to an authorised user, the message i
 
 This other person does not have the cryptographic key and can not decrypt the message.
   
-Integrity: Only authorised users can make changes to data.
+Integrity: Only authorised users can make changes to data. If data gets modified then it can be detected. And if it is detected we know not to trust it and we can take necessary steps.
+
+
 Availability: Sensitive data should be visible and accessible whenever needed.
 
 
