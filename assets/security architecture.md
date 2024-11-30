@@ -104,6 +104,9 @@ How?
 * Access control: via authentication and authorisation (e.g. MFA and role based access control (RBAC))
 If the user is who they claim to be and they have the privileges. The user is let into the system.
 
+<img src="https://github.com/thequietlife/CTI-101/blob/203dadf2596f8f174814aaa10b52768459e923dd/images/MFA%20and%20RBAC.png"
+alt="image shows an authorised user is who they claim to be and gains access via MFA, they also have the required privileges and gain access to the database" width="300"/> 
+
 * Encryption
   
 Integrity: Only authorised users can make changes to data.
