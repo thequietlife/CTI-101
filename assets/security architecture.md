@@ -101,7 +101,9 @@ alt="triangle with a text on each side - confidentiality, integrity, availabilit
 
 **Confidentiality**: Sensitive data is available only to authorised users. <br>
 How?
-* Access control: via authentication and authorisation (e.g. MFA and role based access control/privileges)
+* Access control: via authentication and authorisation (e.g. MFA and role based access control (RBAC))
+If the user is who they claim to be and they have the privileges. The user is let into the system.
+
 * Encryption
   
 Integrity: Only authorised users can make changes to data.
