@@ -126,7 +126,8 @@ Integrity: Only authorised users can make changes to data. If data gets modified
 <img src="https://github.com/thequietlife/CTI-101/blob/7f255657bb797060c5c6bb4bfa9617440c2854b0/images/integrity%20good.png"
 alt="image shows authorised person using a system and their actions are recorded in the syslog" width="300"/>
 
-
+<img src="https://github.com/thequietlife/CTI-101/blob/fa8608b1159a06590721c1f8e459cadb8c5bb007/images/integrity%20bad.png"
+alt="image shows an unauthorised using elevating their access to super user and deleting the changes they made in the system" width="300"/>
 
 Availability: Sensitive data should be visible and accessible whenever needed.
 
