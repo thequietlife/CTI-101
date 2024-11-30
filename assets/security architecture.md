@@ -114,7 +114,12 @@ alt="image shows a person trying to access a system via MFA, even if they get th
 
 * Encryption
 
+When I want to send a message to my buddy, an authorised user, I want to make sure that only they can read it. I can do this by using encryption. The message is encrypted with a key, a cryptographic key, which is a string of bits. My buddy has the very same key, called symmetric encryption, and is able to decrypt the message and read it.
 
+<img src="https://github.com/thequietlife/CTI-101/blob/86ec308519d5ac43c5a6cf3a868121a763316a86/images/encryption.png"
+alt="image shows a person sending a message to an authorised user, the message is encrypted so that an unauthorised person can not read the message" width="300"/>
+
+This other person does not have the cryptographic key and can not decrypt the message.
   
 Integrity: Only authorised users can make changes to data.
 Availability: Sensitive data should be visible and accessible whenever needed.
