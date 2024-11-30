@@ -107,7 +107,14 @@ If the user is who they claim to be and they have the privileges. The user is le
 <img src="https://github.com/thequietlife/CTI-101/blob/203dadf2596f8f174814aaa10b52768459e923dd/images/MFA%20and%20RBAC.png"
 alt="image shows an authorised user is who they claim to be and gains access via MFA, they also have the required privileges and gain access to the database" width="300"/> 
 
+If an unauthorised user trys to authenticate to get into the system and they do not have the right credentials they are denied access. Or they access the system and are able to authenticate, but they do not have the privileges, they are not allowed access. 
+
+<img src="https://github.com/thequietlife/CTI-101/blob/837ec7720d7ca4c5b54976c60a6f94c7c408e763/images/non%20auth%20user.png"
+alt="image shows a person trying to access a system via MFA, even if they get through MFA they do not have the correct privileges to get in" width="300"/>
+
 * Encryption
+
+
   
 Integrity: Only authorised users can make changes to data.
 Availability: Sensitive data should be visible and accessible whenever needed.
