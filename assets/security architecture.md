@@ -121,7 +121,7 @@ alt="image shows a person sending a message to an authorised user, the message i
 
 This other person does not have the cryptographic key and can not decrypt the message.
   
-Integrity: Only authorised users can make changes to data. If data gets modified then it can be detected. And if it is detected we know not to trust it and we can take necessary steps.
+**Integrity**: Only authorised users can make changes to data. If data gets modified then it can be detected. And if it is detected we know not to trust it and we can take necessary steps.
 
 <img src="https://github.com/thequietlife/CTI-101/blob/7f255657bb797060c5c6bb4bfa9617440c2854b0/images/integrity%20good.png"
 alt="image shows authorised person using a system and their actions are recorded in the syslog" width="300"/>
@@ -132,13 +132,15 @@ alt="image shows an unauthorised using elevating their access to super user and 
 **Cryptographic Functions**
 **Digital signatures** and **message authentication codes** are used to tell if there has been a change. Detection &rarr; Appropriate countermeasures.
 
-
-Availability: Sensitive data should be visible and accessible whenever needed to authorised users.
+**Availability**: Sensitive data should be visible and accessible whenever needed to authorised users. <br>
+An example of basic **Denial of Service**: <br>
 
 <img src="https://github.com/thequietlife/CTI-101/blob/3234efdab8a8e49257708414529436a23b680274/images/denial%20of%20service%20-%20basic.png"
-alt="an authorised user accessing a web server to do a legit transaction and an anauthorised user sending repeated requests" width="300"/>
+alt="an authorised user accessing a web server to do a legit transaction and an anauthorised user sending repeated requests" width="200"/>
 
+The unauthorised user is flooding the system with transaction requests, faster than the system can respond to them. When the system can't provide service to authorised users this is called a Denial of Service.
 
+A more complex example of **Denial of Service**: <br>
 __________________
 Sources: 
 1. [What Is Security Architecture?, Palo Alto Networks](https://www.paloaltonetworks.com/cyberpedia/what-is-security-architecture)
