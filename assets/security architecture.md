@@ -129,7 +129,11 @@ alt="image shows authorised person using a system and their actions are recorded
 <img src="https://github.com/thequietlife/CTI-101/blob/fa8608b1159a06590721c1f8e459cadb8c5bb007/images/integrity%20bad.png"
 alt="image shows an unauthorised using elevating their access to super user and deleting the changes they made in the system" width="300"/>
 
-Availability: Sensitive data should be visible and accessible whenever needed.
+**Cryptographic Functions**
+**Digital signatures** and **message authentication codes** are used to tell if there has been a change. Detection &rarr; Appropriate countermeasures.
+
+
+Availability: Sensitive data should be visible and accessible whenever needed to authorised users.
 
 
 
