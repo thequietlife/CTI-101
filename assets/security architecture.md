@@ -135,8 +135,8 @@ alt="image shows an unauthorised using elevating their access to super user and 
 
 Availability: Sensitive data should be visible and accessible whenever needed to authorised users.
 
-
-
+<img src="https://github.com/thequietlife/CTI-101/blob/3234efdab8a8e49257708414529436a23b680274/images/denial%20of%20service%20-%20basic.png"
+alt="an authorised user accessing a web server to do a legit transaction and an anauthorised user sending repeated requests" width="300"/>
 
 
 __________________
