@@ -140,12 +140,14 @@ alt="an authorised user accessing a web server to do a legit transaction and an 
 
 The unauthorised user is flooding the system with transaction requests, faster than the system can respond to them. When the system can't provide service to authorised users this is called a Denial of Service.
 
-A more complex example of **Denial of Service**: <br>
+A more complex example of Denial of Service, a **distributed denial of service** attack: <br>
 
-The threat actor has now also taken over unsuspecting user's computers.
+The threat actor has now also taken over unsuspecting user's computers. The threat actor can send one command to get these systems to also flood the web server with traffic. This will crash the web server even faster due to this force multiplier.
 
 <img src="https://github.com/thequietlife/CTI-101/blob/a851ae083a42aab0648480135d0128754853f988/images/DDOS%20example.png"
 alt="similar to above image but more user computers have been overtaken and are flooding the system with requests" width="300"/>
+
+This is also called a botnet.
 __________________
 Sources: 
 1. [What Is Security Architecture?, Palo Alto Networks](https://www.paloaltonetworks.com/cyberpedia/what-is-security-architecture)
