@@ -142,12 +142,17 @@ The unauthorised user is flooding the system with transaction requests, faster t
 
 A more complex example of Denial of Service, a **distributed denial of service** attack: <br>
 
-The threat actor has now also taken over unsuspecting user's computers. The threat actor can send one command to get these systems to also flood the web server with traffic. This will crash the web server even faster due to this force multiplier.
+The attacker has now also taken over unsuspecting user's computers. The threat actor can send one command to get these systems to also flood the web server with traffic. This will crash the web server even faster due to this force multiplier.
 
 <img src="https://github.com/thequietlife/CTI-101/blob/a851ae083a42aab0648480135d0128754853f988/images/DDOS%20example.png"
 alt="similar to above image but more user computers have been overtaken and are flooding the system with requests" width="300"/>
 
 This is also called a botnet.
+
+<img src="https://github.com/thequietlife/CTI-101/blob/08e250ed9a51143ec4d58e8f543a3534ac4e67be/images/SYN%20Flood%20.png"
+alt="shows attacker sending SYN packets but doesn't complete the handshake" width="300"/>
+
+The attacker is sending SYN packets but doesn't complete the handshake. This leaves the server with half-open connections and ties up the server's resources.
 __________________
 Sources: 
 1. [What Is Security Architecture?, Palo Alto Networks](https://www.paloaltonetworks.com/cyberpedia/what-is-security-architecture)
