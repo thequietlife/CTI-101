@@ -152,7 +152,17 @@ This is also called a botnet.
 <img src="https://github.com/thequietlife/CTI-101/blob/08e250ed9a51143ec4d58e8f543a3534ac4e67be/images/SYN%20Flood%20.png"
 alt="shows attacker sending SYN packets but doesn't complete the handshake" width="300"/>
 
+Another example of a Denial of Service, SYN flood attack
 The attacker is sending SYN packets but doesn't complete the handshake. This leaves the server with half-open connections and ties up the server's resources.
+
+We need to guard against these attacks, make sure that our systems are available to our authorised users when they need it.
+
+#### CIA Triad in summary:
+
+IT project checklist: <br>
+✅ Have I met the confidentiality requirements of the project? Is the sensitive data only available to authorised users? <br>
+✅ Is there integrity checking? If someone modifies or tampers with the system will I be made aware of it? <br>
+✅ Do I have the system available all the time it is supposed to be available? <br>
 __________________
 Sources: 
 1. [What Is Security Architecture?, Palo Alto Networks](https://www.paloaltonetworks.com/cyberpedia/what-is-security-architecture)
