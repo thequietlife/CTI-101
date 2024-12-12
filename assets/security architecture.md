@@ -186,10 +186,19 @@ IT project checklist: <br>
 <img src="https://github.com/thequietlife/CTI-101/blob/fe4019ecf881cf3064f70b3b08a6ec41a70cc8cf/images/Roles.png"
 alt="shows flow of cybersecurity architecture from whiteboard to rollout by engineers" width="400"/>
 
-The cybersecurity architect thinks about how will the system fail and what do I need to put in place to guard against that?
+The security architect thinks about how will the system fail and what do I need to put in place to guard against that?
 
-Tools of the trade
+🔧 Cybersecurity Architect Tools
+* Business context diagram
+    * shows relationships between different entities in the system; high level
+* System context diagram
+    * shows how external entities interact with an internal system 
+* Architecture overview diagram
+    * drills down a further layer; shows all the elements that are part of a system
 
+A security architect will look at each layer, they need to understand how the system works and how the system might fail.
+
+**Framework**
 __________________
 Sources: 
 1. [What Is Security Architecture?, Palo Alto Networks](https://www.paloaltonetworks.com/cyberpedia/what-is-security-architecture)
