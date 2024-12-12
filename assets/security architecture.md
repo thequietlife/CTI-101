@@ -11,6 +11,9 @@
 **CIA Triad**
 * A checklist for IT projects
 
+**Framworks**
+*  NIST Cybersecurity Framework (CSF)
+  * A comprehensive checklist to ensure you have covered everything  
 _______________
 
 ### What is Security Architecture?
@@ -198,7 +201,30 @@ The security architect thinks about how will the system fail and what do I need 
 
 A security architect will look at each layer, they need to understand how the system works and how the system might fail.
 
-**Framework**
+**Frameworks**
+
+The [NIST Cybersecurity Framework](https://www.nist.gov/cyberframework)
+
+<img src="https://github.com/thequietlife/CTI-101/blob/33920bcf5ffeecfb285e33b1da2c280f9e655b02/images/NIST%20CSF.png"
+alt="shows the functions of the NIST Cybersecurity Framework (CSF)" width="200"/>
+
+📖 A set of guidelines:
+✅ Identify: the organisation's cybersecurity risks are understood; e.g. what are the critical business processes and assets? 
+✅ Protect: Safeguards to manage the identified risks are in place; e.g. manage access, levels of encryption
+✅ Detect: Possible attacks and compromises are found and analysed; e.g. monitor networks, systems to find incidences
+✅ Respond: Steps to take when an incident occurs; e.g. ensure everyone is aware of their responsibilities with the incident response plan
+✅ Recover: Assets and operations are restored; e.g. execute recovery plan, communication with stakeholders
+
+In reality quite often a security architect is called in towards the end of a project. The best practice would be to bring in the security architect at the **risk analysis** stage of the lifecycle.
+
+**Cybersecurity Domains** that are the focus of security architects
+
+* 
+* 
+*  
+
+
+
 __________________
 Sources: 
 1. [What Is Security Architecture?, Palo Alto Networks](https://www.paloaltonetworks.com/cyberpedia/what-is-security-architecture)
