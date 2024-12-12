@@ -1,5 +1,18 @@
 ## 📐 Security Architecture
 
+### Summary
+**Essential Security Principles**
+*  Defence in Depth
+*  Least Privilege
+*  Separation of Duties
+*  Secure by Design
+*  K.I.S.S  
+
+**CIA Triad**
+* A checklist for IT projects
+
+_______________
+
 ### What is Security Architecture?
 It is the strategic design of systems to protect, information and ensure its integrity, confidentiality and availability against threats
 
@@ -163,6 +176,12 @@ IT project checklist: <br>
 ✅ Have I met the confidentiality requirements of the project? Is the sensitive data only available to authorised users? <br>
 ✅ Is there integrity checking? If someone modifies or tampers with the system will I be made aware of it? <br>
 ✅ Do I have the system available all the time it is supposed to be available? <br>
+
+#### Cybersecurity Architect
+* Role
+* Mindset
+* Tools
+* Domains
 __________________
 Sources: 
 1. [What Is Security Architecture?, Palo Alto Networks](https://www.paloaltonetworks.com/cyberpedia/what-is-security-architecture)
