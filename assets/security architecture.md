@@ -209,22 +209,26 @@ The [NIST Cybersecurity Framework](https://www.nist.gov/cyberframework)
 alt="shows the functions of the NIST Cybersecurity Framework (CSF)" width="200"/>
 
 📖 A set of guidelines:
-✅ Identify: the organisation's cybersecurity risks are understood; e.g. what are the critical business processes and assets? 
-✅ Protect: Safeguards to manage the identified risks are in place; e.g. manage access, levels of encryption
-✅ Detect: Possible attacks and compromises are found and analysed; e.g. monitor networks, systems to find incidences
-✅ Respond: Steps to take when an incident occurs; e.g. ensure everyone is aware of their responsibilities with the incident response plan
-✅ Recover: Assets and operations are restored; e.g. execute recovery plan, communication with stakeholders
+✅ Identify: the organisation's cybersecurity risks are understood; e.g. what are the critical business processes and assets? <br>
+✅ Protect: Safeguards to manage the identified risks are in place; e.g. manage access, levels of encryption <br>
+✅ Detect: Possible attacks and compromises are found and analysed; e.g. monitor networks, systems to find incidences <br>
+✅ Respond: Steps to take when an incident occurs; e.g. ensure everyone is aware of their responsibilities with the incident response plan <br>
+✅ Recover: Assets and operations are restored; e.g. execute recovery plan, communication with stakeholders <br>
 
 In reality quite often a security architect is called in towards the end of a project. The best practice would be to bring in the security architect at the **risk analysis** stage of the lifecycle.
 
 **Cybersecurity Domains** that are the focus of security architects
 
-* 
-* 
-*  
+<img src="https://github.com/thequietlife/CTI-101/blob/411252b1d8799927c906a4cd6935a58b12300efa/images/security%20domains.png"
+alt="shows the seven domain that security architects focus on" width="400"/>
 
-
-
+1. Identity and Access Management (IAM)
+2. Endpoint
+3. Network
+4. Servers
+5. Data
+6. Monitor
+7. Response
 __________________
 Sources: 
 1. [What Is Security Architecture?, Palo Alto Networks](https://www.paloaltonetworks.com/cyberpedia/what-is-security-architecture)
