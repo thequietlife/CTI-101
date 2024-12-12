@@ -182,6 +182,14 @@ IT project checklist: <br>
 * Mindset
 * Tools
 * Domains
+
+<img src="https://github.com/thequietlife/CTI-101/blob/fe4019ecf881cf3064f70b3b08a6ec41a70cc8cf/images/Roles.png"
+alt="shows flow of cybersecurity architecture from whiteboard to rollout by engineers" width="400"/>
+
+The cybersecurity architect thinks about how will the system fail and what do I need to put in place to guard against that?
+
+Tools of the trade
+
 __________________
 Sources: 
 1. [What Is Security Architecture?, Palo Alto Networks](https://www.paloaltonetworks.com/cyberpedia/what-is-security-architecture)
