@@ -245,6 +245,19 @@ Now identity is regarded as the new perimeter.
 **Authentication** - we determine who you are
 **Authorisation** - we assess if you are allowed to do this or not
 **Audit** - review if we did the previous 3 A's correctly
+
+
+Best practice would be to have one directory:
+
+<img src="https://github.com/thequietlife/CTI-101/blob/f8070a669e6d2a5d1c13152ed87e8d25a9531216/images/one%20directory.png"
+alt="shows each system like email, HR, CRM being funnelled into one big directory" width="400" />
+
+In practice it is more likely that companies would have a directory for each system:
+
+<img src="https://github.com/thequietlife/CTI-101/blob/f8070a669e6d2a5d1c13152ed87e8d25a9531216/images/separate%20directories.png"
+alt="shows each system like email, HR, CRM having separate directories" width="400"/>
+
+
 ________
 Sources: 
 1. [What Is Security Architecture?, Palo Alto Networks](https://www.paloaltonetworks.com/cyberpedia/what-is-security-architecture)
