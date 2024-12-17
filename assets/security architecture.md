@@ -229,7 +229,23 @@ alt="shows the seven domain that security architects focus on" width="400"/>
 5. Data
 6. Monitor
 7. Response
-__________________
+
+**Identity and Access Management (IAM)**
+
+Previously the network was regarded as the perimeter. Firewalls and endpoint protection do not provide enough security.
+Now identity is regarded as the new perimeter.
+
+**4 A's**
+✅ Administration
+✅ Authentication
+✅ Authorisation
+✅ Audit
+
+**Administration** - we try to figure out what access rights you have and create those
+**Authentication** - we determine who you are
+**Authorisation** - we assess if you are allowed to do this or not
+**Audit** - review if we did the previous 3 A's correctly
+________
 Sources: 
 1. [What Is Security Architecture?, Palo Alto Networks](https://www.paloaltonetworks.com/cyberpedia/what-is-security-architecture)
 2. [Cybersecurity Architecture, Jeff Crume IBM Technology](https://www.youtube.com/watch?v=jq_LZ1RFPfU)
