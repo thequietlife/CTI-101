@@ -258,12 +258,24 @@ alt="shows each system like email, HR, CRM having separate directories" width="7
 
 **IAM Architecture**
 
-1️⃣ Have a place to store users
+1️⃣ Have a place to store users <br>
 2️⃣ A way to synchronise users information so that we have an ecosystem of integrated directories
 
+The foundation of an IAM architecture: 
 <img src="https://github.com/thequietlife/CTI-101/blob/a9eaea6633361a04b3e46d5d35cfb6bb91743d33/images/IAM%20base.png"
 alt="shows the base of IAM architecture - one layer is store, above it is sync" width="300"/>
 
+**Administration**
+**Identity Management** This is where we create, delete accounts accounts and change privilege levels. Also referred to as **Identity Governance**.
+
+**Provisioning process** - a system that effectively creates access rights: 
+New starter > request access > access based on role > approval needed > Y/N access
+
+**De-provisioning process** - with terminated employees we need a system that is even more efficient at removing those access rights, because that is where the security exposure exists.  
+
+Terminated employee > HR system flags this person is no longer employed > that sends a request into our Identity Governance system - which will know all of the accounts that this user has > admin sends the de-provision request > no approval is needed it will just delete the access rights for that user.
+
+We have a single source of truth. We know exactly what accounts the user has. Otherwise you would need to audit each system to check where the user has access rights and how to remove them all.
 ________
 Sources: 
 1. [What Is Security Architecture?, Palo Alto Networks](https://www.paloaltonetworks.com/cyberpedia/what-is-security-architecture)
