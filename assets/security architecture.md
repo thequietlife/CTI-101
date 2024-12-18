@@ -236,10 +236,10 @@ Previously the network was regarded as the perimeter. Firewalls and endpoint pro
 Now identity is regarded as the new perimeter.
 
 **4 A's**
-✅ Administration
-✅ Authentication
-✅ Authorisation
-✅ Audit
+✅ Administration <br>
+✅ Authentication <br>
+✅ Authorisation <br>
+✅ Audit <br>
 
 **Administration** - we try to figure out what access rights you have and create those
 **Authentication** - we determine who you are
@@ -250,13 +250,17 @@ Now identity is regarded as the new perimeter.
 Best practice would be to have one directory:
 
 <img src="https://github.com/thequietlife/CTI-101/blob/f8070a669e6d2a5d1c13152ed87e8d25a9531216/images/one%20directory.png"
-alt="shows each system like email, HR, CRM being funnelled into one big directory" width="400" />
+alt="shows each system like email, HR, CRM being funnelled into one big directory" width="500" />
 
 In practice it is more likely that companies would have a directory for each system:
 
 <img src="https://github.com/thequietlife/CTI-101/blob/f8070a669e6d2a5d1c13152ed87e8d25a9531216/images/separate%20directories.png"
-alt="shows each system like email, HR, CRM having separate directories" width="400"/>
+alt="shows each system like email, HR, CRM having separate directories" width="500"/>
 
+**IAM Architecture**
+
+<img src="https://github.com/thequietlife/CTI-101/blob/a9eaea6633361a04b3e46d5d35cfb6bb91743d33/images/IAM%20base.png"
+alt="shows the base of IAM architecture - one layer is store, above it is sync" width="400"/>
 
 ________
 Sources: 
