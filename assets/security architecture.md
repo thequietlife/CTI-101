@@ -246,21 +246,23 @@ Now identity is regarded as the new perimeter.
 **Authorisation** - we assess if you are allowed to do this or not
 **Audit** - review if we did the previous 3 A's correctly
 
-
 Best practice would be to have one directory:
 
 <img src="https://github.com/thequietlife/CTI-101/blob/f8070a669e6d2a5d1c13152ed87e8d25a9531216/images/one%20directory.png"
-alt="shows each system like email, HR, CRM being funnelled into one big directory" width="500" />
+alt="shows each system like email, HR, CRM being funnelled into one big directory" width="800" />
 
 In practice it is more likely that companies would have a directory for each system:
 
 <img src="https://github.com/thequietlife/CTI-101/blob/f8070a669e6d2a5d1c13152ed87e8d25a9531216/images/separate%20directories.png"
-alt="shows each system like email, HR, CRM having separate directories" width="500"/>
+alt="shows each system like email, HR, CRM having separate directories" width="700"/>
 
 **IAM Architecture**
 
+1️⃣ Have a place to store users
+2️⃣ A way to synchronise users information so that we have an ecosystem of integrated directories
+
 <img src="https://github.com/thequietlife/CTI-101/blob/a9eaea6633361a04b3e46d5d35cfb6bb91743d33/images/IAM%20base.png"
-alt="shows the base of IAM architecture - one layer is store, above it is sync" width="400"/>
+alt="shows the base of IAM architecture - one layer is store, above it is sync" width="300"/>
 
 ________
 Sources: 
