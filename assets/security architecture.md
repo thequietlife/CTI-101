@@ -11,15 +11,15 @@
 **CIA Triad**
 * A checklist for IT projects
 
-**Framworks**
+**Frameworks**
 *  NIST Cybersecurity Framework (CSF)
   * A comprehensive checklist to ensure you have covered everything  
 _______________
 
 ### What is Security Architecture?
-It is the strategic design of systems to protect, information and ensure its integrity, confidentiality and availability against threats
+It is the strategic design of systems to protect, information and ensure its integrity, confidentiality and availability against threats.
 
-### Main Objectives of Security Architecture?
+### Main Objectives of Security Architecture
 To reduce the risk of security breaches and protect organisations from threats. The aim is to avoid a single point of control. For example, one person can not approve an invoice and process it for payment.
 
 ### Five Security Principles to Follow (and One to Avoid)
@@ -217,7 +217,7 @@ alt="shows the functions of the NIST Cybersecurity Framework (CSF)" width="200"/
 
 In reality quite often a security architect is called in towards the end of a project. The best practice would be to bring in the security architect at the **risk analysis** stage of the lifecycle.
 
-**Cybersecurity Domains** that are the focus of security architects
+### **Cybersecurity Domains** that are the focus of security architects
 
 <img src="https://github.com/thequietlife/CTI-101/blob/411252b1d8799927c906a4cd6935a58b12300efa/images/security%20domains.png"
 alt="shows the seven domain that security architects focus on" width="400"/>
@@ -230,7 +230,7 @@ alt="shows the seven domain that security architects focus on" width="400"/>
 6. Monitor
 7. Response
 
-**Identity and Access Management (IAM)**
+### **Identity and Access Management (IAM)**
 
 Previously the network was regarded as the perimeter. Firewalls and endpoint protection do not provide enough security.
 Now identity is regarded as the new perimeter.
@@ -265,6 +265,7 @@ The foundation of an IAM architecture:
 <img src="https://github.com/thequietlife/CTI-101/blob/a9eaea6633361a04b3e46d5d35cfb6bb91743d33/images/IAM%20base.png"
 alt="shows the base of IAM architecture - one layer is store, above it is sync" width="300"/>
 
+✅ ### Administration <br>
 **Administration**
 **Identity Management** This is where we create, delete accounts accounts and change privilege levels. Also referred to as **Identity Governance**.
 
@@ -276,6 +277,19 @@ New starter > request access > access based on role > approval needed > Y/N acce
 Terminated employee > HR system flags this person is no longer employed > that sends a request into our Identity Governance system - which will know all of the accounts that this user has > admin sends the de-provision request > no approval is needed it will just delete the access rights for that user.
 
 We have a single source of truth. We know exactly what accounts the user has. Otherwise you would need to audit each system to check where the user has access rights and how to remove them all.
+
+✅ Authentication <br>
+The aim of authentication is to answer the question, "Who are you?" <br>
+We determine who you are based upon:
+* something you know e.g. password or a PIN (referred to as knowledge-based authentication) 
+* something you have e.g. 📱 SMS or push notification on your mobile phone
+* something you are e.g. biometric - facial recognition or a fingerprint scan
+
+The best authentication systems don't rely on any single one of this factors. Multi-factor authentication is used instead. Using something you have and something you are is two-factor authentication (2FA). <br>
+The trend is moving more towards **passwordless authentication** and using multi factors is a way to mitigate the risk of not having any password at all. <br>
+Another option is using **Single sign-on**.
+
+
 ________
 Sources: 
 1. [What Is Security Architecture?, Palo Alto Networks](https://www.paloaltonetworks.com/cyberpedia/what-is-security-architecture)
