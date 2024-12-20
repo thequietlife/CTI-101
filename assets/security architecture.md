@@ -235,7 +235,7 @@ alt="shows the seven domain that security architects focus on" width="400"/>
 Previously the network was regarded as the perimeter. Firewalls and endpoint protection do not provide enough security.
 Now identity is regarded as the new perimeter.
 
-**4 A's**
+**4 A's** <br>
 ✅ Administration <br>
 ✅ Authentication <br>
 ✅ Authorisation <br>
@@ -265,8 +265,7 @@ The foundation of an IAM architecture:
 <img src="https://github.com/thequietlife/CTI-101/blob/a9eaea6633361a04b3e46d5d35cfb6bb91743d33/images/IAM%20base.png"
 alt="shows the base of IAM architecture - one layer is store, above it is sync" width="300"/>
 
-✅ ### Administration <br>
-**Administration**
+✅ Administration <br>
 **Identity Management** This is where we create, delete accounts accounts and change privilege levels. Also referred to as **Identity Governance**.
 
 **Provisioning process** - a system that effectively creates access rights: 
@@ -285,9 +284,32 @@ We determine who you are based upon:
 * something you have e.g. 📱 SMS or push notification on your mobile phone
 * something you are e.g. biometric - facial recognition or a fingerprint scan
 
-The best authentication systems don't rely on any single one of this factors. Multi-factor authentication is used instead. Using something you have and something you are is two-factor authentication (2FA). <br>
+The best authentication systems don't rely on any single one of this factors. Multi-factor authentication (MFA) is used instead. Using something you have and something you are is two-factor authentication (2FA). <br>
+
 The trend is moving more towards **passwordless authentication** and using multi factors is a way to mitigate the risk of not having any password at all. <br>
-Another option is using **Single sign-on**.
+
+Another option is using **Single sign-on (SSO)**. The user logs into a SSO and proves who they are once (with MFA as well). The SSO system then provides the credentials for that user. The user is happier with this method. We have a unique situation where the security is better and the user is happier at the same time. 
+
+✅ Authorisation <br>
+The aim of authorisation is to answer the questions, "What are you supposed to do? Are you permitted to do that?" <br>
+The authorisation system might use **Risk-Based Authorisation** or **Adaptive Access**. Which checks for certain criteria:
+* your location e.g. access will be denied if you are from an unknown location. This is the risk assessment part of the authorisation
+* request type e.g. checking your account balance is low risk but transferring funds might have more restrictions put on that process
+* request amount e.g. you can transfer $1K but higher amounts will have extra controls
+* frequence e.g. an alert may get triggered of you try to do 30 of these transactions in a day when you normally do it once a month
+
+Authorisation is a complex algorithm that goes into all of this, and that's how we consider, based upon who you are, what you're permitted to do, are you permitted to do this or not?
+
+A special case of access management called privileged access management, privileged user management or privilege identity management. These are types of users that have very highly privileged access: <br>
+⏹️ root level access to a server
+⏹️ system administrator (sysadmin)
+⏹️ database administrator
+⏹️ network administrator
+
+🔑 🏰 They can control everything.
+
+✅ Audit <br>
+
 
 
 ________
