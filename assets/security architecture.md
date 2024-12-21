@@ -307,9 +307,49 @@ A special case of access management called privileged access management, privile
 ⏹️ network administrator <br>
 
 🔑 🏰 They can control everything. They can steal all of the data or they can keep all the data safe. They can make the network secure, of they could leave it wide open. We are giving them a lot of trust. We need to put in extra verification to make sure they are doing their jobs as expected. 
-<br> 🤐 But there is a dirty little secret of IT. In a lot of organisations these super sensitive accounts, do the exact of what we tell our end users to do, to have separate unique passwords and change them all the time.        
+<br> 🤐 But there is a dirty little secret of IT. In a lot of organisations these super sensitive accounts, do the exact of what we tell our end users to do, to have separate unique passwords and change them all the time. They tend to use 'root' and the same password for each of the systems, sometimes 300 - 3000 different systems. <br> 
+But what happens when one of the sysadmin or network administrator leaves? Does the account name and password change? Generally not. <br>
+What happens when one of the sysadmin or network administrator's makes a mistake. If they are all using the same log-on details how do you know who made the mistake? <br>
 
+**Best Practice**
+Put in a Privileged Access Management (PAM) system. A PAM system will require that these users with highly privileged access not log directly into the system, they log into the PAM system. <br>
+The PAM requires these users to:
+* use MFA
+* have their own unique password. They checkout the system make the needed changes and then check the system back in. The PAM system changes that password every time someone checks out that particular account. <br>
+
+Advantages of the PAM:
+* it provides a record of who did what
+* session recording - recording each keystroke.
+
+This is helpful for two reasons. It provides an audit trail and also the sysadmin or network administrators are less likely to do things they shouldn't if they know their activity is being monitored.
+  
 ✅ Audit <br>
+
+This step is to make sure the previous three steps, **Administration**, **Authentication** and **Authorisation**        have been carried out correctly. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
