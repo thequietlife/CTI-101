@@ -301,12 +301,13 @@ The authorisation system might use **Risk-Based Authorisation** or **Adaptive Ac
 Authorisation is a complex algorithm that goes into all of this, and that's how we consider, based upon who you are, what you're permitted to do, are you permitted to do this or not?
 
 A special case of access management called privileged access management, privileged user management or privilege identity management. These are types of users that have very highly privileged access: <br>
-⏹️ root level access to a server
-⏹️ system administrator (sysadmin)
-⏹️ database administrator
-⏹️ network administrator
+⏹️ root level access to a server <br>
+⏹️ system administrator (sysadmin) <br>
+⏹️ database administrator <br>
+⏹️ network administrator <br>
 
-🔑 🏰 They can control everything.
+🔑 🏰 They can control everything. They can steal all of the data or they can keep all the data safe. They can make the network secure, of they could leave it wide open. We are giving them a lot of trust. We need to put in extra verification to make sure they are doing their jobs as expected. 
+<br> 🤐 But there is a dirty little secret of IT. In a lot of organisations these super sensitive accounts, do the exact of what we tell our end users to do, to have separate unique passwords and change them all the time.        
 
 ✅ Audit <br>
 
