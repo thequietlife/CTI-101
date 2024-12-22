@@ -7,12 +7,15 @@ ___________________________
 ## Table of Contents
 
 ### Basics
-  - 💻 [How Computers Work](https://github.com/thequietlife/CTI-101/blob/ca3cadef9b37ead345df7ba0cc789fd69224e3a1/assets/how%20computers%20work.md)
-  - 🍰 [Networking Fundamentals](https://github.com/thequietlife/CTI-101/blob/ca3cadef9b37ead345df7ba0cc789fd69224e3a1/assets/networking%20fundamentals.md)  
-  - 📐 [Security Architecture](https://github.com/thequietlife/CTI-101/blob/4c5d6da697606c922faa7fddba38d931e909b5ae/assets/security%20architecture.md) 
-  - Encryption Standards
-  - Security Concepts
-  - Common Attack Types
+  * 💻 [How Computers Work](https://github.com/thequietlife/CTI-101/blob/ca3cadef9b37ead345df7ba0cc789fd69224e3a1/assets/how%20computers%20work.md)
+      - Computer Software
+      - Computer Hardware
+      - Data & Storage
+  * 🍰 [Networking Fundamentals](https://github.com/thequietlife/CTI-101/blob/ca3cadef9b37ead345df7ba0cc789fd69224e3a1/assets/networking%20fundamentals.md)  
+  * 📐 [Security Architecture](https://github.com/thequietlife/CTI-101/blob/4c5d6da697606c922faa7fddba38d931e909b5ae/assets/security%20architecture.md) 
+  * Encryption Standards
+  * Security Concepts
+  * Common Attack Types
   
 ### Next:
 * Writing with Clarity
