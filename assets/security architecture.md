@@ -341,8 +341,13 @@ That wraps up the **4 A's**: <br>
 ✅ Authorisation <br>
 ✅ Audit <br>
 
-By covering the 4 A's we have a fairly complete architecture. All of the parts working together. <br>
-If we are wanting an Enterprise Identity and Access Management, we might want to also add.
+By covering the 4 A's we have a fairly complete architecture. All of the parts working together. 
+
+<img src="https://github.com/thequietlife/CTI-101/blob/a736cc5483ecd7dfc83fc1e944db760a8efaecaa/images/enterprise%20IAM.png"
+alt="Shows base IAM levels store, sync. Middle layer: admin, roles, access, PAM. And layer on top of federation." width="200"/>  
+
+If we are wanting **Enterprise Identity and Access Management**, we might want to also add Federation Capability. If my organisation and employees need to log on to a SaaS system. We will need to extend the above into other identity domains. This is called a **Federation Capability**. It allows an employee to log in to my organisation's system as my identity provider and then be able to access other systems as service providers. This is also referred to as **Workforce Identity Management**. <br>
+One other aspect to consider is **Consumer Identity and Access Management (CIAM)**. CIAM looks at some of these similiar capabilities with the ability to focus more on the areas that need more security like protecting privacy.
 
 
 
