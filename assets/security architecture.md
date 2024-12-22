@@ -327,15 +327,22 @@ This is helpful for two reasons. It provides an audit trail and also the sysadmi
 
 This step is to make sure the previous three steps, **Administration**, **Authentication** and **Authorisation**        have been carried out correctly. 
 
+<img src="https://github.com/thequietlife/CTI-101/blob/0da0d0b4cb30d01cdb4c763cf9001ec8e043de6f/images/UEBA.png"
+alt="shows a regular user checking into the system making some changes and exiting. also shows someone with malicious intent creating an account, copying a database and then deleting it." width="200"/>
 
+The first user logs into the system, makes some changes and logs backout. All of these actions are being logged so they can be reviewed later if needed. <br>
+Another user logs in with the stolen the privileged account user's password. They have malicious intent. They create a new account, copy a database and then delete the account. All these actions were done within a small span of time and that could indicate a problem. <br>
 
-User Behaviour Analytics (UBA) or User Entity Behaviour Capability (UEBA) 
+So we need a system that audits activity, looks at all the log records and looks at different activities. It has policies and uses mackine learning to pick up some of these patterns. Enter **User Behaviour Analytics (UBA)** or **User Entity Behaviour Capability (UEBA)**. 
 
+That wraps up the **4 A's**: <br>
+✅ Administration <br>
+✅ Authentication <br>
+✅ Authorisation <br>
+✅ Audit <br>
 
-
-
-
-
+By covering the 4 A's we have a fairly complete architecture. All of the parts working together. <br>
+If we are wanting an Enterprise Identity and Access Management, we might want to also add.
 
 
 
