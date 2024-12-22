@@ -10,9 +10,21 @@ ___________________________
   * 💻 [How Computers Work](https://github.com/thequietlife/CTI-101/blob/ca3cadef9b37ead345df7ba0cc789fd69224e3a1/assets/how%20computers%20work.md)
       - Computer Software
       - Computer Hardware
-      - Data & Storage
-  * 🍰 [Networking Fundamentals](https://github.com/thequietlife/CTI-101/blob/ca3cadef9b37ead345df7ba0cc789fd69224e3a1/assets/networking%20fundamentals.md)  
-  * 📐 [Security Architecture](https://github.com/thequietlife/CTI-101/blob/4c5d6da697606c922faa7fddba38d931e909b5ae/assets/security%20architecture.md) 
+      - Data + Storage
+  * 🍰 [Networking Fundamentals](https://github.com/thequietlife/CTI-101/blob/ca3cadef9b37ead345df7ba0cc789fd69224e3a1/assets/networking%20fundamentals.md)
+      - The Internet
+      - Bit Sending
+      - IP Addresses + DNS
+      - Packets, Routing + Reliability
+      - TCP
+      - The OSI Model  
+  * 📐 [Security Architecture](https://github.com/thequietlife/CTI-101/blob/4c5d6da697606c922faa7fddba38d931e909b5ae/assets/security%20architecture.md)
+      - Essential Security Principles
+      - CIA Triad
+      - Security Architect Role
+      - Security Architect Tools
+      - NIST Cybersecurity Framework
+      - Cybersecurity Domains (Identity and Access Management, Endpoint, Network, Servers, Data, Monitor, Response)      
   * Encryption Standards
   * Security Concepts
   * Common Attack Types
