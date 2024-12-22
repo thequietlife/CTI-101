@@ -18,7 +18,7 @@ ___________________________
       - Packets, Routing + Reliability
       - TCP
       - The OSI Model  
-  * 📐 [Security Architecture](https://github.com/thequietlife/CTI-101/blob/4c5d6da697606c922faa7fddba38d931e909b5ae/assets/security%20architecture.md)
+  * 📐 [Security Architecture](https://github.com/thequietlife/CTI-101/blob/39ed5c188ba7da7006cfd830b4163d45a5996321/assets/security%20architecture.md)
       - Essential Security Principles
       - CIA Triad
       - Security Architect Role
