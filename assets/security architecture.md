@@ -208,7 +208,7 @@ The [NIST Cybersecurity Framework](https://www.nist.gov/cyberframework)
 <img src="https://github.com/thequietlife/CTI-101/blob/33920bcf5ffeecfb285e33b1da2c280f9e655b02/images/NIST%20CSF.png"
 alt="shows the functions of the NIST Cybersecurity Framework (CSF)" width="200"/>
 
-📖 A set of guidelines:
+📖 A set of guidelines: <br>
 ✅ Identify: the organisation's cybersecurity risks are understood; e.g. what are the critical business processes and assets? <br>
 ✅ Protect: Safeguards to manage the identified risks are in place; e.g. manage access, levels of encryption <br>
 ✅ Detect: Possible attacks and compromises are found and analysed; e.g. monitor networks, systems to find incidences <br>
@@ -263,7 +263,7 @@ alt="shows each system like email, HR, CRM having separate directories" width="7
 
 The foundation of an IAM architecture: 
 <img src="https://github.com/thequietlife/CTI-101/blob/a9eaea6633361a04b3e46d5d35cfb6bb91743d33/images/IAM%20base.png"
-alt="shows the base of IAM architecture - one layer is store, above it is sync" width="300"/>
+alt="shows the base of IAM architecture - one layer is store, above it is sync" width="400"/>
 
 ✅ Administration <br>
 **Identity Management** This is where we create, delete accounts accounts and change privilege levels. Also referred to as **Identity Governance**.
@@ -349,7 +349,11 @@ alt="Shows base IAM levels store, sync. Middle layer: admin, roles, access, PAM.
 If we are wanting **Enterprise Identity and Access Management**, we might want to also add Federation Capability. If my organisation and employees need to log on to a SaaS system. We will need to extend the above into other identity domains. This is called a **Federation Capability**. It allows an employee to log in to my organisation's system as my identity provider and then be able to access other systems as service providers. This is also referred to as **Workforce Identity Management**. <br>
 One other aspect to consider is **Consumer Identity and Access Management (CIAM)**. CIAM looks at some of these similiar capabilities with the ability to focus more on the areas that need more security like protecting privacy.
 
+### **Endpoint**
 
+What is Endpoint Security? It's about have a trusted platform. From a hardware perspective it involves different computing platforms. 
+
+We need to look at every device in holistic terms e.g. see the server as a computing platform, an software engineer's desktop system, laptop system, mobile device.
 
 
 
