@@ -24,7 +24,14 @@ ___________________________
       - Security Architect Role
       - Security Architect Tools
       - NIST Cybersecurity Framework
-      - Cybersecurity Domains (Identity and Access Management, Endpoint, Network, Servers, Data, Monitor, Response)      
+      - Cybersecurity Domains (Identity and Access Management, Endpoints, Networks, Servers, Data, Monitor, Response)
+      - Identity and Access Management
+      - Endpoints (WIP)
+      - Networks (WIP)
+      - Application Security (WIP)
+      - Data Security (WIP)
+      - Detection (WIP)
+      - Response (WIP)
   * Encryption Standards
   * Security Concepts
   * Common Attack Types
