@@ -391,7 +391,7 @@ alt="shows typical way controls are managed. one admin looks after server, one a
 
 This is a common setup for organisations, multiple administrators managing different platforms. One administrator looks after servers, one administrator for laptops and desktops and another admin for mobiles. And quite possibly nothing in place for IoT devices. On the plus side the admins are domain experts in those particular areas. But this is not the most efficient or simplest approach.
 
-A better approach would be to implement a single security policy across all of the assets with oe console.
+A better approach would be to implement a single security policy across all of the assets with one console.
 
 
 
