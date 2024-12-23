@@ -391,7 +391,7 @@ alt="shows typical way controls are managed. one admin looks after server, one a
 
 This is a common setup for organisations, multiple administrators managing different platforms. One administrator looks after servers, one administrator for laptops and desktops and another admin for mobiles. And quite possibly nothing in place for IoT devices. On the plus side the admins are domain experts in those particular areas. But this is not the most efficient or simplest approach.
 
-**Best Practice - Endpoint Security Management System**
+**Best Practice - Endpoint Security Management System** <br>
 A better approach would be to implement a single security policy across all of the different platforms with one console.
 
 <img src="https://github.com/thequietlife/CTI-101/blob/4710a29a65a7e683ca3fc34701413988ba0a9bde/images/controls%20-%20best.png"
@@ -399,7 +399,11 @@ alt="shows best practice of having a single security policy and managing all the
 
 This approach allows the admin to push down policies and patches across the entire infrastructure. Also the platforms can push up information and alerts into the one console. This reduces the complexity, increases visibility and is much more efficient.
 
+** Types of Controls (Policies) ** 
 
+* Inventory - carry out an audit of all the different systems, find out hardware and software levels of existing devices and maybe discover some new ones
+* Security Policy for the organisation - dictates what types of hardware and software is permitted on the network
+* 
 
 
 
