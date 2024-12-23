@@ -353,7 +353,7 @@ One other aspect to consider is **Consumer Identity and Access Management (CIAM)
 
 **What** is Endpoint Security? It's about have a trusted platform. 
 
-### Hardware 
+#### Hardware 
 From a hardware perspective it involves different computing platforms. 
 
 <img src="https://github.com/thequietlife/CTI-101/blob/e58349a23eb9cb8dc1d0f7a12f74a86ca9cac437/images/endpoints.png"
@@ -368,7 +368,7 @@ alt="same as previous image but shows that all devices open up the attack surfac
 
 Each of these devices is contributing to our **Attack Surface**. Each device has different vulnerabilities. The expanding attack surface is creating a lot of challenges from a hardware perspective. <br>
 
-### Software
+#### Software
 
 We need to also take into account the software, different operating systems, that is on these devices.
 
@@ -383,6 +383,8 @@ We need to also take into account the software, different operating systems, tha
 Each of these brings more complexity, vulnerabilities and expands the attack surface. And this is why we need controls.
 
 **Controls**
+
+Security controls we need to put on endpoints.
 
 
 
