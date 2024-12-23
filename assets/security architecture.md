@@ -351,16 +351,38 @@ One other aspect to consider is **Consumer Identity and Access Management (CIAM)
 
 ### **Endpoint**
 
-What is Endpoint Security? It's about have a trusted platform. From a hardware perspective it involves different computing platforms. 
+**What** is Endpoint Security? It's about have a trusted platform. 
+
+### Hardware 
+From a hardware perspective it involves different computing platforms. 
 
 <img src="https://github.com/thequietlife/CTI-101/blob/e58349a23eb9cb8dc1d0f7a12f74a86ca9cac437/images/endpoints.png"
 alt="shows a range of hardware including server, desktop computer, laptop, mobile, IOT device - Amazon echo" width="300"/>
 
-We need to look at every device in holistic terms e.g. see the server as a computing platform, an software engineer's desktop system, laptop system, mobile device. These are the hardware platforms that are on our networks. We are using our personal devices to enter the corporate network. The distinction between personal devices and business devices does not exist anymore. This is all part of the scope we need to consider as security architects. Hence the need to use a holistic view and look at all of the endpoints that are out there. <br>
-Each of these devices is contributing to our **Attack Surface**. Each device has different vulnerabilities.
+We need to look at every device in holistic terms e.g. see the server as a computing platform, an software engineer's desktop system, laptop system, mobile device. These are the hardware platforms that are on our networks. We are using our personal devices to enter the corporate network. The distinction between personal devices and business devices does not exist anymore. 
 
+This is all part of the scope security architects need to consider. Hence the need to use a holistic view and look at all of the endpoints that are out there. <br>
 
+<img src="https://github.com/thequietlife/CTI-101/blob/94047351123cda60ff418f32c0170d87f3c9371d/images/attack%20surface.png"
+alt="same as previous image but shows that all devices open up the attack surface" width="300"/>
 
+Each of these devices is contributing to our **Attack Surface**. Each device has different vulnerabilities. The expanding attack surface is creating a lot of challenges from a hardware perspective. <br>
+
+### Software
+
+We need to also take into account the software, different operating systems, that is on these devices.
+
+* Windows
+* macOS
+* Linux
+* Mainframes
+* iOS
+* Android
+* IoT OS
+
+Each of these brings more complexity, vulnerabilities and expands the attack surface. And this is why we need controls.
+
+**Controls**
 
 
 
