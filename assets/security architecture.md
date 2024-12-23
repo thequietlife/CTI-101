@@ -389,7 +389,9 @@ Security controls we need to put on endpoints.
 <img src="https://github.com/thequietlife/CTI-101/blob/db20508fc8a739229c2d76151aa3b59057db9255/images/controls%20-%20typical.png"
 alt="shows typical way controls are managed. one admin looks after server, one admin for laptops and desktops and another admin for mobiles. Prob nothing in place for IoT" width="300"/>
 
+This is a common setup for organisations, multiple administrators managing different platforms. One administrator looks after servers, one administrator for laptops and desktops and another admin for mobiles. And quite possibly nothing in place for IoT devices. On the plus side the admins are domain experts in those particular areas. But this is not the most efficient or simplest approach.
 
+A better approach would be to implement a single security policy across all of the assets with oe console.
 
 
 
