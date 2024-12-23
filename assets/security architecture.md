@@ -391,9 +391,13 @@ alt="shows typical way controls are managed. one admin looks after server, one a
 
 This is a common setup for organisations, multiple administrators managing different platforms. One administrator looks after servers, one administrator for laptops and desktops and another admin for mobiles. And quite possibly nothing in place for IoT devices. On the plus side the admins are domain experts in those particular areas. But this is not the most efficient or simplest approach.
 
-A better approach would be to implement a single security policy across all of the assets with one console.
+**Best Practice - Endpoint Security Management System**
+A better approach would be to implement a single security policy across all of the different platforms with one console.
 
+<img src="https://github.com/thequietlife/CTI-101/blob/4710a29a65a7e683ca3fc34701413988ba0a9bde/images/controls%20-%20best.png"
+alt="shows best practice of having a single security policy and managing all the assets together" width="300"/>
 
+This approach allows the admin to push down policies and patches across the entire infrastructure. Also the platforms can push up information and alerts into the one console. This reduces the complexity, increases visibility and is much more efficient.
 
 
 
