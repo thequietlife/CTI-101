@@ -386,7 +386,8 @@ Each of these brings more complexity, vulnerabilities and expands the attack sur
 
 Security controls we need to put on endpoints.
 
-
+<img src="https://github.com/thequietlife/CTI-101/blob/db20508fc8a739229c2d76151aa3b59057db9255/images/controls%20-%20typical.png"
+alt="shows typical way controls are managed. one admin looks after server, one admin for laptops and desktops and another admin for mobiles. Prob nothing in place for IoT" width="300"/>
 
 
 
