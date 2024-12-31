@@ -399,11 +399,11 @@ alt="shows best practice of having a single security policy and managing all the
 
 This approach allows the admin to push down policies and patches across the entire infrastructure. Also the platforms can push up information and alerts into the one console. This reduces the complexity, increases visibility and is much more efficient.
 
-**Types of Controls (Policies)** 
+**Types of Controls** 
 
 * Inventory - carry out an audit of all the different systems, find out hardware and software levels of existing devices and maybe discover some new ones
-* Security Policy for the organisation - dictates what types of hardware and software is permitted on the network
-* 
+* Security Policy for the organisation - types of hardware and software permitted on the network; this includes policies on what version the software needs to be updated up to e.g. N (current stable release) and N-1 (previous stable release). If a user is behind two releases they will be disconnected from sensitive data on the network as they are missing too many security patches; other types of security policies would be password policies e.g. password minimum number of characters, strength, frequency to change passwords etc 
+* Patching
 
 
 
