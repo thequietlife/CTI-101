@@ -403,7 +403,57 @@ This approach allows the admin to push down policies and patches across the enti
 
 * Inventory - carry out an audit of all the different systems, find out hardware and software levels of existing devices and maybe discover some new ones
 * Security Policy for the organisation - types of hardware and software permitted on the network; this includes policies on what version the software needs to be updated up to e.g. N (current stable release) and N-1 (previous stable release). If a user is behind two releases they will be disconnected from sensitive data on the network as they are missing too many security patches; other types of security policies would be password policies e.g. password minimum number of characters, strength, frequency to change passwords etc 
-* Patching
+* Patching - keep up with patches which contain security updates
+* Encryption Policy - if a device is lost or stolen having encryption means nobody can get any information off of it
+* Remote Wipe - if a device is lost or stolen you can erase all of the data remotely
+* Location Tracking - find out the location of a company device
+* Antivirus or Endpoint Detection and Response (EDR) - checks for malware on devices
+* Disposal - policy and guidelines for safe disposing, recycling, sale of devices.
+
+**Bring your own device (BYOD)**
+
+* now also includes Bring your own IT and Bring your own Cloud
+* organisations fall into two camps: having a well defined program or poorly defined program. Am organisation that states BYOD is not allowed is more likely in the poorly defined camp
+* Elements of a well defined BYOD program:
+  - Consent: staff need to be aware of what may be put on their device; whether their usage will be monitored or not or under what conditions monitoring may occur; how they are using the device may be tracked; the option to do a selective wipe of the device and remove all corporate data
+  - Software: policy for software updating mentioned previously; required and restricted applications; periodic scanning for those apps
+  - Hardware: BYOD hardware has to meet specifications to be supported
+  - Services: specify which cloud services are authorised services e.g. for file sharing specify the allowed cloud-based file sharing program; and monitor to make sure only the allowed services are being used.
+ 
+The aim is to guide users to do the right thing and make it easier for them to do the right thing, rather than just saying NO to BYOD.
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
