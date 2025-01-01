@@ -422,8 +422,13 @@ This approach allows the admin to push down policies and patches across the enti
  
 The aim is to guide users to do the right thing and make it easier for them to do the right thing, rather than just saying NO to BYOD.
 
+## Network Security
 
-  
+🟩 Firewalls <br>
+🟩 Segment <br>
+🟩 VPN <br> 
+🟩 SASE <br> 
+
 
 
 
