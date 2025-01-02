@@ -430,6 +430,10 @@ The aim is to guide users to do the right thing and make it easier for them to d
 🟩 SASE <br> 
 
 
+🟩 Firewalls <br>
+
+* The notion of a firewall in IT came from the practice of safeguarding physical houses from fires. Putting in physical barriers using fire-resistant glass, concrete, bricks, treated insulation to isolate and protect houses from fire
+* With a workstation hitting a web server and that web server linking into a database. The typical architecture we put in here is to add one firewall between the workstation and the web server and another firewall between the web server. One firewall is internet facing and the other is internal facing. 
 
 
 
