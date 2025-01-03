@@ -437,20 +437,52 @@ The aim is to guide users to do the right thing and make it easier for them to d
 <img src="https://github.com/thequietlife/CTI-101/blob/23312bf28492f724ccb38c524d0c4dceaadcfc54/images/firewalls.png"
 alt="shows a house with three zones to demonstrate firewalls. shows a network divided into zones with firewalls" width="300"/>
 
-* With a workstation hitting a web server and that web server linking into a database. The typical architecture we put in here is to add one firewall between the workstation and the web server and another firewall between the web server. One firewall is internet facing and the other is internal facing. The role of a firewall is to filter out bad traffic. Firewalls check streams of packets and filter bad packets. A packet is a small part of a message, it can be broken down into a header and payload. The header contains the source, destination and port. The payload has the data. A photo of a dog is broken down into 100s of 1000s packets.
+* With a workstation hitting a web server and that web server linking into a database. The typical architecture we put in here is to add one firewall between the workstation and the web server and another firewall between the web server. One firewall is internet facing and the other is internal facing <br>
+* The role of a firewall is to filter out bad traffic. Firewalls check streams of packets and filter bad packets. A packet is a small part of a message, it can be broken down into a header and payload. The header contains the source, destination and port. The payload has the data. A photo of a dog is broken down into 100s of 1000s packets.
 
-**Packet Filtering**
-This is when packet addresses and port numbers are inspected.
+1️⃣ **Packet Filtering** <br>
+* This is when packet addresses, the address the user is coming from or **source** and the **destination** address (in this example web server), are inspected.
+* **port** numbers are a way of flagging what kind of traffic it is. The port numbers are also inspected.
+
+**The First Firewall**
+
+| Port      | 80/443 |  
+--- | --- | 
+| Source       | 🖥️ workstation   |   
+| Destination   | web server      | 
 
 
+🚪 The firewall can then filter based on the info that it is in the header of the packet. In this example the Port is 80 which is the default network port for web servers using HTTP (unencrypted internet traffic). This traffic can be permitted through the firewall. Port 443 encrypted traffic is also allowed to flow through. <br> 
 
+To add more rigour the source address has to be in the range of the external internet. This is to prevent **spoofing** where a threat actor is pretending they are coming from inside the network. 🛑 In those cases the packet will be blocked. <br>
+
+The destination address is the only place you can go. 🛑 If the threat actor tries to put in any other address or tries to go to the database directly they will be blocked.
 
 <img src="https://github.com/thequietlife/CTI-101/blob/99fa9d4d05c7536744da3b46c47367ed9bdd9a4e/images/packet.png"
 alt="shows two parts of a IP packet - the header and the payload. The header is comprised of the source, destination and port" width="300"/>
 
+**The Second Firewall**
+* Adds even more security
 
+| Port   | 3306 | 
+--- | --- | 
+| Source     | only from the web server, nothing from the internet will be allowed |
+| Destination  | can only be the database |
+  
+* In the above scenario Port 3306 will open to allow traffic between the web server and the database
+* By setting rules any traffic from the outside can only get to and stop at the first firewall, where it will be inspected and security contols carried out
 
+2️⃣ **Stateful Packet Inspection** <br>
+* ✉️ While packet filtering looks at the TO address and RETURN address like on a letter. But we have not inspected inside
+* 🔍 ✉️ Stateful Packet Inspection (SPI) looks at the: <br>
+  - header
+  - payload
+  - context of the packet
 
+* 🔬 📝 Application Firewalls will do even deeper inspections of payloads
+
+3️⃣ **Proxy** <br>
+* A proxy is something that acts on behalf of something else
 
 
 
