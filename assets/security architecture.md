@@ -432,15 +432,17 @@ The aim is to guide users to do the right thing and make it easier for them to d
 
 🟩 Firewalls <br>
 
-* The idea of a firewall in IT came from the practice of safeguarding physical houses from fires. Putting in physical barriers using fire-resistant glass, concrete, bricks, treated insulation to isolate and protect houses from fire
-* With a workstation hitting a web server and that web server linking into a database. The typical architecture we put in here is to add one firewall between the workstation and the web server and another firewall between the web server. One firewall is internet facing and the other is internal facing. The role of a firewall is to filter out bad traffic. Firewalls check streams of packets and filter bad packets. A packet is a small part of a message, it can be broken down into a header and payload. The header contains the source, destination and port. The payload has the data. A photo of a dog is broken down into 100s of 1000s packets.
-
-**Packet Filtering**
-Packet filtering checks packet addresses and port numbers.
-
+* The idea of a firewall in IT came from the practice of safeguarding physical houses from fires. Putting in physical barriers using fire-resistant glass, concrete, bricks, treated insulation to isolate and protect houses from fire <br>
 
 <img src="https://github.com/thequietlife/CTI-101/blob/23312bf28492f724ccb38c524d0c4dceaadcfc54/images/firewalls.png"
 alt="shows a house with three zones to demonstrate firewalls. shows a network divided into zones with firewalls" width="300"/>
+
+* With a workstation hitting a web server and that web server linking into a database. The typical architecture we put in here is to add one firewall between the workstation and the web server and another firewall between the web server. One firewall is internet facing and the other is internal facing. The role of a firewall is to filter out bad traffic. Firewalls check streams of packets and filter bad packets. A packet is a small part of a message, it can be broken down into a header and payload. The header contains the source, destination and port. The payload has the data. A photo of a dog is broken down into 100s of 1000s packets.
+
+**Packet Filtering**
+This is when packet addresses and port numbers are inspected.
+
+
 
 
 <img src="https://github.com/thequietlife/CTI-101/blob/99fa9d4d05c7536744da3b46c47367ed9bdd9a4e/images/packet.png"
