@@ -443,7 +443,8 @@ Packet filtering checks packet addresses and port numbers.
 alt="shows a house with three zones to demonstrate firewalls. shows a network divided into zones with firewalls" width="300"/>
 
 
-
+<img src="https://github.com/thequietlife/CTI-101/blob/99fa9d4d05c7536744da3b46c47367ed9bdd9a4e/images/packet.png"
+alt="shows two parts of a IP packet - the header and the payload. The header is comprised of the source, destination and port" width="300"/>
 
 
 
