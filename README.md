@@ -26,7 +26,7 @@ ___________________________
       - NIST Cybersecurity Framework
       - Cybersecurity Domains (Identity and Access Management, Endpoints, Networks, Servers, Data, Monitor, Response)
       - Identity and Access Management
-      - Endpoints (WIP)
+      - Endpoints 
       - Networks (WIP)
       - Application Security (WIP)
       - Data Security (WIP)
