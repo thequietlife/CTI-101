@@ -495,6 +495,10 @@ alt="shows a proxy server in between a workstation and back-end web server" widt
 4️⃣ **Network Address Translation (NAT)**
 
 * The internet has a range of **Routable IP addresses** and a range of **Non-Routable IP Addresses**
+
+<img src="https://github.com/thequietlife/CTI-101/blob/2e578b1755015aadadd7b75e39eed6bdf840d766/images/NAT.png"
+alt="shows the internet, NAT box, intranet or home setup and home laptop" width="200"/>
+
 * If the IP Address starts with a 10 e.g. 10.0.0.0.18 it is not routable across the internet. It is routable across an internal intranet or across a home network. A lot of home routers use a 10 dot address or 192.168 dot something e.g. 192.168.0.0. These are internal addresses that can not be routed across the internet. It needs a NAT box
 * 
 
