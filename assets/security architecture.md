@@ -428,17 +428,19 @@ The aim is to guide users to do the right thing and make it easier for them to d
 🟩 Segment <br>
 🟩 VPN <br> 
 🟩 SASE <br> 
-
+<br> 
 
 🟩 Firewalls <br>
 
-* The notion of a firewall in IT came from the practice of safeguarding physical houses from fires. Putting in physical barriers using fire-resistant glass, concrete, bricks, treated insulation to isolate and protect houses from fire
-* With a workstation hitting a web server and that web server linking into a database. The typical architecture we put in here is to add one firewall between the workstation and the web server and another firewall between the web server. One firewall is internet facing and the other is internal facing. 
+* The idea of a firewall in IT came from the practice of safeguarding physical houses from fires. Putting in physical barriers using fire-resistant glass, concrete, bricks, treated insulation to isolate and protect houses from fire
+* With a workstation hitting a web server and that web server linking into a database. The typical architecture we put in here is to add one firewall between the workstation and the web server and another firewall between the web server. One firewall is internet facing and the other is internal facing. The role of a firewall is to filter out bad traffic. Firewalls check streams of packets and filter bad packets. A packet is a small part of a message, it can be broken down into a header and payload. The header contains the source, destination and port. The payload has the data. A photo of a dog is broken down into 100s of 1000s packets.
+
+**Packet Filtering**
+Packet filtering checks packet addresses and port numbers.
 
 
-
-
-
+<img src="https://github.com/thequietlife/CTI-101/blob/23312bf28492f724ccb38c524d0c4dceaadcfc54/images/firewalls.png"
+alt="shows a house with three zones to demonstrate firewalls. shows a network divided into zones with firewalls" width="300"/>
 
 
 
@@ -472,6 +474,8 @@ Sources:
 1. [What Is Security Architecture?, Palo Alto Networks](https://www.paloaltonetworks.com/cyberpedia/what-is-security-architecture)
 2. [Cybersecurity Architecture, Jeff Crume IBM Technology](https://www.youtube.com/watch?v=jq_LZ1RFPfU)
 3. [Describe the basic concepts of cybersecurity, Microsoft](https://learn.microsoft.com/en-us/training/paths/describe-basic-concepts-of-cybersecurity/)
+4. [Security Engineering - A Guide to Building Dependable Distributed Systems Third Edition, Ross Anderson](https://www.cl.cam.ac.uk/archive/rja14/book.html)
+5. [Cloudflare Learning Center](https://www.cloudflare.com/en-gb/learning/)
 
 
 
