@@ -483,6 +483,47 @@ alt="shows two parts of a IP packet - the header and the payload. The header is 
 
 3️⃣ **Proxy** <br>
 * A proxy is something that acts on behalf of something else
+* 🖥️ The connection between the workstation and the back-end web server is a direct, end-to-end connection
+* 🟧 By adding a proxy the workstation communicates with the proxy and the server communicates with the proxy. It breaks the session and is actually two sessions <br>
+
+<img src="https://github.com/thequietlife/CTI-101/blob/84f1af77a973f2b0b2b74a4f5901127c6c1e0439/images/proxy.png"
+alt="shows a proxy server in between a workstation and back-end web server" width="200"/> 
+
+* It is a good 'man-in-the-middle' where we can **inspect** the traffic. It allows us to look at the traffic and check for viruses etc
+* We can also **enforce** a security policy if needed. Which is one of the advantages of putting in a proxy.
+
+4️⃣ **Network Address Translation (NAT)**
+
+* The internet has a range of **Routable IP addresses** and a range of **Non-Routable IP Addresses**
+* If the IP Address starts with a 10 e.g. 10.0.0.0.18 it is not routable across the internet. It is routable across an internal intranet or across a home network. A lot of home routers use a 10 dot address or 192.168 dot something e.g. 192.168.0.0. These are internal addresses that can not be routed across the internet. It needs a NAT box
+* 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
