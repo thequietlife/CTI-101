@@ -549,11 +549,19 @@ Includes: <br>
 The trend is to move away from broad network based VPNs to application specific VPNs. Application specific VPNs provide **granularity** and **control**. For example, if I have VPN for my email, a separate VPN for my file sharing application and a VPN for my instant messaging app I can control each of those apps separately which gives me more control. If I need to shut down one service it is easier than having to shut everything down. <br>
 
 🟩 SASE <br> 
-**Secure Access Service Edge** is the aim of creating a secure capability that is delivered on the edge.
+**Secure Access Service Edge (SASE)** is the aim of creating a secure capability that is delivered on the edge.
 
+<img src="https://github.com/thequietlife/CTI-101/blob/ca2369c499ae17dc9c497b1b8b0a8b6c0843c2a7/images/SASE.png"
+alt="Venn diagram with Network, Security and Cloud in each circle. In the intersection is SASE" width="300"/>
 
+SASE sits in the intersection of network, security and cloud. SASE is $\frac{NetSec + WAN}{Cloud}$ <br>
 
+SASE is network security + WAN (wide area networking). The network and the security all delivered from the ☁️ cloud. NETSEC examples are firewalls, secure web gateways (application-specific firewalls), Data Loss Prevention (DLP) - all of these things delivered on the edge. <br>
 
+The WAN is a Software-Defined Wide Area Network (SD-WAN), which is a way of creating a dynamic network where you can change where the boundaries of the network are and provision these in real-time. It provides flexibility. The (SD-WAN) is merged with the network security components and then delivering it from the ☁️ cloud. Using the ☁️ cloud provides **scalability** and **flexibility**. <br>
+
+Identity management can also be added in, in particular authentication and authorisation (e.g. access controls). <br>
+Wrapped all up is what SASE covers - combining all of these functions into a single logical component and delivering it from the ☁️ cloud, at the edge of the network, in a holistic way.
 
 
 
