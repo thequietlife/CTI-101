@@ -546,8 +546,10 @@ Includes: <br>
 * IPsec is implemented at the network layer and it encrypts IP packets
 * Point-to-Point Tunneling Protocol (PPTP) is the layer 2 tunneling protocol <br>
 
-The trend is to move away from broad network based VPNs to application specific VPNs. Application specific VPNs provide **granularity** and **control**. For example, if I have VPN for my email, a separate VPN for my file sharing application and a VPN for my instant messaging app I can control each of those apps separately which gives me more control. If I need to shut down one service it is easier than having to shut everything down.
+The trend is to move away from broad network based VPNs to application specific VPNs. Application specific VPNs provide **granularity** and **control**. For example, if I have VPN for my email, a separate VPN for my file sharing application and a VPN for my instant messaging app I can control each of those apps separately which gives me more control. If I need to shut down one service it is easier than having to shut everything down. <br>
 
+🟩 SASE <br> 
+**Secure Access Service Edge** is the aim of creating a secure capability that is delivered on the edge.
 
 
 
