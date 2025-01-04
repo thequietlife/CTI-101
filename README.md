@@ -18,7 +18,7 @@ ___________________________
       - Packets, Routing + Reliability
       - TCP
       - The OSI Model  
-  * 📐 [Security Architecture](https://github.com/thequietlife/CTI-101/blob/0f44313c4705b54db4a4127fa69b11bd798f5bdf/assets/security%20architecture.md)
+  * 📐 [Security Architecture](https://github.com/thequietlife/CTI-101/blob/1effe458eb0f2bda9ce3887e6e25203f633a1e77/assets/security%20architecture.md)
       - Essential Security Principles
       - CIA Triad
       - Security Architect Role
@@ -27,7 +27,7 @@ ___________________________
       - Cybersecurity Domains (Identity and Access Management, Endpoints, Networks, Servers, Data, Monitor, Response)
       - Identity and Access Management
       - Endpoints 
-      - Networks (WIP)
+      - Networks 
       - Application Security (WIP)
       - Data Security (WIP)
       - Detection (WIP)
