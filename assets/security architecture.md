@@ -513,12 +513,40 @@ Segmentation is about applying firewalls in various network architectures to ach
 
 * **Basic Demilitarized Zone (DMZ)** uses two firewalls and is an example of 🏰 🌊 **defence in depth**. This network is not relying on any single mechanism for protection. This network is more costly, scalable and more complex but adds more security protection <br>
 
-* **Multi-Tiered DMZ** replicates the previous basic DMZ network but the web server is separated from the application server and database. It consists of three firewalls which makes it even more costly and complex. The advantage is the extra 🏰 🌊 🐊 🐊 **defence in depth** and extra **granularlity**. We can allow traffic to only go from one zone to the next (internet &#8594; web server)
-  
+<img src="https://github.com/thequietlife/CTI-101/blob/13e0cc486a1dca10dfc3925bb1c58852a0e76b00/images/multi-tiered%20DMZ.png"
+alt="show multi-tiered DMZ network consisting of three firewalls" width="300"/>
 
+* **Multi-Tiered DMZ** replicates the previous basic DMZ network but the web server is separated from the application server and database. It consists of three firewalls which makes it even more costly and complex. The advantage is the extra 🏰 🌊 🐊 🐊 **defence in depth** and extra **granularlity**. We can allow traffic to only go from one zone to the next (internet &#8594; web server). <br>
 
+🟩 VPN <br> 
+Virtual Private Network (VPN) provides a secure connection over an untrusted network allowing one to send information in a secure way. This is done by encrypting my information and sending it over the internet - Confidentiality. VPN is referred to as a secure pipe or as a secure tunnel for your data, keeping your online activities protected and private. People can't see what is in the packet all they will see is encrypted packets of information.  <br>
 
+The limited inspection capability means a threat actor could send their traffic without everybody seeing it and that is a problem. We would not be able to see if they are putting malware into our system or are initiating an attack.
 
+**The 7 Layer OSI Model** <br>
+
+| OSI Model | 
+| ----------- | 
+| Application | 
+| Presentation| 
+| Session |
+| Transport 
+| Network | 
+| Data Link| 
+| Physical | 
+
+<br>
+There are different layers in the OSI Model. For each packet I send different aspects are implemented at different layers. With this model if you implement a security capability at one of the lower levels it is also supporting the upper layers. If I encrypt all my traffic at the network layer then it is encrypted by all the higher layers as well. <br>
+
+**Different Types of VPN** <br>
+Includes: <br>
+
+* Secure Shell Protocol (SSH) is an example of an application layer or application specific VPN. It encrypts the data so that you can connect into a particular device console
+* Transport Layer Security (TLS) previously referred to as Secure Sockets Layer (SSL) is implemented at the transport layer. It is shown as the lock icon 🔒 in a browsers address bar. Everything going to that web browser is going to be encrypted
+* IPsec is implemented at the network layer and it encrypts IP packets
+* Point-to-Point Tunneling Protocol (PPTP) is the layer 2 tunneling protocol <br>
+
+The trend is to move away from broad network based VPNs to application specific VPNs. Application specific VPNs provide **granularity** and **control**. For example, if I have VPN for my email, a separate VPN for my file sharing application and a VPN for my instant messaging app I can control each of those apps separately which gives me more control. If I need to shut down one service it is easier than having to shut everything down.
 
 
 
