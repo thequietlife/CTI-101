@@ -487,7 +487,7 @@ alt="shows two parts of a IP packet - the header and the payload. The header is 
 * 🟧 By adding a proxy the workstation communicates with the proxy and the server communicates with the proxy. It breaks the session and is actually two sessions <br>
 
 <img src="https://github.com/thequietlife/CTI-101/blob/84f1af77a973f2b0b2b74a4f5901127c6c1e0439/images/proxy.png"
-alt="shows a proxy server in between a workstation and back-end web server" width="200"/> 
+alt="shows a proxy server in between a workstation and back-end web server" width="300"/> 
 
 * It is a good 'man-in-the-middle' where we can **inspect** the traffic. It allows us to look at the traffic and check for viruses etc
 * We can also **enforce** a security policy if needed. Which is one of the advantages of putting in a proxy.
@@ -497,10 +497,25 @@ alt="shows a proxy server in between a workstation and back-end web server" widt
 * The internet has a range of **Routable IP addresses** and a range of **Non-Routable IP Addresses**
 
 <img src="https://github.com/thequietlife/CTI-101/blob/2e578b1755015aadadd7b75e39eed6bdf840d766/images/NAT.png"
-alt="shows the internet, NAT box, intranet or home setup and home laptop" width="200"/>
+alt="shows the internet, NAT box, intranet or home setup and home laptop" width="400"/>
 
-* If the IP Address starts with a 10 e.g. 10.0.0.0.18 it is not routable across the internet. It is routable across an internal intranet or across a home network. A lot of home routers use a 10 dot address or 192.168 dot something e.g. 192.168.0.0. These are internal addresses that can not be routed across the internet. It needs a NAT box
-* 
+* If the IP Address starts with a 10 e.g. 10.0.0.0.18 it is not routable across the internet. It is routable across an internal intranet or across a home network. A lot of home routers use a 10 dot address or 192.168 dot something e.g. 192.168.0.0. These are internal addresses that can not be routed across the internet <br>
+* It needs a NAT box, the NAT box translates the IP address into an external address. The address then gets translated again when it comes back to the NAT box and gets send to the workstation
+* This process conserves IP addresses, preserves existing IT functionality
+* The workstation is protected by any external attacks because the IP address for the workstation, 192.168.1.1, is not routable across the internet
+
+🟩 Segment <br>
+Segmentation is about applying firewalls in various network architectures to achieve different levels of security <br>
+
+* **Bastion** host was used in the early days of the internet and is not recommended. The web server is out in the open and the firewall is between the server and the intranet. It allows all internet traffic into a internal network <br>
+
+* **Tri-Homed** network consists of a single firewall carved off into three different networks. The lone firewall is doing a lot of work. It is a **single point of failure (SPOF)**. If the firewall is not doing its job everything is wide open. It is a kind of a Demilitarized Zone DMZ, a buffer between a trusted environment and an more trusted environment. This is a low cost set up and is scalable. But one to avoid. This is how a lot of home networks are set up <br>
+
+* **Basic Demilitarized Zone (DMZ)** uses two firewalls and is an example of 🏰 🌊 **defence in depth**. This network is not relying on any single mechanism for protection. This network is more costly, scalable and more complex but adds more security protection <br>
+
+* **Multi-Tiered DMZ** replicates the previous basic DMZ network but the web server is separated from the application server and database. It consists of three firewalls which makes it even more costly and complex. The advantage is the extra 🏰 🌊 🐊 🐊 **defence in depth** and extra **granularlity**. We can allow traffic to only go from one zone to the next (internet &#8594; web server)
+  
+
 
 
 
