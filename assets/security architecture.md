@@ -1,19 +1,28 @@
 ## 📐 Security Architecture
 
-### Summary
-**Essential Security Principles**
-*  Defence in Depth
-*  Least Privilege
-*  Separation of Duties
-*  Secure by Design
-*  K.I.S.S  
-
-**CIA Triad**
-* A checklist for IT projects
-
-**Frameworks**
-*  NIST Cybersecurity Framework (CSF)
-  * A comprehensive checklist to ensure you have covered everything  
+### Sections
+* Essential Security Principles
+* CIA Triad
+* Frameworks
+* Security Architect Role
+* Security Architect Tools
+* NIST Cybersecurity Framework
+* Cybersecurity Domains
+   - Identity and Access Management
+   - Endpoints
+   - Networks
+   - Servers
+   - Data
+   - Monitor
+   - Response
+* Identity and Access Management
+* Endpoints
+* Networks
+* Application Security 
+* Data Security 
+* Detection 
+* Response 
+ 
 _______________
 
 ### What is Security Architecture?
