@@ -15,14 +15,6 @@
    - Data
    - Monitor
    - Response
-* Identity and Access Management
-* Endpoints
-* Networks
-* Application Security 
-* Data Security 
-* Detection 
-* Response 
- 
 _______________
 
 ### What is Security Architecture?
@@ -344,7 +336,7 @@ Another user logs in with the stolen the privileged account user's password. The
 
 So we need a system that audits activity, looks at all the log records and looks at different activities. It has policies and uses mackine learning to pick up some of these patterns. Enter **User Behaviour Analytics (UBA)** or **User Entity Behaviour Capability (UEBA)**. 
 
-That wraps up the **4 A's**: <br>
+In summary, the **4 A's**: <br>
 ✅ Administration <br>
 ✅ Authentication <br>
 ✅ Authorisation <br>
@@ -572,10 +564,20 @@ The WAN is a Software-Defined Wide Area Network (SD-WAN), which is a way of crea
 Identity management can also be added in, in particular authentication and authorisation (e.g. access controls). <br>
 Wrapped all up is what SASE covers - combining all of these functions into a single logical component and delivering it from the ☁️ cloud, at the edge of the network, in a holistic way.
 
+## Application Security
 
+🟪 SDLC <br>
+🟪 Secure Coding <br>
+🟪 Vulnerability Testing <br>
+<br> 
 
+Essentially all software has bugs. A percentage of those bugs will be security vulnerabilities. Bugs are generally introduced in the coding phase. Through unit testing, functional testing, system testing and release we find fewer bugs. But the bugs that appear in a release are more expensive and fix sf they also bring complications like customer dissatisfaction and sometimes damamge to the company brand. 
 
+Application Security provides measures to reduce those vulnerabilities:
 
+🟪 SDLC <br>
+* Rather than a traditional, linear approach a **DevOps** approach goes through a cyclical motion. ♾️ Like the infinity symbol. The feedback loop allows for revisions to software will it is still in the early stages. DevOps is rapid, agile and there is a loop of continous improvement. This avoids the siloed approach in traditional software development. But it doesn't specifically address security.
+* **DevSecOps**
 
 
 
