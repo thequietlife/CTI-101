@@ -11,27 +11,27 @@ ___________________________
       - Computer Software
       - Computer Hardware
       - Data + Storage
+        
   * 🍰 [Networking Fundamentals](https://github.com/thequietlife/CTI-101/blob/ca3cadef9b37ead345df7ba0cc789fd69224e3a1/assets/networking%20fundamentals.md)
       - The Internet
       - Bit Sending
       - IP Addresses + DNS
       - Packets, Routing + Reliability
       - TCP
-      - The OSI Model  
+      - The OSI Model
+        
   * 📐 [Security Architecture](https://github.com/thequietlife/CTI-101/blob/1effe458eb0f2bda9ce3887e6e25203f633a1e77/assets/security%20architecture.md)
       - Essential Security Principles
-      - CIA Triad
-      - Security Architect Role
-      - Security Architect Tools
-      - NIST Cybersecurity Framework
-      - Cybersecurity Domains (Identity and Access Management, Endpoints, Networks, Servers, Data, Monitor, Response)
+      - Fundamentals of Confidentiality, Integrity and Availability
+      - Security Architect Role + Tools
       - Identity and Access Management
-      - Endpoints 
-      - Networks 
-      - Application Security (WIP)
-      - Data Security (WIP)
-      - Detection (WIP)
-      - Response (WIP)
+      - Endpoints
+      - Networks
+      - Application Security
+      - Data Security
+      - Detection
+      - Reponse
+         
   * Encryption Standards
   * Security Concepts
   * Common Attack Types
