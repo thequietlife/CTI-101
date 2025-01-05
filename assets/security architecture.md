@@ -605,6 +605,60 @@ Secure Coding needs: <br>
 * Both SAST and DAST should be used
 * Chatbots can be used to write and debug code. The negative are that a chatbot could inject vulns and can expose your IP. There was a case where employees were using a chatbot for debugging and in that process released their proprietary code into the system. See [Samsung Software Engineers Busted for Pasting Proprietary Code Into ChatGPT](https://au.pcmag.com/news/99575/samsung-software-engineers-busted-for-pasting-proprietary-code-into-chatgpt)
 
+## Data Security
+* 💵 Cost of data breaches. [IBM estimates a data breach costs organisations USD 4.88M](https://www.ibm.com/reports/data-breach). Loss of IP, personal data (PII) <br>
+
+**Ways to secure data:**
+
+🟨 Governance <br>
+* Data Security Policy - what is sensitive data?
+* Classification Criteria - categorise most important types of data to least important. What constitutes confidential, unclassified, top secret
+* Catalogue where the data is - e.g. location of sensitive data
+* Resilience Plan - how will be recover lost data <br>
+
+🟨 Discovery <br>
+* Structured Data in databases - search for all data in the organisation 
+* Unstructured Data - files, emails, spreadsheets
+* Check the network for data
+* Data Loss Prevention (DLP) - a technology to help find data <br>
+
+🟨 Protection <br>
+* 🔒 Encryption of data (Rest (database) + Motion (email))
+* 🔑 Key management - importance of keys, if you lose the keys you lose access to the data, generate keys in a random way, maintain the lifecycle of a key, rotation of keys. See also [quantum-safe  or post-quantum cryptography](https://csrc.nist.gov/projects/post-quantum-cryptography)
+* Access Control
+
+🟨 Compliance <br>
+*
+
+🟨 Detection <br>
+*
+
+🟨 Response <br>
+*
+
+🟨 Top 5 <br>
+*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
