@@ -2,19 +2,16 @@
 
 ### Sections
 * Essential Security Principles
-* CIA Triad
-* Frameworks
-* Security Architect Role
-* Security Architect Tools
-* NIST Cybersecurity Framework
-* Cybersecurity Domains
-   - Identity and Access Management
-   - Endpoints
-   - Networks
-   - Servers
-   - Data
-   - Monitor
-   - Response
+* Fundamentals of Confidentiality, Integrity and Availability
+* Security Architect Role + Tools
+* Identity and Access Management
+* Endpoints
+* Networks
+* Application Security
+* Data Security
+* Detection
+* Reponse
+ 
 _______________
 
 ### What is Security Architecture?
@@ -580,6 +577,67 @@ Application Security provides measures to reduce those vulnerabilities:
 * With **DevSecOps** security encompasses the entire software process. ♾️ Security is **built-in** to each stage rather than an afterthought at the end of a release. Referred to as **Security by Design**. It allows for collaboration and feedback across the three groups, Dev, Security and Ops.
 
 🟪 Secure Coding <br>
+
+Secure Coding needs: <br>
+
+⭕ List of Secure Coding Practices. Checklists for how code will be written - e.g. input checking when coding buffers to prevent a buffer overflow; specify how authentication will be done; error handling routines. Check [OWASP](owasp.org) for secure coding practices <br>
+⭕ Trusted Libraries. See what can happen even with code from a trusted source,[Log4j](https://www.cisa.gov/news-events/news/apache-log4j-vulnerability-guidance). It had a vulnerability that a threat actor was able to exploit. It was discovered after it had been released thereby adding to the cost of fixing it <br>
+⭕ Standard Architectures. Plan out in advance how the system should look and communicate it to the entire organisation <br>
+⭕ Mistakes to Avoid. See [OWASP Top Ten Web Application Security Risks](https://owasp.org/www-project-top-ten/). Between the 2017 list and the 2021 list most of the vulnerabilities are the same. There are only three new ones in 2021 <br>
+⭕ Software Bill of Materials (SBOM) is a detailed list of everything that makes up our systems or applications we are building. Including:
+* Components
+* Libraries
+* Dependencies 
+* Versions
+* Origins
+* Vulnerabilities <br>
+
+🟪 Vulnerability Testing <br>
+* Testing through the SDLC
+* Static Application Security Testing (SAST)
+  - referred to as "white" box testing
+  - it looks inside the source code
+  - finds vulns earlier (shift left in the dev process)
+* Dynamic Application Security Testing (DAST)
+  - referred to as "black" box testing
+  - looks at the running app
+  - finds vulns later, usually in the test phases
+* Both SAST and DAST should be used
+* Chatbots can be used to write and debug code. The negative are that a chatbot could inject vulns and can expose your IP. There was a case where employees were using a chatbot for debugging and in that process released their proprietary code into the system. See [Samsung Software Engineers Busted for Pasting Proprietary Code Into ChatGPT](https://au.pcmag.com/news/99575/samsung-software-engineers-busted-for-pasting-proprietary-code-into-chatgpt)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
