@@ -1,6 +1,6 @@
 # Cyber Threat Intelligence (CTI)
 
-🚧 Putting all my notes into one spot. Notes from learning CTI. I have used Katie Nickels' [A Cyber Threat Intelligence Self-Study Plan](https://medium.com/katies-five-cents/a-cyber-threat-intelligence-self-study-plan-part-1-968b5a8daf9a) and Andy Piazza's [Cyber Threat Intelligence Study Plan](https://klrgrz.medium.com/cyber-threat-intelligence-study-plan-c60484d319cb) as guides. I have also gone through a stack of CTI analyst job ads to find the skills hiring managers want for a cyber threat intel analyst.
+🚧 Putting all my notes into one spot. Notes from learning CTI. I have used Andy Piazza's [Cyber Threat Intelligence Study Plan](https://klrgrz.medium.com/cyber-threat-intelligence-study-plan-c60484d319cb) and Katie Nickels' [A Cyber Threat Intelligence Self-Study Plan](https://medium.com/katies-five-cents/a-cyber-threat-intelligence-self-study-plan-part-1-968b5a8daf9a) as guides. I have also gone through a stack of CTI analyst job ads to find the skills hiring managers want for a cyber threat intel analyst.
 
 ___________________________
 
