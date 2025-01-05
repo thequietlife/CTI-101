@@ -577,9 +577,9 @@ Application Security provides measures to reduce those vulnerabilities:
 
 🟪 SDLC <br>
 * Rather than a traditional, linear approach a **DevOps** approach goes through a cyclical motion. ♾️ Like the infinity symbol. The feedback loop allows for revisions to software will it is still in the early stages. DevOps is rapid, agile and there is a loop of continous improvement. This avoids the siloed approach in traditional software development. But it doesn't specifically address security.
-* **DevSecOps**
+* With **DevSecOps** security encompasses the entire software process. ♾️ Security is **built-in** to each stage rather than an afterthought at the end of a release. Referred to as **Security by Design**. It allows for collaboration and feedback across the three groups, Dev, Security and Ops.
 
-
+🟪 Secure Coding <br>
 
 
 
@@ -615,7 +615,7 @@ Application Security provides measures to reduce those vulnerabilities:
 
 ________
 Sources: 
-1. [What Is Security Architecture?, Palo Alto Networks](https://www.paloaltonetworks.com/cyberpedia/what-is-security-architecture)
+1. [Palo Alto Networks Cyberpedia](https://www.paloaltonetworks.com/cyberpedia)
 2. [Cybersecurity Architecture, Jeff Crume IBM Technology](https://www.youtube.com/watch?v=jq_LZ1RFPfU)
 3. [Describe the basic concepts of cybersecurity, Microsoft](https://learn.microsoft.com/en-us/training/paths/describe-basic-concepts-of-cybersecurity/)
 4. [Security Engineering - A Guide to Building Dependable Distributed Systems Third Edition, Ross Anderson](https://www.cl.cam.ac.uk/archive/rja14/book.html)
