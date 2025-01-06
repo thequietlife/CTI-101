@@ -650,6 +650,43 @@ Secure Coding needs: <br>
 3️⃣ Cryptography <br>
 5️⃣ Training staff <br>
 
+## 🔍 🖥️ Detection <br>
+
+🟦 Monitor <br>
+🟦 Analyse <br>
+🟦 Report <br>
+🟦 Hunt <br>
+
+* **S = P + D + R**
+* Security is about prevention, detection and response
+* CIA Triad: Confidentiality, Integrity and Availability (CIA) - security is about trying to achieve one or more of these three things. This is the aim of cybersecurity. Prevention, detection and response is how we achieve this
+* Detection = getting information from 🧑‍🦰 &rarr; 💻 &rarr; server &rarr; database &rarr; monitoring system 🖥️ 🔔 &rarr; monitor &rarr; 🔎 analyse &rarr; 📝 📋 report &rarr; 🏹 hunt (threat hunting) &rarr; response 🚑 🚒
+* Detection and Response done by Security Operations Centre (SOC) using a Security Information and Event Management System (SIEM) or an Extended Detection and Response System (XDR) <br>
+
+**Security Information and Event Management System (SIEM)**
+* Consistent single view of what is happening. Collecting information from all identity security console, access management console, endpoint management console etc and feeding it a higher level system, SIEM
+* 🔔 Collects logs, alarms, events and flow data from across the network &rarr; SIEM database &rarr; 🔬 Analyse
+* 🧩 Correlate &rarr; 🧩 &rarr; 🧩 &rarr; 🧩 &rarr; 🧩 different events or four difference alarms into 1️⃣ smaller, more manageabke subset
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
