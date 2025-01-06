@@ -685,19 +685,25 @@ Ideally all of the systems are needed SIEM, XDR, Federated Search. <br>
 🟦 Hunt <br>
 * Attack scenario <br>
 
-https://github.com/thequietlife/CTI-101/blob/ae5a17e4aeecdc0115349177abb5364be476627a/images/attack%20scenario.png
+<img src="https://github.com/thequietlife/CTI-101/blob/ae5a17e4aeecdc0115349177abb5364be476627a/images/attack%20scenario.png"
+alt="shows timeline of an attack as listed below" width="300"/>
 
-<img src="https://github.com/thequietlife/CTI-101/blob/ca2369c499ae17dc9c497b1b8b0a8b6c0843c2a7/images/SASE.png"
-alt="Venn diagram with Network, Security and Cloud in each circle. In the intersection is SASE" width="300"/>
 
-* An Attack scenario timeline
+**An Attack scenario timeline**
 1️⃣ **Reconnaissance (Recon)** - threat actors spend time on a site, checking for weak points <br>
-2️⃣ **Attack** commences after Recon
-3️⃣ Then a gap before **Mean Time to Identify (MTTI)**. Sometimes up to 6 months
-4️⃣ **Aware** Ideally needs to be sooner, this is done by threat hunting
-5️⃣ **Mean Time to Contain (MTTC)** - time it takes to complete response. Can take 70 days. 
+2️⃣ **Attack** commences after Recon <br>
+3️⃣ Then a gap before **Mean Time to Identify (MTTI)**. Sometimes up to 6 months <br>
+4️⃣ **Aware** Ideally needs to be sooner, this is done by threat hunting <br>
+5️⃣ **Mean Time to Contain (MTTC)** - time it takes to complete response. Can take 3 months. <br> 
 
-* **Threat Hunting** - To reduce the times taken to be aware of an attack
+* 🔎 **Threat Hunting** - To reduce the times taken to be aware of an attack
+* 💡 Proactive
+* 🤓 Experience & 🤔 Instinct of an experienced cybersecurity analyst
+* ❔ Comes up with a hypothesis based on the above, e.g. What would someone go after? How would they attack us? What would they do? Looking at other attacks for insights
+* 🛠️ Using tools like SIEM, XDR etc
+* 🔦 Look for searches, IOCs
+* If done successfully = **Early Detection**
+* Brings the **Aware** earlier in the attack scenario
 
 
 
