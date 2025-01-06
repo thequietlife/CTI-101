@@ -705,9 +705,9 @@ alt="shows timeline of an attack as listed below" width="300"/>
 * If done successfully = **Early Detection**
 * Brings the **Aware** earlier in the attack scenario
 
+🎉 🪩 🕺 **Last section!!** <br>
 
-
-
+## Response
 
 
 
@@ -818,6 +818,6 @@ Sources:
 5. [Cloudflare Learning Center](https://www.cloudflare.com/en-gb/learning/)
 
 Credits:
-1. Drawings made in Keynote and using [draw.io](https://app.diagrams.net/)
+1. Drawings made using [draw.io](https://app.diagrams.net/)
 2. Icons from [Flaticon](https://www.flaticon.com/)
 
