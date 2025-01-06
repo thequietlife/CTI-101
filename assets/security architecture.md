@@ -672,7 +672,7 @@ Secure Coding needs: <br>
    - Anomalies - look for something that is unusual, using AI, Machine Learning (ML), UBA to find patterns that we might not pick up
    - Trends - look for trends to provide reports for management. E.g. how is the SOC tracking compared to last month, info about alarms being detected, time to resolve cases <br>
 
-**Extended Detection and Response System (XDR) <br>
+**Extended Detection and Response System (XDR)** <br>
 * Originated out of EDR
 * EDR installs an app on each 🖥️ workstation, server or laptop. The app's role is detection and a certain level of response. Where a SIEM brings all the actins up, a EDR brings the actions down to the system level to do the detecting and automating the response on the platform - **close** to the **source** of the **attack**
 * XDR brings the information up from the 🖥️ workstations, servers and laptops (endpoint devices) - where the security policies have been enforced and are 🔎 looking for unusual behavour.
@@ -682,7 +682,8 @@ Secure Coding needs: <br>
 
 Ideally all of the systems are needed SIEM, XDR, Federated Search. <br>
 
-
+🟦 Hunt <br>
+* Attack scenario <br>
 
 
 
