@@ -685,8 +685,10 @@ Ideally all of the systems are needed SIEM, XDR, Federated Search. <br>
 🟦 Hunt <br>
 * Attack scenario <br>
 
+https://github.com/thequietlife/CTI-101/blob/ae5a17e4aeecdc0115349177abb5364be476627a/images/attack%20scenario.png
 
-
+<img src="https://github.com/thequietlife/CTI-101/blob/ca2369c499ae17dc9c497b1b8b0a8b6c0843c2a7/images/SASE.png"
+alt="Venn diagram with Network, Security and Cloud in each circle. In the intersection is SASE" width="300"/>
 
 * An Attack scenario timeline
 1️⃣ **Reconnaissance (Recon)** - threat actors spend time on a site, checking for weak points <br>
