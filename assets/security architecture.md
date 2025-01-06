@@ -688,13 +688,14 @@ Ideally all of the systems are needed SIEM, XDR, Federated Search. <br>
 
 
 
+* An Attack scenario timeline
+1️⃣ **Reconnaissance (Recon)** - threat actors spend time on a site, checking for weak points <br>
+2️⃣ **Attack** commences after Recon
+3️⃣ Then a gap before **Mean Time to Identify (MTTI)**. Sometimes up to 6 months
+4️⃣ **Aware** Ideally needs to be sooner, this is done by threat hunting
+5️⃣ **Mean Time to Contain (MTTC)** - time it takes to complete response. Can take 70 days. 
 
-
-
-
-
-
-
+* **Threat Hunting** - To reduce the times taken to be aware of an attack
 
 
 
@@ -808,5 +809,7 @@ Sources:
 4. [Security Engineering - A Guide to Building Dependable Distributed Systems Third Edition, Ross Anderson](https://www.cl.cam.ac.uk/archive/rja14/book.html)
 5. [Cloudflare Learning Center](https://www.cloudflare.com/en-gb/learning/)
 
-
+Credits:
+1. Drawings made in Keynote and using [draw.io](https://app.diagrams.net/)
+2. Icons from [Flaticon](https://www.flaticon.com/)
 
