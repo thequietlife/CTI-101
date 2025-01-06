@@ -665,8 +665,25 @@ Secure Coding needs: <br>
 
 **Security Information and Event Management System (SIEM)**
 * Consistent single view of what is happening. Collecting information from all identity security console, access management console, endpoint management console etc and feeding it a higher level system, SIEM
-* 🔔 Collects logs, alarms, events and flow data from across the network &rarr; SIEM database &rarr; 🔬 Analyse
-* 🧩 Correlate &rarr; 🧩 &rarr; 🧩 &rarr; 🧩 &rarr; 🧩 different events or four difference alarms into 1️⃣ smaller, more manageabke subset
+* 🔔 **Collect** logs, alarms, events and flow data from across the network &rarr; SIEM database &rarr; 🔎 Analyse
+* 🧩 **Correlate** &rarr; 🧩 &rarr; 🧩 &rarr; 🧩 &rarr; 🧩 different events or four difference alarms into 1️⃣ smaller, more manageabke subset
+* 🔎 **Analyse**
+   - Rules based upon our security policies. We can start building very complex rules, for example: if a certain condition like traffic coming from a partilcular region and it meets some other criteria e.g. someone tries to log in too many times and downloads a very large piece of data (IF .... & .... & .... THEN ... ACTION 🚨). (Indicators of Compromise IOC). Prioritise the 🚨 alarm - High, Medium or Low and assign it to an analyst.
+   - Anomalies - look for something that is unusual, using AI, Machine Learning (ML), UBA to find patterns that we might not pick up
+   - Trends - look for trends to provide reports for management. E.g. how is the SOC tracking compared to last month, info about alarms being detected, time to resolve cases <br>
+
+**Extended Detection and Response System (XDR) <br>
+
+
+
+
+
+
+
+
+
+
+
 
 
 
