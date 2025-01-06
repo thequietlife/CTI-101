@@ -674,8 +674,14 @@ Secure Coding needs: <br>
 
 **Extended Detection and Response System (XDR) <br>
 * Originated out of EDR
-* XDR takes a top down approach
-* 
+* EDR installs an app on each 🖥️ workstation, server or laptop. The app's role is detection and a certain level of response. Where a SIEM brings all the actins up, a EDR brings the actions down to the system level to do the detecting and automating the response on the platform - **close** to the **source** of the **attack**
+* XDR brings the information up from the 🖥️ workstations, servers and laptops (endpoint devices) - where the security policies have been enforced and are 🔎 looking for unusual behavour.
+* Info from a SIEM can be fed into a XDR
+* EDRs needs a way to report up and provide a holistic view, enter XDR
+* An extra function is 🔦 **Federated Search** which looks for particular IOCs, incidences, alerts or conditions and puts a query to ask if any are occuring on the system. Think of 🃏 🐟 **Go Fish** If they have the particulr card or incident they 🗣️ 📢 call out or report it. <br>
+
+Ideally all of the systems are needed SIEM, XDR, Federated Search. <br>
+
 
 
 
