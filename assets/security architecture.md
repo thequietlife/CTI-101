@@ -643,12 +643,12 @@ Secure Coding needs: <br>
 * Orchestrate - 🎻 🎷 an analyst looking for certain things and providing direction like a music conductor 
 * Automate - can't use automation for an attack which is the first of its type
 
-🟨 Top 5 <br>
-1️⃣ AI
-2️⃣ DevSecOps
-3️⃣ IR
-3️⃣ Crypto
-5️⃣ Training staff
+🟨 Top 5 Things to Reduce a Data Breach <br>
+1️⃣ AI <br>
+2️⃣ DevSecOps <br>
+3️⃣ Incident Response (IR) <br>
+3️⃣ Cryptography <br>
+5️⃣ Training staff <br>
 
 
 
