@@ -673,6 +673,9 @@ Secure Coding needs: <br>
    - Trends - look for trends to provide reports for management. E.g. how is the SOC tracking compared to last month, info about alarms being detected, time to resolve cases <br>
 
 **Extended Detection and Response System (XDR) <br>
+* Originated out of EDR
+* XDR takes a top down approach
+* 
 
 
 
