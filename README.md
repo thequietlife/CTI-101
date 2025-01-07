@@ -20,7 +20,7 @@ ___________________________
       - TCP
       - The OSI Model
         
-  * 📐 [Security Architecture](https://github.com/thequietlife/CTI-101/blob/8e1e5cf49f2759dfbbd46258c45f397c2640ccd5/assets/security%20architecture.md)
+  * 📐 [Security Architecture](https://github.com/thequietlife/CTI-101/blob/45b20537f2822e90282f2e7b324dc8a726b29522/assets/security%20architecture.md)
       - Essential Security Principles
       - Fundamentals of Confidentiality, Integrity and Availability
       - Security Architect Role + Tools
