@@ -743,7 +743,7 @@ alt="shows timeline of an attack as listed below" width="250"/>
 
 
 🟩 Cases <br>
-* 💻 🦠 &#8594; 🔔 &#8594; SIEM
+* 💻 🦠 Attack &#8594; 🔔 Alert &#8594; SIEM &#8594; and/or XDR &#8594; 💼 Create a case (assign, update) &#8594; SIEM and/or XDR added in artefacts + IOCs &#8594; 🔎 Investigate &#8594; 📗 Playbooks &#8594; 🩹 🧰 Remediate 
 
 
 
