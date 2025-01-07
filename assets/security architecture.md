@@ -678,7 +678,7 @@ Secure Coding needs: <br>
 * XDR brings the information up from the 🖥️ workstations, servers and laptops (endpoint devices) - where the security policies have been enforced and are 🔎 looking for unusual behavour.
 * Info from a SIEM can be fed into a XDR
 * EDRs needs a way to report up and provide a holistic view, enter XDR
-* An extra function is 🔦 **Federated Search** which looks for particular IOCs, incidences, alerts or conditions and puts a query to ask if any are occuring on the system. Think of 🃏 🐟 **Go Fish** If they have the particulr card or incident they 🗣️ 📢 call out or report it. <br>
+* An extra function is 🔦 **Federated Search** which looks for particular IOCs, incidences, alerts or conditions and puts a query to ask if any are occuring on the system. Think of 🃏 🐟 **Go Fish** If they have the particular card or incident they 🗣️ 📢 call out or report it. <br>
 
 Ideally all of the systems are needed SIEM, XDR, Federated Search. <br>
 
@@ -698,7 +698,7 @@ alt="shows timeline of an attack as listed below" width="300"/>
 
 * 🔎 **Threat Hunting** - To reduce the times taken to be aware of an attack
 * 💡 Proactive
-* 🤓 Experience & 🤔 Instinct of an experienced cybersecurity analyst
+* 🤓 Experience & 🤔 instinct (gut feel) of an experienced cybersecurity analyst
 * ❔ Comes up with a hypothesis based on the above, e.g. What would someone go after? How would they attack us? What would they do? Looking at other attacks for insights
 * 🛠️ Using tools like SIEM, XDR etc
 * 🔦 Look for searches, IOCs
@@ -709,25 +709,46 @@ alt="shows timeline of an attack as listed below" width="300"/>
 
 ## Response <br>
 
-🟩 Basics <br>
+🟩 Basics of Security Response <br>
 🟩 Cases <br>
-🟩 Investigate <br>
+🟩 Investigations <br>
 🟩 Auto + Orchestrate <br>
 🟩 Notify <br>
 
 
-🟩 Basics of Security Response <br>
+🟩 Basics <br>
 * Aim is to reduce the **Mean Time to Contain (MTTC)** - days to respond and recover
-* The team responsible for the detection and response is the SOC
-  -  
+* The team responsible for the detection and response is the SOC. They:
+  - Monitor <br>
+  - Detect <br>
+  - Respond <br>
+
+* 🚑 **Incident Response (IR)**
+  
+* Traditionally has been:
+  - 🤔 Manual which does not scale <br>
+  - 🚨 Triage designates level of severity <br>
+  - 🛟 Remediate shut down, fix, apply patches, put in controls to stop the leak of data <br>
+
+* IR Modern:
+  - 💻 Security Orchestration, Automation and Response (SOAR)
+  - 👩‍💻 Automate as much as possible
+  - 👥 Breaks down silos
+  - 🌐 Holistic view
+  - ⏰ Reduce time to contain <br>
+
+
+   <img src="https://github.com/thequietlife/CTI-101/blob/ae5a17e4aeecdc0115349177abb5364be476627a/images/attack%20scenario.png"
+alt="shows timeline of an attack as listed below" width="250"/>
+
+
+🟩 Cases <br>
+* 💻 🦠 &#8594; 🔔 &#8594; SIEM
 
 
 
-
-
-
-
-
+🟩 Investigations <br>
+*
 
 
 
