@@ -710,9 +710,8 @@ alt="shows timeline of an attack as listed below" width="300"/>
 ## Response <br>
 
 🟩 Basics of Security Response <br>
-🟩 Cases <br>
-🟩 Investigations <br>
-🟩 Auto + Orchestrate <br>
+🟩 Cases + Investigations <br>
+🟩 Automation versus Orchestration <br>
 🟩 Notify <br>
 
 
@@ -742,102 +741,20 @@ alt="shows timeline of an attack as listed below" width="300"/>
 alt="shows timeline of an attack as listed below" width="250"/>
 
 
-🟩 Cases <br>
-* 💻 🦠 Attack &#8594; 🔔 Alert &#8594; SIEM &#8594; and/or XDR &#8594; 💼 Create a case (assign, update) &#8594; SIEM and/or XDR added in artefacts + IOCs &#8594; 🔎 Investigate &#8594; 📗 Playbooks &#8594; 🩹 🧰 Remediate 
-
-
-
-🟩 Investigations <br>
-*
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+🟩 Cases + Investigations <br>
+* 💻 🦠 Attack &#8594; 🔔 Alert &#8594; SIEM &#8594; and/or XDR &#8594; 💼 Create a case (assign, update) &#8594; SIEM and/or XDR added in artefacts + IOCs &#8594; 🔎 Investigate &#8594; 📗 Dynamic Playbooks &#8594; 🩹 🧰 Remediation <br>
+
+🟩 Automation versus Orchestration <br>
+* Can't use automation for Black Swan Events or First of a Kind (FOAK) cases. Will have to figure out some of it manually
+* Some tasks will be manual but can aim to automate as much as possible
+* Orchestration = semi-automated 🖲️ 🎺 🎻 <br>
+  
+🟩 Notify <br>
+* ⚠️ 📝 Breach notification
+* Assertain type of data
+   - Sensitive data (bank details etc)
+   - Location (country, state)
+   - ⚖️ Laws to comply to, 💰 💵 💵 🛑 penalties <br>
 
 ________
 Sources: 
