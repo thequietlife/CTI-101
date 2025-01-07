@@ -694,7 +694,7 @@ alt="shows timeline of an attack as listed below" width="300"/>
 2️⃣ **Attack** commences after Recon <br>
 3️⃣ Then a gap before **Mean Time to Identify (MTTI)**. Sometimes up to 6 months <br>
 4️⃣ **Aware** Ideally needs to be sooner, this is done by threat hunting <br>
-5️⃣ **Mean Time to Contain (MTTC)** - time it takes to complete response. Can take 3 months. <br> 
+5️⃣ **Mean Time to Contain (MTTC)** - time it takes to complete response. Can take 3 months. Over the years the MTTI and MTTC has remained about the same, even with new tech. <br> 
 
 * 🔎 **Threat Hunting** - To reduce the times taken to be aware of an attack
 * 💡 Proactive
@@ -707,10 +707,19 @@ alt="shows timeline of an attack as listed below" width="300"/>
 
 🎉 🪩 🕺 **Last section!!** <br>
 
-## Response
+## Response <br>
+
+🟩 Basics <br>
+🟩 Cases <br>
+🟩 Investigate <br>
+🟩 Auto + Orchestrate <br>
+🟩 Notify <br>
 
 
-
+🟩 Basics of Security Response <br>
+* Aim is to reduce the **Mean Time to Contain (MTTC)** - days to respond and recover
+* The team responsible for the detection and response is the SOC
+  -  
 
 
 
