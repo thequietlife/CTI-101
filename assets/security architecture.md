@@ -176,7 +176,9 @@ We need to guard against these attacks, make sure that our systems are available
 IT project checklist: <br>
 ✅ Have I met the confidentiality requirements of the project? Is the sensitive data only available to authorised users? <br>
 ✅ Is there integrity checking? If someone modifies or tampers with the system will I be made aware of it? <br>
-✅ Do I have the system available all the time it is supposed to be available? <br>
+✅ Do I have the system available all the time it is supposed to be available? 
+
+The CIA Triad is similiar to the Project management triangle. You can't have all three. If you want a project sped up it is going to cost more. Thank you to @icd for pointing out that the CIA Triad is similar.<br>
 
 #### Cybersecurity Architect
 * Role
@@ -643,13 +645,6 @@ Secure Coding needs: <br>
 * Orchestrate - 🎻 🎷 an analyst looking for certain things and providing direction like a music conductor 
 * Automate - can't use automation for an attack which is the first of its type
 
-🟨 Top 5 Things to Reduce a Data Breach <br>
-1️⃣ AI <br>
-2️⃣ DevSecOps <br>
-3️⃣ Incident Response (IR) <br>
-3️⃣ Cryptography <br>
-5️⃣ Training staff <br>
-
 ## 🔍 🖥️ Detection <br>
 
 🟦 Monitor <br>
@@ -742,7 +737,7 @@ alt="shows timeline of an attack as listed below" width="250"/>
 
 
 🟩 Cases + Investigations <br>
-* 💻 🦠 Attack &#8594; 🔔 Alert &#8594; SIEM &#8594; and/or XDR &#8594; 💼 Create a case (assign, update) &#8594; SIEM and/or XDR added in artefacts + IOCs &#8594; 🔎 Investigate &#8594; 📗 Dynamic Playbooks &#8594; 🩹 🧰 Remediation <br>
+* 💻 🦠 Attack &#8594; 🔔 Alert &#8594; SIEM/XDR &#8594; 💼 Create a case (assign, update) &#8594; add in artefacts + IOCs &#8594; 🔎 Investigate &#8594; 📗 Dynamic Playbooks &#8594; 🩹 🧰 Remediation <br>
 
 🟩 Automation versus Orchestration <br>
 * Can't use automation for Black Swan Events or First of a Kind (FOAK) cases. Will have to figure out some of it manually
@@ -765,6 +760,7 @@ Sources:
 5. [Cloudflare Learning Center](https://www.cloudflare.com/en-gb/learning/)
 
 Credits:
-1. Drawings made using [draw.io](https://app.diagrams.net/)
-2. Icons from [Flaticon](https://www.flaticon.com/)
+1. Thank you to @icd for feedback 💎
+2. Drawings made using [draw.io](https://app.diagrams.net/)
+3. Icons from [Flaticon](https://www.flaticon.com/)
 
