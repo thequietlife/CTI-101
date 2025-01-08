@@ -15,7 +15,7 @@
 _______________
 
 ### What is Security Architecture?
-It is the strategic design of systems to protect, information and ensure its integrity, confidentiality and availability against threats.
+It is the strategic design of systems to protect, information and ensure its integrity, confidentiality and availability against threats. Though it is important to keep in mind the importance of business processes and team members. Forget shiny tech if your business processes are convoluted and ineffective or if your team are not supported. (Thank you @icd for this feedback 🙏)
 
 ### Main Objectives of Security Architecture
 To reduce the risk of security breaches and protect organisations from threats. The aim is to avoid a single point of control. For example, one person can not approve an invoice and process it for payment.
@@ -656,26 +656,10 @@ Secure Coding needs: <br>
 * Security is about prevention, detection and response
 * CIA Triad: Confidentiality, Integrity and Availability (CIA) - security is about trying to achieve one or more of these three things. This is the aim of cybersecurity. Prevention, detection and response is how we achieve this
 * Detection = getting information from 🧑‍🦰 &rarr; 💻 &rarr; server &rarr; database &rarr; monitoring system 🖥️ 🔔 &rarr; monitor &rarr; 🔎 analyse &rarr; 📝 📋 report &rarr; 🏹 hunt (threat hunting) &rarr; response 🚑 🚒
-* Detection and Response done by Security Operations Centre (SOC) using a Security Information and Event Management System (SIEM) or an Extended Detection and Response System (XDR) <br>
+* Detection and Response done by Security Operations Centre (SOC) using a Extended Detection and Response System (XDR) or Security Information and Event Management System (SIEM)<br>
 
-**Security Information and Event Management System (SIEM)**
-* Consistent single view of what is happening. Collecting information from all identity security console, access management console, endpoint management console etc and feeding it a higher level system, SIEM
-* 🔔 **Collect** logs, alarms, events and flow data from across the network &rarr; SIEM database &rarr; 🔎 Analyse
-* 🧩 **Correlate** &rarr; 🧩 &rarr; 🧩 &rarr; 🧩 &rarr; 🧩 different events or four difference alarms into 1️⃣ smaller, more manageabke subset
-* 🔎 **Analyse**
-   - Rules based upon our security policies. We can start building very complex rules, for example: if a certain condition like traffic coming from a partilcular region and it meets some other criteria e.g. someone tries to log in too many times and downloads a very large piece of data (IF .... & .... & .... THEN ... ACTION 🚨). (Indicators of Compromise IOC). Prioritise the 🚨 alarm - High, Medium or Low and assign it to an analyst.
-   - Anomalies - look for something that is unusual, using AI, Machine Learning (ML), UBA to find patterns that we might not pick up
-   - Trends - look for trends to provide reports for management. E.g. how is the SOC tracking compared to last month, info about alarms being detected, time to resolve cases <br>
-
-**Extended Detection and Response System (XDR)** <br>
-* Originated out of EDR
-* EDR installs an app on each 🖥️ workstation, server or laptop. The app's role is detection and a certain level of response. Where a SIEM brings all the actins up, a EDR brings the actions down to the system level to do the detecting and automating the response on the platform - **close** to the **source** of the **attack**
-* XDR brings the information up from the 🖥️ workstations, servers and laptops (endpoint devices) - where the security policies have been enforced and are 🔎 looking for unusual behavour.
-* Info from a SIEM can be fed into a XDR
-* EDRs needs a way to report up and provide a holistic view, enter XDR
-* An extra function is 🔦 **Federated Search** which looks for particular IOCs, incidences, alerts or conditions and puts a query to ask if any are occuring on the system. Think of 🃏 🐟 **Go Fish** If they have the particular card or incident they 🗣️ 📢 call out or report it. <br>
-
-Ideally all of the systems are needed SIEM, XDR, Federated Search. <br>
+** XDR/SIEM
+* Create cases, assign, feed in IOCs, use playbooks for investigations.
 
 🟦 Hunt <br>
 * Attack scenario <br>
