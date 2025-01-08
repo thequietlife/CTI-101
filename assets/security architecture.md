@@ -15,7 +15,7 @@
 _______________
 
 ### What is Security Architecture?
-It is the strategic design of systems to protect, information and ensure its integrity, confidentiality and availability against threats. Though it is important to keep in mind the importance of business processes and team members. Forget shiny tech if your business processes are convoluted and ineffective or if your team are not supported. (Thank you @icd for this feedback 🙏)
+It is the strategic design of systems to protect, information and ensure its integrity, confidentiality and availability against threats. Though it is important to keep in mind the importance of business processes and team members. Forget shiny tech if your business processes are convoluted and ineffective or if your team are not supported. (Thank you wan0net for this feedback 🙏)
 
 ### Main Objectives of Security Architecture
 To reduce the risk of security breaches and protect organisations from threats. The aim is to avoid a single point of control. For example, one person can not approve an invoice and process it for payment.
@@ -178,7 +178,7 @@ IT project checklist: <br>
 ✅ Is there integrity checking? If someone modifies or tampers with the system will I be made aware of it? <br>
 ✅ Do I have the system available all the time it is supposed to be available? 
 
-The CIA Triad is similiar to the Project management triangle. You can't have all three. If you want a project sped up it is going to cost more. Thank you to @icd for pointing out that the CIA Triad is similar.<br>
+The CIA Triad is similiar to the Project management triangle. You can't have all three. If you want a project sped up it is going to cost more. Thank you to wan0net for pointing out that the CIA Triad is similar.<br>
 
 #### Cybersecurity Architect
 * Role
@@ -744,7 +744,7 @@ Sources:
 5. [Cloudflare Learning Center](https://www.cloudflare.com/en-gb/learning/)
 
 Credits:
-1. Thank you to @icd for feedback 💎
+1. Thank you to wan0net for feedback 💎
 2. Drawings made using [draw.io](https://app.diagrams.net/)
 3. Icons from [Flaticon](https://www.flaticon.com/)
 
