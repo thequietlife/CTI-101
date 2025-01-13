@@ -32,11 +32,15 @@ ___________________________
       - Detection
       - Reponse
          
-  * Encryption Standards
-  * Security Concepts
+  * 📓 [Cybersecurity Concepts](https://github.com/thequietlife/CTI-Crash-Course/blob/main/assets/cybersecurity%20concepts.md)
+    - Basic Threat Landscape
+    - Different Types of Malware
+    - Basic Mitigatio Strategies
+      
   * Common Attack Types
   
 ### Next:
+* Encryption Standards
 * Writing with Clarity
 * Study APT Reports
 * Critical Thinking
