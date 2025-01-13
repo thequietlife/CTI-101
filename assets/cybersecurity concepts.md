@@ -45,9 +45,9 @@ Attackers don't need a computer to carry out an attack. Attacks can vary widely 
 - Mobile devices
 - Organisation's technology infrastructure
 - Cloud services
-- People. <br>
+- People. 
 
-### What are Attack Vectors?**
+### What are Attack Vectors? 
 An attack vector is an entry point or route for an attacker to gain access to a system. Examples:
 - Email
 - Social media
@@ -55,7 +55,7 @@ An attack vector is an entry point or route for an attacker to gain access to a 
 - Cloud services
 - Insider threats
 - Devices that are not secured, e.g. IOT devices
-- Wireless. <br>
+- Wireless. 
 
 **Common Attack Vectors**
 - Email is one of the most common attack vectors, e.g. clicking on a link
@@ -67,19 +67,43 @@ An attack vector is an entry point or route for an attacker to gain access to a 
 - Cloud services: attackers can compromise poorly secured resources or services in the cloud, e.g. compromise an account in a cloud service or gain control of any resources or services availalble to that account. They could also gain access to another account with even more permissions.
 - Insiders: the employees of an organisation can serve as an attack vector in a cyber attack, intentionally or not. **Social Engineering Attack**: An attacker may impersonate a person of authority to gain unauthorised access to a system.<br>
 
+### Security Breaches
+- Definition
+- Types
+
+**Definition**: Any attack that results in someone gaining unauthorised access to devices, services or networks. Think of an intruder breaking in to a building, getting in through an open window.
+
+**Some Types of Attacks**:
+🟥 Social Engineering Attacks <br>
+🟥 Browser Attacks <br>
+🟥 Password Attacks <br>
 
 
+🟥 Social Engineering Attacks
+- Attacks can use social enginnering attacks to exploit or manipulate users into granting them unauthorised access to a system. For example, a cybercriminal might pretend to be have an enticing job offer or presentation opportunity. <br>
+
+🟥 Browser Attacks 
+- If a team member (user) is working on a tight deadline and goes to a website for a solution. The website could ask the user to make changes to their browser settings so they can install an add-o. The user follows the instructions on the website. Now their website is compromised. The attacker can now use the browser to steal information, monitor user behaviour or compromise a device. This is referred to as a Browser Modifier Attack. <br>
+
+🟥 Password Attacks <br>
+- A password attack is when someone attempts to use authentication for a password protected account to gain unauthorised access to a device or system. Attackers often use password cracking tools. This is referred to as a Brute Force Attack.
+
+⚠️**Data Breaches**
+A data breach happens when personal information is accessed, disclosed without authorisation, or is lost. For example, when:
+
+- a USB or mobile phone that holds a individual’s personal information is stolen
+- a database containing personal information is hacked
+- someone’s personal information is sent to the wrong person
+  
+A data breach can harm an individual whose personal information is affected. They can, for example, suffer distress or financial loss.
 
 
+### Malware in the Building
 
+Malicious software (Malware) made by cybercriminals to steal data, infect systems and/or damage a network. Usually added covertly with the aim of disrupting the victim. <br>
 
-
-
-
-
-
-
-
+There are **two broad components** of malware: 
+- How it spreads or propagates 
 
 
 
@@ -92,6 +116,7 @@ Sources:
 1. [Microsoft Learn, Describe the basic concepts of cybersecurity](https://learn.microsoft.com/en-us/training/paths/describe-basic-concepts-of-cybersecurity/)
 2. [ASD’s Australian Cyber Security Centre (ACSC)](https://www.cyber.gov.au/learn-basics/view-resources/glossary)
 3. [Cybersecurity & Infrastructure Security Agency: America's Cyber Defense Agency](https://www.cisa.gov/)
+4. [Office of the Australian Information Commissioner](https://www.oaic.gov.au/privacy)
    
 
 
