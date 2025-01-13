@@ -32,7 +32,7 @@ ___________________________
       - Detection
       - Reponse
          
-  * 📓 [Cybersecurity Concepts](https://github.com/thequietlife/CTI-Crash-Course/blob/main/assets/cybersecurity%20concepts.md)
+  * 📓 [Cybersecurity Concepts](https://github.com/thequietlife/CTI-Crash-Course/blob/73223d14393abc3e257cf4b7220a2595b09584e6/assets/cybersecurity%20concepts.md)
     - Basic Threat Landscape
     - Different Types of Malware
     - Basic Mitigation Strategies
