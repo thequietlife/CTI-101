@@ -1,6 +1,9 @@
 ## 📓 Cybersecurity Concepts
 
-- Basic Threat Landscape
+- Definitions
+- Threat Actors
+- Threat Landscape
+- Security Breaches
 - Different Types of Malware
 - Basic Mitigation Strategies
 
@@ -9,7 +12,7 @@
 
 **Cybersecurity**: Technologies, processes, policies and training that help protect networks, devices and data from cyberattacks, damage and unauthorized access. <br>
 
-**Cyber attack**: To manipulate, disrupt, deny, degrade, or destroy computers, networks, or the information they contain, with the aim of significantly undermining national security, stability, or economic prosperity.
+**Cyber Attack**: To manipulate, disrupt, deny, degrade, or destroy computers, networks, or the information they contain, with the aim of significantly undermining national security, stability, or economic prosperity.
 
 An attempt to gain illegal access to a computer or computer system to cause damage or harm...a cyber attack can occur on almost any modern digital device. An attacker can use people, computers, applications, messages and system processes to carry out an attack. 
 
@@ -20,11 +23,23 @@ Examples:
 - Steal information
 - Publicly expose private information
 - Stop vital business processes and systems from running <br>
+
 Attackers don't need a computer to carry out an attack. Attacks can vary widely in their nature and scope. <br>
 
-**Threat actor**: An individual or organisation that conducts malicious activity, such as cyber espionage, cyber attacks or cyber-enabled crime. <br>
+**Threat Actor**: An individual or group that conducts malicious activity, such as cyber espionage, cyber attacks or cyber-enabled crime. <br>
 
-**Threat landscape**: Whether an organisation is large or small, the entirety of the digital landscape with which it interacts represents an entry point for a cyber attack. These can include:
+**Threat Actor Type**: 
+
+| Type | Motivation |
+|------|------------|
+| Cybercriminal | Financial |
+| Hacktivist | Put spotlight on their cause |
+| Nation-State / Advanced Persistent Threat (APT) Actors | Sabotage, gathering intelligence, financial |
+| Insiders | Revenge, whistle blower |
+| Script Kiddies | Reputation |
+| Internal User Mistakes / User Error | Accidental |
+
+**Threat Landscape**: Whether an organisation is large or small, the entirety of the digital landscape with which it interacts represents an entry point for a cyber attack. These can include:
 - Email accounts
 - Social media accounts
 - Mobile devices
@@ -32,7 +47,7 @@ Attackers don't need a computer to carry out an attack. Attacks can vary widely 
 - Cloud services
 - People. <br>
 
-### What are attack vectors?**
+### What are Attack Vectors?**
 An attack vector is an entry point or route for an attacker to gain access to a system. Examples:
 - Email
 - Social media
