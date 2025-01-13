@@ -35,7 +35,7 @@ ___________________________
   * 📓 [Cybersecurity Concepts](https://github.com/thequietlife/CTI-Crash-Course/blob/main/assets/cybersecurity%20concepts.md)
     - Basic Threat Landscape
     - Different Types of Malware
-    - Basic Mitigatio Strategies
+    - Basic Mitigation Strategies
       
   * Common Attack Types
   
