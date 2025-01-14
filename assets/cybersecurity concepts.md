@@ -103,10 +103,32 @@ A data breach can harm an individual whose personal information is affected. The
 Malicious software (Malware) made by cybercriminals to steal data, infect systems and/or damage a network. Usually added covertly with the aim of disrupting the victim. <br>
 
 There are **two broad components** of malware: 
-- How it spreads or propagates 
+1️⃣ Propagnation Mechanism, how it spreads or propagates
+2️⃣ Payload, the actions it performs once a target is reached <br>
 
+1️⃣ Propagnation Mechanism <br>
 
+**Examples**: <br>
+-  Virus, download a file
+-  Worm, doesn't need any user action to spread itself
+-  Trojan, pretends to be a genuine piece of software <br>
 
+2️⃣ Payload <br>
+**Examples**: <br>
+- Ransomware
+- Spyware
+- Back doors
+- Botnet
+
+**Ransomware**is a payload that locks systems or data until the victim has paid a ransom <br>
+**Spyware** a type of payload that spies on a device or system, e.g. a cybercriminal infiltrates a software company and leaves some code that allows them to carry out attacks. This becomes a back door that the attacker could use to hack into the application <br>
+**Botnet** joins a computer, server or another device to a network of similiarly infected devices that can be controlled remotely, e.g. crypto-mining - the malware connects a device to a botnet that consumes the device's computing power to mine or generate cryptocurrencies. <br>
+
+**Basic Mitigation Strategies**
+🟢 Multi-factor authentication
+🟢 Browser security
+🟢 Educate users
+🟢 Threat intelligence
 
 
 
