@@ -114,13 +114,14 @@ There are **two broad components** of malware: <br>
 -  Trojan, pretends to be a genuine piece of software <br>
 
 2️⃣ Payload <br>
+
 **Examples**: <br>
 - Ransomware
 - Spyware
 - Back doors
 - Botnet
 
-**Ransomware**is a payload that locks systems or data until the victim has paid a ransom <br>
+**Ransomware** is a payload that locks systems or data until the victim has paid a ransom <br>
 
 **Spyware** a type of payload that spies on a device or system, e.g. a cybercriminal infiltrates a software company and leaves some code that allows them to carry out attacks. This becomes a back door that the attacker could use to hack into the application <br>
 
