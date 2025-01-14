@@ -73,7 +73,7 @@ An attack vector is an entry point or route for an attacker to gain access to a 
 
 **Definition**: Any attack that results in someone gaining unauthorised access to devices, services or networks. Think of an intruder breaking in to a building, getting in through an open window.
 
-**Some Types of Attacks**:
+**Some Types of Attacks**:<br>
 🟥 Social Engineering Attacks <br>
 🟥 Browser Attacks <br>
 🟥 Password Attacks <br>
@@ -88,7 +88,7 @@ An attack vector is an entry point or route for an attacker to gain access to a 
 🟥 Password Attacks <br>
 - A password attack is when someone attempts to use authentication for a password protected account to gain unauthorised access to a device or system. Attackers often use password cracking tools. This is referred to as a Brute Force Attack.
 
-⚠️**Data Breaches**
+⚠️ **Data Breaches**
 A data breach happens when personal information is accessed, disclosed without authorisation, or is lost. For example, when:
 
 - a USB or mobile phone that holds a individual’s personal information is stolen
@@ -102,8 +102,8 @@ A data breach can harm an individual whose personal information is affected. The
 
 Malicious software (Malware) made by cybercriminals to steal data, infect systems and/or damage a network. Usually added covertly with the aim of disrupting the victim. <br>
 
-There are **two broad components** of malware: 
-1️⃣ Propagnation Mechanism, how it spreads or propagates
+There are **two broad components** of malware: <br>
+1️⃣ Propagnation Mechanism, how it spreads or propagates <br>
 2️⃣ Payload, the actions it performs once a target is reached <br>
 
 1️⃣ Propagnation Mechanism <br>
