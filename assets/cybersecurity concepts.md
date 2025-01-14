@@ -121,14 +121,16 @@ There are **two broad components** of malware: <br>
 - Botnet
 
 **Ransomware**is a payload that locks systems or data until the victim has paid a ransom <br>
+
 **Spyware** a type of payload that spies on a device or system, e.g. a cybercriminal infiltrates a software company and leaves some code that allows them to carry out attacks. This becomes a back door that the attacker could use to hack into the application <br>
+
 **Botnet** joins a computer, server or another device to a network of similiarly infected devices that can be controlled remotely, e.g. crypto-mining - the malware connects a device to a botnet that consumes the device's computing power to mine or generate cryptocurrencies. <br>
 
-**Basic Mitigation Strategies**
-🟢 Multi-factor authentication
-🟢 Browser security
-🟢 Educate users
-🟢 Threat intelligence
+**Basic Mitigation Strategies** <br>
+🟢 Multi-factor authentication <br>
+🟢 Browser security <br>
+🟢 Educate users <br>
+🟢 Threat intelligence <br>
 
 
 
