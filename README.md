@@ -37,7 +37,7 @@ ___________________________
     - Different Types of Malware
     - Basic Mitigation Strategies
       
-  * Common Attack Types
+  * 🦠 Common Attack Types
   
 ### Next:
 * Encryption Standards
