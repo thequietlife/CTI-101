@@ -1,6 +1,6 @@
-# 🚀 Cyber Threat Intelligence Crash Course
+# 📓 Cyber Threat Intelligence (CTI) 101
 
-🚧 Putting all my notes into one spot. Notes from learning CTI. I have used Andy Piazza's [Cyber Threat Intelligence Study Plan](https://klrgrz.medium.com/cyber-threat-intelligence-study-plan-c60484d319cb) and Katie Nickels' [A Cyber Threat Intelligence Self-Study Plan](https://medium.com/katies-five-cents/a-cyber-threat-intelligence-self-study-plan-part-1-968b5a8daf9a) as guides. I have also gone through a stack of CTI analyst job ads to find the skills hiring managers want for a cyber threat intel analyst.
+🚧 Putting all my notes into one spot. Notes from learning CTI. I have used Andy Piazza's [Cyber Threat Intelligence Study Plan](https://klrgrz.medium.com/cyber-threat-intelligence-study-plan-c60484d319cb) and Katie Nickels' [A Cyber Threat Intelligence Self-Study Plan](https://medium.com/katies-five-cents/a-cyber-threat-intelligence-self-study-plan-part-1-968b5a8daf9a) as guides. I have also gone through a stack of CTI analyst job ads to find the skills hiring managers want.
 
 ___________________________
 
@@ -32,7 +32,7 @@ ___________________________
       - Detection
       - Reponse
          
-  * 📓 [Cybersecurity Concepts](https://github.com/thequietlife/CTI-Crash-Course/blob/2b7819a889344e539231a220c021aa4b42449392/assets/cybersecurity%20concepts.md)
+  * 📕 [Cybersecurity Concepts](https://github.com/thequietlife/CTI-Crash-Course/blob/2b7819a889344e539231a220c021aa4b42449392/assets/cybersecurity%20concepts.md)
     - Basic Threat Landscape
     - Different Types of Malware
     - Basic Mitigation Strategies
