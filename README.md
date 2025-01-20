@@ -37,7 +37,7 @@ ___________________________
     - Different Types of Malware
     - Basic Mitigation Strategies
       
-  * 🦠 [Common Attack Types](https://github.com/thequietlife/CTI-Crash-Course/blob/3d1c7ae8ce549dc28e1e02656b8916ce02e19421/assets/common%20attack%20types.md)
+  * 🦠 [Common Attack Types](https://github.com/thequietlife/CTI-101/blob/f9a1737d7bbaa49c2c89e057a155b485842478df/assets/common%20attack%20types.md)
   
 ### Next:
 * Encryption Standards
