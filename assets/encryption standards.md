@@ -1,6 +1,6 @@
 
 
-## Cryptography 
+## 🔒 Cryptography 
 The study and use of methods to protect messages by turning readable information (plaintext) into scrambled code (ciphertext) using a cipher. The original message can only be decoded with the correct cryptographic key.
 
 **Encryption** is the process of converting data so that only the intended recipient can read it.
