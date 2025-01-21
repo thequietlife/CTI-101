@@ -1,20 +1,20 @@
 
 
-## Cryptography
-- The study and use of methods to protect messages by turning readable information (plaintext) into scrambled code (ciphertext) using a cipher. The original message can only be decoded with the correct cryptographic key.
+## Cryptography 
+The study and use of methods to protect messages by turning readable information (plaintext) into scrambled code (ciphertext) using a cipher. The original message can only be decoded with the correct cryptographic key.
 
 **Encryption** is the process of converting data so that only the intended recipient can read it.
 
 
 ### Encryption Standards
 
-* Symmetric encryption: uses a single secret key 
-- Advanced Encryption Standard (AES) replaces the Data Encryption Standard (DES)
-- AES encrypts 128-bit data
+* Symmetric encryption: uses a single secret key
+    - Advanced Encryption Standard (AES) replaces the Data Encryption Standard (DES)
+    - AES encrypts 128-bit data
 
   
 * Asymmetric encryption also known as Public Key Cryptography
-- Rivest Shamir Adleman (RSA) uses two keys, a public key and a private key to encrypt and decrypt data
+    - Rivest Shamir Adleman (RSA) uses two keys, a public key and a private key to encrypt and decrypt data
 
 
 
