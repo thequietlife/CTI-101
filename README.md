@@ -38,10 +38,10 @@ ___________________________
     - Basic Mitigation Strategies
       
   * 🦠 [Common Attack Types](https://github.com/thequietlife/CTI-101/blob/f9a1737d7bbaa49c2c89e057a155b485842478df/assets/common%20attack%20types.md)
-  
-### Next:
-* Encryption Standards
-* Writing with Clarity
+    
+  * 🔒 [Encryption Standards](https://github.com/thequietlife/CTI-101/blob/e9e0086c1857d2e6170e6805e37579aa4436bdf2/assets/encryption%20standards.md)
+
+* 🖊️ Writing with Clarity
 * Study APT Reports
 * Critical Thinking
 * Intelligence Analysis Fundamentals
