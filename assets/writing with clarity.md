@@ -50,6 +50,7 @@
 * “Vigorous writing is concise...every word [should earn its place] tell”  [The Elements of Style, William Strunk](https://www.amazon.com.au/Elements-Style-William-Strunk/dp/020530902X) - Every word should earn its place.
 * Delete, delete
 
+https://github.com/thequietlife/CTI-101/blob/c95c2b435bde064300d7311f77b3a9941ab349e1/images/Shakespeare%20Sonnet%2018.png
 
 
 “The first draft of anything is shit” Hemmingway 
