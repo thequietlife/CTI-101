@@ -2,13 +2,12 @@
 
 **Notes from Darren Pauli's BSides Melbourne 2022 and AusCERT 2023 presentations**
 
-### 01. The Lede
+### 1. The Lede
 
-🟦 🪟 Clarity <br>
-🟦 Story <br>
+🟦 Clarity <br>
 🟦 Influence <br>
+🟦 Story <br>
 🟦 Grammar <br>
-
 
 🟦 🪟 Clarity <br>
 
@@ -18,7 +17,7 @@
 * Burying the lede - putting the important thing too far down
 * 🏀 Think of a coach's game plan to the players during a time out in the last minute of a game
 
-🟦 Influence & change
+🟦 Influence & change <br>
 
 * Bad products sell with good marketing
 * Good products fail with bad marketing
@@ -31,7 +30,7 @@
 * Compliance increase
 * Galvanise security’s “weakest link” 
 
-🟦 Story
+🟦 Story <br>
 
 * Filter out information
 * Use pathos (emotion)
@@ -50,22 +49,34 @@
 * “Vigorous writing is concise...every word [should earn its place] tell”  [The Elements of Style, William Strunk](https://www.amazon.com.au/Elements-Style-William-Strunk/dp/020530902X) - Every word should earn its place.
 * Delete, delete
 
-https://github.com/thequietlife/CTI-101/blob/c95c2b435bde064300d7311f77b3a9941ab349e1/images/Shakespeare%20Sonnet%2018.png
+<img src="https://github.com/thequietlife/CTI-101/blob/c95c2b435bde064300d7311f77b3a9941ab349e1/images/Shakespeare%20Sonnet%2018.png"
+alt="the first ten lines of William Shakespeare's Sonnet 18" width="300"/>
 
+* Cut the waffle
+  
+<img src="https://github.com/thequietlife/CTI-101/blob/bc5e2014c78a3aa85ab17019a1ea82ea8e3a7b96/images/Shakespeare%20Sonnet%2018%20Strunk%20edit.png"
+alt="Sonnet 18 edited taking Strunk's vigorous advice" width="400"/>
 
-“The first draft of anything is shit” Hemmingway 
+* “The first draft of anything is shit” Hemmingway
+* Second, third drafts still miserable but that's ok
 
+🟦 Grammar <br>
+* Tools
+  - Microsoft > Word > Options > Proofing > Grammar Settings > Writing Style > Grammar and Refinements > Tick all
+  - Grammarly
+* Grammar is a bore. Grammar is amazing. Grammar guides your reader
+* Start with the basics: when to use commas, apostrophes
+* 🚦 🛑 Grammar is the sign post that guides the reader - when they need to take a mental breath
+  
 
+### 02 | The Body
+🟩 Audience <br>
+🟩 Structure <br>
+🟩 Message <br>
 
+“The audience is the judge“ Aristotle <br>
 
-01 | the body
-Audience
-Structure
-Message
-
-“The audience is the judge“ Aristotle
-
-Audience
+🟩 Audience <br>
 
 Knowledge
 Priorities
