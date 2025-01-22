@@ -1,6 +1,6 @@
 ## 🖊️ Writing with Clarity - Darren Pauli
 
-**Notes from Darren Pauli's BSides Melbourne 2022 presentation**
+**Notes from Darren Pauli's BSides Melbourne 2022 and AusCERT 2023 presentations**
 
 ### 01. The Lede
 
@@ -15,37 +15,42 @@
 * Rapid communication
 * Less frustrating
 * Fewer mistakes
-* Burying the lede
+* Burying the lede - putting the important thing too far down
 * 🏀 Think of a coach's game plan to the players during a time out in the last minute of a game
 
-- Influence and changes
+🟦 Influence & change
 
 * Bad products sell with good marketing
 * Good products fail with bad marketing
 * So, market your ideas
-* Build your rep.
-* Becomes known for signal, not noise
+* Build your reputation
+* Become known for signal, not noise
 
 * Win hearts and minds
 * Risk reduction
 * Compliance increase
 * Galvanise security’s “weakest link” 
 
-
 🟦 Story
 
 * Filter out information
 * Use pathos (emotion)
-* Be unexpected. Surprise
-* Read a lot. Write a lot. (Stephen King on writing: "The only way to be a great writer is to read a lot, write a lot."
+* Stories are really effective
+* Stories are remembered easier than a paper with just facts
+* Stories trigger a dopamine release that prompts concentration and interest
+* Vulnerabilities lead to exploits to breaches ➡️ **consequences** on people's lives - people with money, businesses getting closed down - these are the sort of things that you can tap into
+* **Translate your technical severe findings into something that really resonates**
+* Surprise is an amazing thing to use. We solidify our memories after moments of surprise - a daring thing you did as a child - a shock that gets stuck in your memory 
+* Be unexpected - an air hostess saying if not enough masks drop down pick your favourite kid and everyone laughed
+* "Non-fiction can be every bit as exciting as fiction" Nobody Wants to Read Your Sh*t, Steven Pressfield
+* Read a lot. Write a lot
+* Stephen King, On Writing: A Memoir of the Craft **"The only way to be a great writer is to read a lot, write a lot"**
 * Read - not blogs, articles that a cadet got beaten to write properly
-* Writer’s block? Read, run, rest, 
-* Rewrite (Little Miss Sunshine was rewritten 100 times)
+* **Writer’s block? Read, physical exercise (run), rest, rewrite (Little Miss Sunshine was rewritten 100 times)**
+* “Vigorous writing is concise...every word [should earn its place] tell”  [The Elements of Style, William Strunk](https://www.amazon.com.au/Elements-Style-William-Strunk/dp/020530902X) - Every word should earn its place.
+* Delete, delete
 
 
-“Vigorous writing is concise...every word [should] tell”  [The Elements of Style, William Strunk](https://www.amazon.com.au/Elements-Style-William-Strunk/dp/020530902X)
-
-* Every word should earn its space 
 
 “The first draft of anything is shit” Hemmingway 
 
