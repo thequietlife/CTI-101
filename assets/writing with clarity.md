@@ -89,7 +89,7 @@ alt="Sonnet 18 edited taking Strunk's vigorous advice" width="400"/>
 2️⃣ Priorities <br>
 3️⃣ Tone <br>
 
-**Knowledge**: 
+1️⃣ **Knowledge**: 
 * Understand what your reader definitely knows e.g. acronyms
 * Exposure 
 * Bias and opinions
@@ -104,14 +104,17 @@ alt="Sonnet 18 edited taking Strunk's vigorous advice" width="400"/>
 * Give a quick definition
 * Requisite back story
 
-Exposure
+**Exposure** - understand a reader's exposure to material and bring them on the learning journey: bring them into the fold a little bit <br>
+**Bias and opinions** - a reader with a strong stance on something might be harder to get them to listen <br>
 
-Priorities
-Agenda
-KPIs
-Operating style
+2️⃣ **Priorities**<br>
+* Agenda
+* KPIs
+* Operating style
 
-Tone 
+Everyone has an agenda, the thing that is important to them. They might not be a regular user and not understand that much. Work with that. <br>
+
+3️⃣ **Tone** <br>
 
 
 
