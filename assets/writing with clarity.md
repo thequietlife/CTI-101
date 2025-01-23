@@ -70,30 +70,41 @@ alt="Sonnet 18 edited taking Strunk's vigorous advice" width="400"/>
   
 
 ### 02 | The Body
+
+* Good communication can be broken into three parts: audience, structure, message 
+
 🟩 Audience <br>
 🟩 Structure <br>
 🟩 Message <br>
 
-“The audience is the judge“ Aristotle <br>
 
 🟩 Audience <br>
+* “The audience is the judge“ Aristotle - 👑 the audience is the king, someone that you need to influence
+* **Who is your reader?** A newspaper has sections on politics, sport and knows those readers, each is a distinct reader
+* Aim is to communicate with them not at them
 
-Knowledge
-Priorities
-Tone
+**Audience** can be broken up into three parts:
 
+1️⃣ Knowledge <br>
+2️⃣ Priorities <br>
+3️⃣ Tone <br>
 
-Knowledge
-Concrete understanding (acronyms)
-Exposure 
-Bias and opinions
+**Knowledge**: 
+* Understand what your reader definitely knows e.g. acronyms
+* Exposure 
+* Bias and opinions
 
+🏈 The Knowledge Gap: Ron Aldridge (?) in the 1960s was tasked with growing interest in college football. He figured out how to make people care about college football. He realised it was the knowledge gap that was the problem.
+ - Give them the backstory, the backstory of the star quarterback
+ - Talk about the rivalries, why there were tensions between the quarterbacks
+ - The camera would pan to the biggest supporters in crowd. This is still done now
+ - This approach became the default
 
-Give them the backstory. College football analogy. Camera pans to fans in crowd. Why tensions between the quarterbacks.
+* Define the term - e.g. denial of service attacks - a distributed denial of the service attack is da d a da - quick defn
+* Give a quick definition
+* Requisite back story
 
-Define the term - e.g. denial of service attacks - a distributed denial of the service attack is da d a da - quick defn
-
-Quick deft. Requisite back story
+Exposure
 
 Priorities
 Agenda
