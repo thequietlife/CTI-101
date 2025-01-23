@@ -133,15 +133,17 @@ Everyone has an agenda, the thing that is important to them. They might not be a
   - Save them time “Bradman Dead” front page newspaper - USE for email subject line. They don't necessarily need to read the email, that has given the reader enough info. It is not about the number of 'views' like with YouTube. Your aim is to let the reader leave at the earliest point. It is a courtesy - to save them time and avoid confusion. Don’t bury the lede. **Do not bury the most important thing below a sentence at the start** that doesn't tell them anything they might give up and never read that critical bit
   - Avoid confusion
 
+**Inverted pyramid of journalism**
 
+<img src="https://github.com/thequietlife/CTI-101/blob/63a68619f36ee4bc5e47f4e8698eb09364070eaf/images/story%20structure.png"
+alt="funnel shape with the headline, the lead, the body, the tail" width="300"/>
 
+- The most important information is first
+- The headline is your email subject line, report title, e.g. "Bradman Dead"
+- The first two sentences are the most important. Spend 80% time on this
+- The curse of knowledge is a killer for good communication. It can be hard for an expert to communicate something. How to get around it: "Get to know the wants and desires of your audience in order to get them to act", Ben and Kelly Decker, Communicate to Influence
 
-
-
-
-
-
-
+**Sentence structure
 
 
 
