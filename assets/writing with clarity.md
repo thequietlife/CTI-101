@@ -100,7 +100,7 @@ alt="Sonnet 18 edited taking Strunk's vigorous advice" width="400"/>
  - The camera would pan to the biggest supporters in crowd. This is still done now
  - This approach became the default
 
-* Define the term - e.g. denial of service attacks - a distributed denial of the service attack is da d a da - quick defn
+* Define the term - e.g. denial of service attacks - a distributed denial of the service attack is ...  - quick defn
 * Give a quick definition
 * Requisite back story
 
@@ -115,19 +115,46 @@ alt="Sonnet 18 edited taking Strunk's vigorous advice" width="400"/>
 Everyone has an agenda, the thing that is important to them. They might not be a regular user and not understand that much. Work with that. <br>
 
 3️⃣ **Tone** <br>
+* Professional
+* Technical
+* General
+
+* For execs every minute counts, costs money. Get to the point quickly.
+* Email from CISO to CEO - this is what I need you to do, is up front and underneath is the explanation
+
+🟩 Structure <br>
+* Story, report, email, all communication structure 
+* Sentence structure
+
+
+**Story/Comms Structure**
+* Think of building a house - get the foundations right, done first. Sentence structure is fitting out the floors 
+  - Guide your reader: story structure guides your comms
+  - Save them time “Bradman Dead” front page newspaper - USE for email subject line. They don't necessarily need to read the email, that has given the reader enough info. It is not about the number of 'views' like with YouTube. Your aim is to let the reader leave at the earliest point. It is a courtesy - to save them time and avoid confusion. Don’t bury the lede. **Do not bury the most important thing below a sentence at the start** that doesn't tell them anything they might give up and never read that critical bit
+  - Avoid confusion
 
 
 
 
-Structure
-Story structure (building a house - get the foundations right, done first)
-Sentence structure
 
 
-Story structure
-Guide your reader
-Save them time “Bradman Dead” front page newspaper - USE for email subject line. Don’t bury the lede.
-Avoid confusion
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
