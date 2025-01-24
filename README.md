@@ -45,8 +45,7 @@ ___________________________
     - Clarity
     - Influence
     - Story
-    - Grammar
- 
+    - Grammar 
     - Audience
     - Structure
     - Message
