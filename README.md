@@ -50,6 +50,7 @@ ___________________________
     - Structure
     - Message
   
+* 🖊️ Threat Intel for Everyone: Writing Like A Journalist To Produce Clear, Concise Reports 
 * Study APT Reports
 * Critical Thinking
 * Intelligence Analysis Fundamentals
