@@ -2,6 +2,21 @@
 
 **Notes from Darren Pauli's BSides Melbourne 2022 and AusCERT 2023 presentations**
 
+## Summary
+01 | The Lede
+
+🟦 Clarity <br>
+🟦 Influence <br>
+🟦 Story <br>
+🟦 Grammar <br>
+
+02 | The Body
+
+🟩 Audience <br>
+🟩 Structure <br>
+🟩 Message <br>
+
+
 ### 01 | The Lede
 
 🟦 Clarity <br>
@@ -204,7 +219,6 @@ alt="A longer article about the crash with a spot on headline about price of pra
 Again all about putting our audience first.
 It is all about the Christmas lunch. No prawns.
 
-
 **Closing**
 If you follow the structures. Read, read, read. You'll become a great writer.
 Practice. Tenacity. Thick skin.
@@ -223,3 +237,4 @@ Practice. Tenacity. Thick skin.
 __________________
 Sources:
 1. [AusCERT2023 - Writing with clarity - Darren Pauli](https://youtu.be/8lnxP93ZEtk?si=p3NCWWy13rCMmdwY)
+2. BSidesMelb 2022
