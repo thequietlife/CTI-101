@@ -41,7 +41,7 @@ ___________________________
     
   * 🔒 [Encryption Standards](https://github.com/thequietlife/CTI-101/blob/733d8d8df851cba5830b4b9d16514c09b24ef76d/assets/encryption%20standards.md)
 
-* 🖊️ [Writing with Clarity](https://github.com/thequietlife/CTI-101/blob/152373b69620be21821031881da0b7b9a3212e08/assets/writing%20with%20clarity.md)
+* 🖊️ [Writing with Clarity](https://github.com/thequietlife/CTI-101/blob/8b4d05c2a56e10ee65f5250734f940106d0a72fb/assets/writing%20with%20clarity.md)
   
 * Study APT Reports
 * Critical Thinking
