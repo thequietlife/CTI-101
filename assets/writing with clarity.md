@@ -179,9 +179,25 @@ Start reports with:
 
 ### 03 | Publish
 
+<img src="https://github.com/thequietlife/CTI-101/blob/bc2bf02f939bcc1eff2cc107afe678d16ba4d21e/images/workshop.png"
+alt="workshop: 5 bullet points about a truck crashing and carrying prawns for Christmas" width="300"/>
+
+All of the above are relevant facts but we need to put our audience first.
+- traffic conditions really bad, take a different route
+  
+<img src="https://github.com/thequietlife/CTI-101/blob/bc2bf02f939bcc1eff2cc107afe678d16ba4d21e/images/Breaking%20story.png"
+alt="A reporter has used the above points to make a short breaking news story" width="300"/>
+
+<img src="https://github.com/thequietlife/CTI-101/blob/bc2bf02f939bcc1eff2cc107afe678d16ba4d21e/images/Evening%20story.png"
+alt="A longer article about the crash with a spot on headline about price of prawns to skyrocket due to crash" width="300"/>
+
+Again all about putting our audience first.
+It is all about the Christmas lunch. No prawns.
 
 
-
+**Closing**
+If you follow the structures. Read, read, read. You'll become a great writer.
+Practice. Tenacity. Thick skin.
 
 
 
