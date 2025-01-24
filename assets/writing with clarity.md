@@ -172,7 +172,10 @@ Start reports with:
 
 **Langauge**
 * Avoid corporate slogans
-* Use natural language
+* Use natural, concrete language
+    - ✅ Bunnings slogan was "Lowest Prices Are Just The Beginning"
+    - ✅ Southwest airlines "Low fares. No hidden fees" - sticky seats, bad food that's ok because it was so cheap. Your expectations are met. It sets the mood of the organisation
+    - ❌ American Airlines "Going for Great". Everyone will have a different interpretation of "great"
 
 
 
