@@ -1,6 +1,7 @@
 ## 🖊️ Writing with Clarity - Darren Pauli
 
 **Notes from Darren Pauli's BSides Melbourne 2022 and AusCERT 2023 presentations**
+_______
 
 ## Summary
 01 | The Lede
@@ -15,7 +16,7 @@
 🟩 Audience <br>
 🟩 Structure <br>
 🟩 Message <br>
-
+_______
 
 ### 01 | The Lede
 
