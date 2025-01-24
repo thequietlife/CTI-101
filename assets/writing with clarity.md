@@ -143,6 +143,16 @@ alt="funnel shape with the headline, the lead, the body, the tail" width="300"/>
 - The first two sentences are the most important. Spend 80% time on this
 - The curse of knowledge is a killer for good communication. It can be hard for an expert to communicate something. How to get around it: "Get to know the wants and desires of your audience in order to get them to act", Ben and Kelly Decker, Communicate to Influence
 
+From BSides Melb presentation:
+
+The Queen's death: Two newspaper articles showing story structure - headline, lead, body and tail.
+
+<img src="https://github.com/thequietlife/CTI-101/blob/7a25b02230a317122efbc9bb75609a80358eea33/images/inverted%20pyramid%20example%20one.png"
+alt="newspaper article showing story structure - headline, lead, body, tail of The Queen's death" width="300"/>
+
+<img src="https://github.com/thequietlife/CTI-101/blob/7a25b02230a317122efbc9bb75609a80358eea33/images/inverted%20pyramid%20example%20two.png"
+alt="newspaper article showing story structure - headline, lead, body, tail of The Queen's death" width="300"/>
+
 **Sentence structure**
 - Break up your writing
 - New idea, new sentence
