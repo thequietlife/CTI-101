@@ -52,7 +52,7 @@
 <img src="https://github.com/thequietlife/CTI-101/blob/c95c2b435bde064300d7311f77b3a9941ab349e1/images/Shakespeare%20Sonnet%2018.png"
 alt="the first ten lines of William Shakespeare's Sonnet 18" width="300"/>
 
-* Cut the waffle
+* 🧇 Cut the waffle
   
 <img src="https://github.com/thequietlife/CTI-101/blob/bc5e2014c78a3aa85ab17019a1ea82ea8e3a7b96/images/Shakespeare%20Sonnet%2018%20Strunk%20edit.png"
 alt="Sonnet 18 edited taking Strunk's vigorous advice" width="400"/>
@@ -131,7 +131,7 @@ Everyone has an agenda, the thing that is important to them. They might not be a
 * Think of building a house - get the foundations right, done first. Sentence structure is fitting out the floors 
   - Guide your reader: story structure guides your comms
   - Save them time “Bradman Dead” front page newspaper - USE for email subject line. They don't necessarily need to read the email, that has given the reader enough info. It is not about the number of 'views' like with YouTube. Your aim is to let the reader leave at the earliest point. It is a courtesy - to save them time and avoid confusion. Don’t bury the lede. **Do not bury the most important thing below a sentence at the start** that doesn't tell them anything they might give up and never read that critical bit
-  - Avoid confusion
+  - 😶‍🌫️ Avoid confusion
 
 **Inverted pyramid of journalism**
 
@@ -143,10 +143,36 @@ alt="funnel shape with the headline, the lead, the body, the tail" width="300"/>
 - The first two sentences are the most important. Spend 80% time on this
 - The curse of knowledge is a killer for good communication. It can be hard for an expert to communicate something. How to get around it: "Get to know the wants and desires of your audience in order to get them to act", Ben and Kelly Decker, Communicate to Influence
 
-**Sentence structure
+**Sentence structure**
+- Break up your writing
+- New idea, new sentence
+- 🍎 🍏 different coloured apples can go in the same sentence
+- 🍏 🍊 apples and oranges go in different sentences
+- New group of ideas, new paragraph
+- Avoid a page of text. Use enter key a lot to break up text
+- Identify the subject, use the grammar tools in Microsoft Word or grammarly
+- **Write active not passive. Use this: ⚽ Darren kicked the ball**
+- Not this: The ball was kicked by Darren
+- Put effort in the email that the report is being attached to
+- Keep it simple
 
+**Message**
+Keep it short and simple. Makes it easier to digest
+* Concise
+  - Use clear, concrete language 
+  - Never be vague e.g. Not a number of incidences - **how many?**
+- Don’t use cliches
+- Limit acronyms e.g. CIA is ok but limit for lesser known ones like DDoS
 
+**Concise**
+Start reports with:
+- Key takeaway
+- In brief - provide a summary of the report in bullet points at the start of the report
+- Speed read - add reading time e.g. 6 minute read to learn all about xyz
 
+**Langauge**
+* Avoid corporate slogans
+* Use natural language
 
 
 
