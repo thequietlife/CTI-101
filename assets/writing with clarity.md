@@ -2,7 +2,7 @@
 
 **Notes from Darren Pauli's BSides Melbourne 2022 and AusCERT 2023 presentations**
 
-### 1. The Lede
+### 01 | The Lede
 
 🟦 Clarity <br>
 🟦 Influence <br>
@@ -176,6 +176,8 @@ Start reports with:
     - ✅ Bunnings slogan was "Lowest Prices Are Just The Beginning"
     - ✅ Southwest airlines "Low fares. No hidden fees" - sticky seats, bad food that's ok because it was so cheap. Your expectations are met. It sets the mood of the organisation
     - ❌ American Airlines "Going for Great". Everyone will have a different interpretation of "great"
+
+### 03 | Publish
 
 
 
