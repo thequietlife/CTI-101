@@ -1,8 +1,13 @@
 ## 🖊️ Threat Intel for Everyone: Writing Like A Journalist To Produce Clear, Concise Reports - Selena Larson
 
 **Notes from Selena Larson's SANS CTI Summit 2021 Presentation**
-
 _______
+
+## Summary
+* Have a TL;DR (too long; didn't read)
+* ELI5 (Explain Like I'm Five)
+* Conclusion of the report: Don't have new info or have the conclusion as the only place the info is simplified/broken down, easy to read  
+
 
 ### Key elements of writing CTI reports
 
@@ -67,7 +72,7 @@ With the Politico news story we are learning that the reason why the adversary w
 src="https://github.com/thequietlife/CTI-101/blob/1738db3d4ccf03ef886c6ea6e8b140ad4205e495/images/how-federal-hack-happened.png"
 alt="cyber news story lead: no one was looking in the right place" width="300"/>
 
-The Microsoft article's lead explains what cryptocurrency miners are, what is this threat and how does it take advantage of low-priority alerts.
+The Microsoft report's lead explains what cryptocurrency miners are, what is this threat and how does it take advantage of low-priority alerts.
 
 <img
 src="https://github.com/thequietlife/CTI-101/blob/1738db3d4ccf03ef886c6ea6e8b140ad4205e495/images/threat-actor-leverages-coin-miner-techniques-to-stay-under-the-radar-heres-how-to-spot-them.png"
@@ -77,7 +82,59 @@ alt="CTI report lead: cryptocurrency miners are typically associated with cyberc
 * The entire point of the story or report **in one paragraph**
 * Describes what is new, important and why readers should care
 * Nutgraf is like the Executive Summary
+* The important info needs to be up high not sprinkled throughout or in the conclusion
   
+Both examples are "crunchy, with lots of nutritious information" 
+The Politico article spells out how the blind spot was created, how hackers took advantage of it and what a supply chain attack is.
+<img
+src="https://github.com/thequietlife/CTI-101/blob/6cc36816e74e1c27bc64a1117da5fa5132c576da/images/politico%20nutgraf%20example.png"
+alt="cyber news story nutgraf:that created the blind spot...embedding code in widely used network management software" width="300"/>
+
+The Microsoft report talks about how BISMUTH uses open source tooling historically and the important part is that over the summer the group started to deploy this Monero coin miners.
+<img
+src="https://github.com/thequietlife/CTI-101/blob/6cc36816e74e1c27bc64a1117da5fa5132c576da/images/Microsoft%20nutgraf%20example.png"
+alt="CTI report nutgraf: custom and open-source tooling to target large multinational corporations, governments, financial services, educational institutions, and human and civil rights organizations...deployed Monero coin miners" width="300"/>
+
+**Conclusion**
+* News writing often has "kickers", something that is going to be very memorable. Sometimes it's funny, compelling or interesting
+* Threat intelligence reporting should have conclusions
+* Restate important information, calls to action and why it matters to customers
+* You want the reader to leave feeling a particular way and potentially take certain actions. It is the "So What?" of your entire report. Make it super memorable to a reader
+* **Make sure the conclusion is not the only place where information is simplified and summarised**
+
+**How to be a much better writer**
+Edit your report. Don't have a personal attachment to your words and writing. Need to be able to take the red pen to it and really cut it down or your editor will. "Murder your Darlings", Sir Arthur Quiller-Couch
+
+**Deadlines**
+* Journalists: You want to be accurate and get information out there first
+* [CART: The 4 Qualities of Good Threat Intelligence](https://www.activeresponse.org/the-4-qualities-of-good-threat-intelligence/)
+  - Completeness
+  - Accuracy
+  - Relevance
+  - Timeliness
+* Know when you need to inform customers
+* Deadlines help 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
