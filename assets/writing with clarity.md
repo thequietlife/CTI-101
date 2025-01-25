@@ -3,7 +3,7 @@
 **Notes from Darren Pauli's BSides Melbourne 2022 and AusCERT 2023 presentations**
 _______
 
-## Summary ᴬᴵ
+## Summary <sup>AI</sup> 
 
 Emphasise concise, audience-focused communication through clear structure, engaging storytelling, and precise grammar. Key points include starting with the most important information, tailoring tone and content to the audience’s knowledge and priorities, and using vivid, concrete language. Effective writing avoids jargon, breaks text into digestible chunks, and respects the reader’s time by being direct and purposeful. Practice, reading, and rewriting are essential to mastering these skills and delivering impactful messages.
 _______
