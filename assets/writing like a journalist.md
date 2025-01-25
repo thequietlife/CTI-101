@@ -4,7 +4,7 @@
 
 _______
 
-### Role of CTI
+### Key elements of writing CTI reports
 
 * A crucial part of CTI is explaining things to a broad audience. Taking important subjects and packaging them in an effective and easy to understand way
 * Subreddit r/Explain Like I'm Five (ELI5) - a concept that can help people better communicate their expertise to a wide audience
@@ -57,10 +57,51 @@ alt="upside down triangle - top bit: Who, What, Where, When, Why, How; middle se
   - [Threat actor leverages coin miner techniques to stay under the radar – here’s how to spot them](https://www.microsoft.com/en-us/security/blog/2020/11/30/threat-actor-leverages-coin-miner-techniques-to-stay-under-the-radar-heres-how-to-spot-them/)
  
 
-** Lead (Lede)**
+**Lead (Lede)**
 * Brief one or two sentence statement that opens the report
 * Includes important aspects of the story
 * Draws reader in
+
+With the Politico news story we are learning that the reason why the adversary was able to access the U.S. government and exploit the supply chain is because "no one was looking in the right place". This provokes the reader to think about where is the right place, how did they do it? It encourages the reader to continue reading.
+<img
+src="https://github.com/thequietlife/CTI-101/blob/1738db3d4ccf03ef886c6ea6e8b140ad4205e495/images/how-federal-hack-happened.png"
+alt="cyber news story lead: no one was looking in the right place" width="300"/>
+
+The Microsoft article's lead explains what cryptocurrency miners are, what is this threat and how does it take advantage of low-priority alerts.
+
+<img
+src="https://github.com/thequietlife/CTI-101/blob/1738db3d4ccf03ef886c6ea6e8b140ad4205e495/images/threat-actor-leverages-coin-miner-techniques-to-stay-under-the-radar-heres-how-to-spot-them.png"
+alt="CTI report lead: cryptocurrency miners are typically associated with cybercriminal operations, not sophisticated nation state actor activity...BISMUTH take advantage of the low-priority alerts" width="300"/>
+
+**Nutgraf (short for nutshell paragraph)**
+* The entire point of the story or report **in one paragraph**
+* Describes what is new, important and why readers should care
+* Nutgraf is like the Executive Summary
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
