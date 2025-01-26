@@ -138,85 +138,20 @@ Edit your report. Don't have a personal attachment to your words and writing. Ne
 * Example:
     - **Don't do this**: The company *was targeted by* APT29 (passive)
     - **Do this**: APT29 *targeted* the company (active)
+* No big words. Readers should not need to look at a dictionary or thesaurus while reading
+* At times an uncommon word needs to be used. The word needs to be defined in the sentence
   
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+**Clean Up Your Writing**
+1. Be concise
+2. Keep sentences short and simple
+3. Put the most important information first
+4. Consider your audience
+5. Remove passive voice
+
+**Resources**
+* The Elements of Style, William Strunk
+* Poynter.org [These tips will make you a better writer](https://www.poynter.org/reporting-editing/2019/these-tips-will-make-you-a-better-writer/)
+* [Purdue University Online Writing Lab](https://owl.purdue.edu/owl/)
 
 __________________
 Sources:
