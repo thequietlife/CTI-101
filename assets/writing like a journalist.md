@@ -112,8 +112,33 @@ Edit your report. Don't have a personal attachment to your words and writing. Ne
   - Accuracy
   - Relevance
   - Timeliness
-* Know when you need to inform customers
-* Deadlines help 
+* Timeliness: Being able to produce efficient writing that meets deadlines is key
+* Implementing deadlines for intelligence reporting is extremely valuable. It helps you:
+  - know when you need to inform customers
+  - adhere to a threat intelligence reporting cycle
+
+**Threat intelligence writing**
+* Still keep hunting and finding new, important information
+  - Collect
+  - Analyse
+  - Publish: once you get enough to information that can support the intelligence requirements of your audience. You want to make sure you are getting the material out there and publishing it
+  - **We are not just writing for other analysts**
+  - We are writing for our stakeholders, decision makers, people dealing with patch management, business decisions, security operators. Who are also experts in this field. Think about the **audience** and how you are writing, presenting and publishing information.
+ 
+**Passive Voice**
+* Passive voice removes urgency, makes to difficult to process and think about how to take action on something
+* Avoid "helping verbs":
+    - am
+    - is
+    - was
+    - were
+    - able
+    - been
+ 
+* Example:
+    - **Don't do this**: The company *was targeted by* APT29 (passive)
+    - **Do this**: APT29 *targeted* the company (active)
+  
 
 
 
