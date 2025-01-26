@@ -57,7 +57,8 @@ alt="upside down triangle - top bit: Who, What, Where, When, Why, How; middle se
 * You want to provide as much information in as few words as possible
 * You want the reader to learn something and want to continue to read the report
 * Report titles = Headline
-* Use of "How" indicates the reader will learn something. Example:
+* Use of "How" indicates the reader will learn something
+* Example:
   - [How U.S. agencies’ trust in untested software opened the door to hackers](https://www.politico.com/news/2020/12/19/how-federal-hack-happened-448602)
   - [Threat actor leverages coin miner techniques to stay under the radar – here’s how to spot them](https://www.microsoft.com/en-us/security/blog/2020/11/30/threat-actor-leverages-coin-miner-techniques-to-stay-under-the-radar-heres-how-to-spot-them/)
  
