@@ -50,7 +50,7 @@ ___________________________
     - Structure
     - Message
   
-* 🖊️ Threat Intel for Everyone: Writing Like A Journalist To Produce Clear, Concise Reports 
+* 🖊️ [Threat Intel for Everyone: Writing Like A Journalist To Produce Clear, Concise Reports](https://github.com/thequietlife/CTI-101/blob/c1681f8792b417519dfc5724538df24556e01f86/assets/writing%20like%20a%20journalist.md)
 * Study APT Reports
 * Critical Thinking
 * Intelligence Analysis Fundamentals
