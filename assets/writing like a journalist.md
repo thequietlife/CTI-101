@@ -8,6 +8,8 @@ _______
 * ELI5 (Explain Like I'm Five)
 * Conclusion of the report: Don't have new info or have the conclusion as the only place the info is simplified/broken down, easy to read  
 
+## Summary <sup>AI</sup> 
+CTI reports should be clear, concise, and audience-focused. Use a TL;DR, write at an eighth-grade reading level, and structure reports using the inverted pyramid: start with key facts (Who, What, Why), add supporting details, and include optional technical depth. Use active voice, engaging headlines, and concise leads. Summarize the report’s purpose early (Nutgraf) and ensure timely delivery. Edit ruthlessly for clarity, keeping the audience in mind. Leverage resources like *The Elements of Style* to improve writing.
 
 ### Key elements of writing CTI reports
 
