@@ -51,6 +51,17 @@ ___________________________
     - Message
   
 * 🖊️ [Threat Intel for Everyone: Writing Like A Journalist To Produce Clear, Concise Reports](https://github.com/thequietlife/CTI-101/blob/5b99487f17ed6179fb667f1f82575c15d7b4c553/assets/writing%20like%20a%20journalist.md)
+    - Key elements of writing CTI reports
+    - Inverted Pyramid of News
+    - CTI report Structure
+    - Headline | Subject Line
+    - Lead
+    - Nutgraf
+    - Conclusion
+    - Deadlines
+    - Clean Up Your Writing
+    - Resources
+
 * Study APT Reports
 * Critical Thinking
 * Intelligence Analysis Fundamentals
