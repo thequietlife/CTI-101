@@ -62,6 +62,9 @@ ___________________________
     - Clean Up Your Writing
     - Resources
 
+* Threat research
+   - Analysing scam texts
+     
 * Study APT Reports
 * Critical Thinking
 * Intelligence Analysis Fundamentals
