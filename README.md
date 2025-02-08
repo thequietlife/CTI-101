@@ -62,7 +62,7 @@ ___________________________
     - Clean Up Your Writing
     - Resources
 
-* Threat research
+* [Threat research](https://github.com/thequietlife/threat-research)
    - Analysing scam texts
      
 * Study APT Reports
