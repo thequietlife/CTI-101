@@ -62,8 +62,11 @@ ___________________________
     - Clean Up Your Writing
     - Resources
 
-* 🔬 [Threat research](https://github.com/thequietlife/threat-research)
+* 🔬 [Threat Research](https://github.com/thequietlife/threat-research)
    - Analysing scam texts and emails
+
+* 🦠 [Malware Analysis](https://github.com/thequietlife/malware-analysis)
+   - Setting up a malware analysis lab
      
 * Study APT Reports
 * Critical Thinking
