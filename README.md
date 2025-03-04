@@ -71,6 +71,7 @@ ___________________________
 * Study APT Reports
 * Critical Thinking
 * Intelligence Analysis Fundamentals
+  - 📘 Reading [Psychology of Intelligence Analysis, Richard J. Heuer, Jr.](https://www.cia.gov/resources/csi/books-monographs/psychology-of-intelligence-analysis-2/)
 
 ____________________________
 
