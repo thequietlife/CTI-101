@@ -139,6 +139,8 @@ Everyone has an agenda, the thing that is important to them. They might not be a
   - Save them time “Bradman Dead” front page newspaper - USE for email subject line. They don't necessarily need to read the email, that has given the reader enough info. It is not about the number of 'views' like with YouTube. Your aim is to let the reader leave at the earliest point. It is a courtesy - to save them time and avoid confusion. Don’t bury the lede. **Do not bury the most important thing below a sentence at the start** that doesn't tell them anything they might give up and never read that critical bit
   - 😶‍🌫️ Avoid confusion
 
+From BSides Melb presentation:
+
 **Inverted pyramid of journalism**
 
 <img src="https://github.com/thequietlife/CTI-101/blob/d38e1fb87e3424940fd8a2e4276b65a22652ab9e/images/The%20headline.jpeg"
@@ -149,11 +151,10 @@ alt="funnel shape with the headline, the lead, the body, the tail" width="300"/>
 - The first two sentences are the most important. Spend 80% time on this
 - The curse of knowledge is a killer for good communication. It can be hard for an expert to communicate something. How to get around it: "Get to know the wants and desires of your audience in order to get them to act", Ben and Kelly Decker, Communicate to Influence
 
-From BSides Melb presentation:
 
-The Queen's death obituary showing story structure - headline, lead, body and tail.
+The Queen's obituary showing story structure - headline, lead, body and tail.
 
-<img src="https://github.com/thequietlife/CTI-101/blob/7a25b02230a317122efbc9bb75609a80358eea33/images/inverted%20pyramid%20example%20one.png"
+<img src="https://github.com/thequietlife/CTI-101/blob/05e66ba56985f76271fad60c7063be9ba38b85ef/images/smh.jpeg"
 alt="newspaper article showing story structure - headline, lead, body, tail of The Queen's death" width="300"/>
 
 
