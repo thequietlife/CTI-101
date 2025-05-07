@@ -141,7 +141,7 @@ Everyone has an agenda, the thing that is important to them. They might not be a
 
 **Inverted pyramid of journalism**
 
-<img src="https://github.com/thequietlife/CTI-101/blob/63a68619f36ee4bc5e47f4e8698eb09364070eaf/images/story%20structure.png"
+<img src="https://github.com/thequietlife/CTI-101/blob/d38e1fb87e3424940fd8a2e4276b65a22652ab9e/images/The%20headline.jpeg"
 alt="funnel shape with the headline, the lead, the body, the tail" width="300"/>
 
 - The most important information is first
@@ -151,13 +151,11 @@ alt="funnel shape with the headline, the lead, the body, the tail" width="300"/>
 
 From BSides Melb presentation:
 
-The Queen's death: Two newspaper articles showing story structure - headline, lead, body and tail.
+The Queen's death obituary showing story structure - headline, lead, body and tail.
 
 <img src="https://github.com/thequietlife/CTI-101/blob/7a25b02230a317122efbc9bb75609a80358eea33/images/inverted%20pyramid%20example%20one.png"
 alt="newspaper article showing story structure - headline, lead, body, tail of The Queen's death" width="300"/>
 
-<img src="https://github.com/thequietlife/CTI-101/blob/7a25b02230a317122efbc9bb75609a80358eea33/images/inverted%20pyramid%20example%20two.png"
-alt="newspaper article showing story structure - headline, lead, body, tail of The Queen's death" width="300"/>
 
 **Sentence structure**
 - Break up your writing
