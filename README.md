@@ -62,6 +62,8 @@ ___________________________
     - Clean Up Your Writing
     - Resources
 
+* 🖊️ Pen-To-Paper and The Finished Report: The Key To Generating Threat Intelligence (WIP)
+
 * 🔬 [Threat Research](https://github.com/thequietlife/threat-research)
    - [Analysing scam SMS](https://github.com/thequietlife/phishing-analysis)
 
