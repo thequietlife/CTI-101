@@ -3,16 +3,14 @@
 ### Notes from Christian Paredes' SANS DFIR CTI Summit 2017 Presentation
 _______
 
-## Summary
+<!-- ## Summary
 * xx
 * xx
-* xx
+* xx -->
 
 ### Notes
 
 * Cliff Stoll's The Cuckoo's Egg "The astronomer's rule of thumb: if you don't write it down it didn't happen."
-
-
 
 <img
 src="https://github.com/thequietlife/CTI-101/blob/496d343ace7a4713a149cea167666d3baf04068d/images/consumption.png"
@@ -29,15 +27,13 @@ alt="Chris' pseudo intel cycle" width="300"/>
 * Somewhere between analysis and action, we hope our stakeholders will do something with that information. But if the information is only in our heads, what are our stakeholders taking action on?
 * The assessments in our heads, our knowledge of threats and what we know and what we think about threats is how we can show value to our organisations
 
-<br>
-## What is the missing link between analysis and action?
+
+### What is the missing link between analysis and action?
 - the finished report
 
-
-
-
-
-
+<img
+src="https://github.com/thequietlife/CTI-101/blob/716529a6e4d6557648a7a7326bbdd3059b9667b8/images/finished%20report.png"
+alt="slide showing what the finished report achieves" width="300"/>
 
 
 
