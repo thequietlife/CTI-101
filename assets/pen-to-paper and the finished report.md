@@ -45,14 +45,20 @@ alt="slide showing what the finished report achieves" width="300"/>
 
 <img
 src="https://github.com/thequietlife/CTI-101/blob/b5452eb41bc2f79f13c6ad1d4aa252846c171a58/images/writing%20is%20daunting.png"
-alt="a tweet about how writing is daunting" width="300"/>
+alt="a tweet from a writer about how writing is daunting" width="300"/>
 
 
 * The good news is that this is a totally rational feeling
 
-### Underlying challenges to putting pen to paper
+### Three underlying challenges to putting pen to paper
 
+<img
+src="https://github.com/thequietlife/CTI-101/blob/c6d1b825d98d0218f63d3e683e94986e027d4c22/images/underlying%20challenges.png"
+alt="slide which states three challenges - process faults, cognitive limitations, complexity of threat" width="300"/>
 
+1. Our process needs to improve
+2. Cognitive limitations that we need to be aware of
+3. The threats we deal with are really, really complex
 
 
 
