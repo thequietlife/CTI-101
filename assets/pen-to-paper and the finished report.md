@@ -10,7 +10,14 @@ _______
 
 ### Notes
 
-* Cliff Stoll The Cuckoo's Egg "The astronomer's rule of thumb: if you don't write it down it didn't happen."
+* Cliff Stoll's The Cuckoo's Egg "The astronomer's rule of thumb: if you don't write it down it didn't happen."
+* What are the components of good threat intel
+* The goal is to have actionable intel
+* There is a big gap between analysis and action. How do we tie them together?
+* **Consumption** is tough. There is a lot of data. But there are tools to help us consume.
+* Tools: **threat intelligence platforms**
+* **Requirements** can help you scope your collection of data and scope your consumption 
+
 
 
 
