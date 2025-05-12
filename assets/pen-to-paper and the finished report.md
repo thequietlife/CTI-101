@@ -61,8 +61,9 @@ alt="slide which states three challenges - process faults, cognitive limitations
 3. The threats we deal with are really, really complex
 
 
-
-
+<img
+src="https://github.com/thequietlife/CTI-101/blob/789dd5736174dc9360ccfb9d6099fc2fc386ceb7/images/funny%20contradiction.png"
+alt="slide what we say and what we do in regards to IOC" width="300"/>
 
 
 
