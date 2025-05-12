@@ -32,12 +32,19 @@ alt="Chris' pseudo intel cycle" width="300"/>
 ### What is the missing link between analysis and action?
 - the finished report
 
+* Finished reporting is the only way to preserve analysis and what we think about threats
+* Preserve that knowledge forever. Once you write it down on paper it is there forever and the benefit of that is that our knowledge becomes transparent and it becomes accessible to the people who need to make decisions
+* Creates accountability. If we expect people to make decisions based on the intel that we are providing them and our analysis is willy-nilly and we are influencing bad decisions or bad outcomes. Then we need to be held accountable that analysis
+* We need to write and commit to putting pen to paper
+
 <img
 src="https://github.com/thequietlife/CTI-101/blob/716529a6e4d6557648a7a7326bbdd3059b9667b8/images/finished%20report.png"
 alt="slide showing what the finished report achieves" width="300"/>
 
-
-
+- Writing, the blank piece of paper is a daunting challenge
+<img
+src="https://github.com/thequietlife/CTI-101/blob/b5452eb41bc2f79f13c6ad1d4aa252846c171a58/images/writing%20is%20daunting.png"
+alt="a tweet about how writing is daunting" width="300"/>
 
 
 
