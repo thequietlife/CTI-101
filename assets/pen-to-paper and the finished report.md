@@ -11,6 +11,13 @@ _______
 ### Notes
 
 * Cliff Stoll's The Cuckoo's Egg "The astronomer's rule of thumb: if you don't write it down it didn't happen."
+
+
+
+<img
+src="https://github.com/thequietlife/CTI-101/blob/496d343ace7a4713a149cea167666d3baf04068d/images/consumption.png"
+alt="Chris' pseudo intel cycle" width="300"/>
+
 * What are the components of good threat intel
 * The goal is to have actionable intel
 * There is a big gap between analysis and action. How do we tie them together?
