@@ -21,9 +21,19 @@ alt="Chris' pseudo intel cycle" width="300"/>
 * What are the components of good threat intel
 * The goal is to have actionable intel
 * There is a big gap between analysis and action. How do we tie them together?
-* **Consumption** is tough. There is a lot of data. But there are tools to help us consume.
-* Tools: **threat intelligence platforms**
-* **Requirements** can help you scope your collection of data and scope your consumption 
+* **Consumption** is tough. There is a lot of data. But there are tools to help us consume
+* Tools: **threat intelligence platforms** - designed to collect and centralise data
+* **Requirements** can help you scope your collection and scope your consumption
+* Collect data that helps answer a question
+* **Analysis** is where we show value. We start to see patterns, outliers, start making judgments about the data and coming up with cool insights
+* Somewhere between analysis and action, we hope our stakeholders will do something with that information. But if the information is only in our heads, what are our stakeholders taking action on?
+* The assessments in our heads, our knowledge of threats and what we know and what we think about threats is how we can show value to our organisations
+
+<br>
+## What is the missing link between analysis and action?
+- the finished report
+
+
 
 
 
