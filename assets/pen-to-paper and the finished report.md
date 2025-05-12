@@ -42,15 +42,17 @@ src="https://github.com/thequietlife/CTI-101/blob/716529a6e4d6557648a7a7326bbdd3
 alt="slide showing what the finished report achieves" width="300"/>
 
 * Writing, the blank screen is a daunting challenge. We might feel overwhelmed or frustrated because there is so much information that we have to synthesise and assimiliate and that is very difficult to do
+
+<img
+src="https://github.com/thequietlife/CTI-101/blob/b5452eb41bc2f79f13c6ad1d4aa252846c171a58/images/writing%20is%20daunting.png"
+alt="a tweet about how writing is daunting" width="300"/>
+
+
 * The good news is that this is a totally rational feeling
 
 ### Underlying challenges to putting pen to paper
 
 
-
-<img
-src="https://github.com/thequietlife/CTI-101/blob/b5452eb41bc2f79f13c6ad1d4aa252846c171a58/images/writing%20is%20daunting.png"
-alt="a tweet about how writing is daunting" width="300"/>
 
 
 
