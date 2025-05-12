@@ -3,7 +3,7 @@
 ### Notes from Christian Paredes' SANS DFIR CTI Summit 2017 Presentation
 _______
 
-## Main Arguement / BLUF
+## Main Argument / BLUF
 * Finished reporting is the only way to:
    - memorialise analysis; make it transparent and accessible to the people who have to make decisions
    - preserve knowledge
