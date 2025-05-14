@@ -81,6 +81,27 @@ alt="slide what we say and what we do in regards to IOC" width="300"/>
 2. Style
 3. So what?
 
+#### Structure
+- Title
+- Summary and key points (BLUF)
+- Logical flow
+
+#### Style
+- Complete sentences
+- Tailored to audience/customer, knowing how they speak, jargon. Execs: a few bullet points. Tell me what I need to know
+- Conversational prose e.g 'We the intel team'
+
+#### So What?
+- Relevant!
+- Opportunities for the organisation
+
+
+
+
+
+
+
+
 
 
 
