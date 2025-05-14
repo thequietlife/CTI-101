@@ -30,8 +30,7 @@ alt="Chris' pseudo intel cycle" width="300"/>
 
 
 ### What is the missing link between analysis and action?
-- the finished report
-
+ **the finished report**
 * Finished reporting is the only way to preserve analysis and what we think about threats
 * Preserve that knowledge forever. Once you write it down on paper it is there forever and the benefit of that is that our knowledge becomes transparent and it becomes accessible to the people who need to make decisions
 * Creates accountability. If we expect people to make decisions based on the intel that we are providing them and our analysis is willy-nilly and we are influencing bad decisions or bad outcomes. Then we need to be held accountable that analysis
@@ -65,7 +64,15 @@ alt="slide which states three challenges - process faults, cognitive limitations
 src="https://github.com/thequietlife/CTI-101/blob/789dd5736174dc9360ccfb9d6099fc2fc386ceb7/images/funny%20contradiction.png"
 alt="slide what we say and what we do in regards to IOC" width="300"/>
 
+* We say IOC does not equal intelligence but our report has a lot of IOCs
+* These are the tough questions from our stakeholders that we need to answer. Example: The Cuckoo's Egg, Bangladesh Bank SWIFT heist, DNC hack, GRIZZLY STEPPE.
+     - What happened?
+     - Are we at risk?
+     - Can we detect or prevent this threat?
+ 
+### How do we overcome these challenges?
 
+*
 
 
 
