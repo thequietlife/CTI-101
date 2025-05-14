@@ -8,6 +8,16 @@ _______
    - memorialise analysis; make it transparent and accessible to the people who have to make decisions
    - preserve knowledge
    - create accountability
+* Commit pen to paper, a blank page is daunting but start with putting your notes into sentences and weaving a story
+* Format of the report structure
+   - structure
+   - style
+   - so what?
+* Heed the old school advice Churchill, Colin Powell
+   - crisp, concise
+   - What you **know**
+   - What you **don't know**
+   - What you **think**
 
 ### Notes
 
@@ -93,7 +103,18 @@ alt="slide what we say and what we do in regards to IOC" width="300"/>
 
 #### So What?
 - Relevant!
-- Opportunities for the organisation
+- Opportunities for the organisation, what can we do to detect or prevent this threat
+
+#### How do we consistently hit all three of these areas?
+
+* **Clear, concise** writing (from the CIA style manual)
+* CTI analysts need to **hone** writing skills
+  - Concise. Short sentences
+  - Speak simply, no woolly phrases e.g. "It is also of importance to bear in mind the following considerations" Winston Churchill
+  - Colin Powell "Tell me what you **know**. Tell me what you **don't know**. And then...tell me what you **think**...I will hold you accountable (for those things)"
+  - What you **know**: shape the notes and analytic fragments into sentences, into a complete story
+  - What you **don't know**: information gaps which become a springboard for further research
+  - What you **think**: our assessments
 
 
 
