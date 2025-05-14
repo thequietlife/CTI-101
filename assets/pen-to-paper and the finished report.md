@@ -72,7 +72,14 @@ alt="slide what we say and what we do in regards to IOC" width="300"/>
  
 ### How do we overcome these challenges?
 
-*
+* Do the research to figure out how these things work and write it down. Then make available to ➡️ threat hunters to configure the controls to find the bad things. CTI analysts can drive action at a tactical level
+* Report length: 1 - 1.5 pages
+
+### Three components of a finished report
+
+1. Structure
+2. Style
+3. So what?
 
 
 
