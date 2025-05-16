@@ -32,9 +32,9 @@ ___________________________
 
 * 🦠 [Malware Analysis](https://github.com/thequietlife/malware-analysis)
    - [Setting up a malware analysis lab](https://github.com/thequietlife/malware-analysis/blob/37139c4c586354121b2a1a4341fd46e51ec317b3/assets/build%20a%20lab.md)
-     
+
 * Study APT Reports
-* Critical Thinking
+* Critical Thinking 
 * Intelligence Analysis Fundamentals
   - 📘 Reading [Psychology of Intelligence Analysis, Richard J. Heuer, Jr.](https://www.cia.gov/resources/csi/books-monographs/psychology-of-intelligence-analysis-2/)
 
