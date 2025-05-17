@@ -25,7 +25,7 @@ ___________________________
   
 * 🖊️ [Pen-To-Paper and The Finished Report: The Key To Generating Threat Intelligence](https://github.com/thequietlife/CTI-101/blob/02ba8bac9239fc310e65aa813caf880b62c4676e/assets/pen-to-paper%20and%20the%20finished%20report.md)
 
-* 📝 [Effective Information Security Writing](https://github.com/thequietlife/CTI-101/blob/64bb73f669684ed00566add65dba94bb68773f09/assets/effective%20information%20security%20writing.md)
+* 📝 [Effective Information Security Writing](https://github.com/thequietlife/CTI-101/blob/57388df1e1f0d6d64673ac5cf8839f14290664d1/assets/effective%20information%20security%20writing.md)
   
 * 🔬 [Threat Research](https://github.com/thequietlife/threat-research)
    - [Analysing scam SMS](https://github.com/thequietlife/phishing-analysis)
