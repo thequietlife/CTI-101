@@ -1,6 +1,6 @@
 ## 📝 Effective Information Security Writing - Chris Sanders
 
-Notes from Chris Sanders' Applied Network Defense Course
+Notes from Chris Sanders Applied Network Defense Course
 
 ## Summary
 * xx
@@ -17,10 +17,16 @@ Notes from Chris Sanders' Applied Network Defense Course
   
 ### Overcoming a fear of writing
 * The Prism Strategy
-* **Your perspective is unique** – Even familiar topics gain new life through your lens.
-* **Personal experience adds value** – How you learned something matters as much as what you learned.
-* **Originality comes from viewpoint** – It’s not about being first, it’s about being *you*.
-
+  - **Your perspective is unique** – Even familiar topics gain new life through your lens
+  - **Personal experience adds value** – How you learned something matters as much as what you learned
+  - **Originality comes from viewpoint** – It’s not about being first, it’s about being *you*
+  - **Your voice can be the one that makes it click** – Even if others have covered the topic before
+  - **Unique framing matters** – Your approach may resonate where others didn’t
+  - **Personal insight creates connection** – Sharing how *you* understand something helps others understand it too
+  - **Impact isn't about being first** – It's about being relatable, clear, and human
+* Set up an Advisory Board
+  - find people who can review you writing but also people who you are okay with getting feedback from
+* Keep a journal
 
 
 
@@ -47,4 +53,4 @@ Notes from Chris Sanders' Applied Network Defense Course
 
 __________________
 Sources:
-1. [Applied Network Defense](https://www.networkdefense.io/p/course-list/)
+1. [Chris Sanders Effective Information Security Writing, Applied Network Defense](https://www.networkdefense.io/p/course-list/)
