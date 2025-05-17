@@ -21,7 +21,7 @@ ___________________________
 
   * ✏️ [Writing with Clarity](https://github.com/thequietlife/CTI-101/blob/8b4d05c2a56e10ee65f5250734f940106d0a72fb/assets/writing%20with%20clarity.md)
       
-  * 🖊️ [Threat Intel for Everyone: Writing Like A Journalist To Produce Clear, Concise Reports](https://github.com/thequietlife/CTI-101/blob/5b99487f17ed6179fb667f1f82575c15d7b4c553/assets/writing%20like%20a%20journalist.md)
+  * 🖍️ [Threat Intel for Everyone: Writing Like A Journalist To Produce Clear, Concise Reports](https://github.com/thequietlife/CTI-101/blob/5b99487f17ed6179fb667f1f82575c15d7b4c553/assets/writing%20like%20a%20journalist.md)
   
 * 🖊️ [Pen-To-Paper and The Finished Report: The Key To Generating Threat Intelligence](https://github.com/thequietlife/CTI-101/blob/02ba8bac9239fc310e65aa813caf880b62c4676e/assets/pen-to-paper%20and%20the%20finished%20report.md)
 
