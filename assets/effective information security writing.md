@@ -44,6 +44,14 @@ Notes from Chris Sanders Applied Network Defense Course
 * Your writing lasts a long time, e.g your investigation notes may be referred to down the track by others
 * Once you write something, the words belong to your reader and their meaning can change
 * How you express your findings and your technical work will dictate a portion of your future success
+* An analyst needs to be good at reading the things people want to read about
+
+### Course outline
+1. Telling a story - Chris' big secret to writing good content
+2. Common writing mistakes - word choice and structure
+3. Writing penetration testing reports
+4. Forensic writing - compromise reports, malware analysis reports and case notes
+5. Tips
 
 
 
