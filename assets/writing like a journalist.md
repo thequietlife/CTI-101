@@ -1,4 +1,4 @@
-## 🖊️ Threat Intel for Everyone: Writing Like A Journalist To Produce Clear, Concise Reports - Selena Larson
+## 🖍️ Threat Intel for Everyone: Writing Like A Journalist To Produce Clear, Concise Reports - Selena Larson
 
 **Notes from Selena Larson's SANS CTI Summit 2021 Presentation**
 _______
