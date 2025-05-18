@@ -84,8 +84,15 @@ Notes from Chris Sanders Applied Network Defense Course
 
 ### Elements of a story
 
+```mermaid
+  graph TD;
+      A[text] -->B[text];
+      A[text] -->C[text];
+      B[text] -->D[text];
+      C[text] -->D[text];
+      D[text] -->E[text];
+```
 
-wip
 
 
 
