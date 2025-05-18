@@ -50,7 +50,7 @@ Notes from Chris Sanders Applied Network Defense Course
 1. Telling a story - Chris' big secret to writing good content
 2. Common writing mistakes - word choice and structure
 3. Writing penetration testing reports
-4. Forensic writing - compromise reports, malware analysis reports and case notes
+4. Forensic writing - incident response (compromise) reports, malware analysis reports and case notes
 5. Tips
 
 
@@ -84,14 +84,62 @@ Notes from Chris Sanders Applied Network Defense Course
 
 ### Elements of a story
 
-```mermaid
-  graph TD;
-      A[text] -->B[text];
-      A[text] -->C[text];
-      B[text] -->D[text];
-      C[text] -->D[text];
-      D[text] -->E[text];
-```
+Character ➡️ Setting ➡️ Conflict ➡️ Theme ➡️ Plot 
+
+* An investigation can translate to a story
+
+#### Developing plot
+
+* Characters, theme, conflict and setting ➡️ plot
+* For an investigation we know what happened. We know the events that took place. This is the plot
+* The plot is our storyboard and how we express the truth of our knowledge
+    - Pen Test: first hand knowledge of movement through the network and putting it into narrative form
+    - Incident Response (Compromise) Report: timeline of attack drawn from evidence. Writing down the actions of the attacker - the story is pretty much there
+    - Malware: timeline of malware execution drawn from analysis
+
+##### Story arc
+* Intro ⬆️ Rising Action/Conflict ➡️ ➡️ Climax 🌈 ⬇️ Falling Action ➡️ Resolution
+* 🌈 Your writing needs to have an arc
+* Introduce characters in the rising action
+* Recommendations and call to action should be in the resolution but allude to them in other parts of your writing
+* Going through the complete sequence of your plot doesn't mean you have to write a 50 page doc. You can construct an **entire plot in a paragraph or two**. E.g. a pen test finding - the finding will represent a complete story arc in a paragraph or two. This applies to **emails** and **case notes** too
+* Stories within stories - your report might be a broader story and the **recommendations might be smaller stories within the broader story**
+
+##### Characters and settings
+* Characters and settings - we already have this
+* Characters may change
+* Setting usually remains the same e.g. our network or the victim network we are targetting
+* Character features
+      - qualities/traits e.g. stubborn, loyal, chatty. Steve is a little negative but a really friendly chap
+      - ransomware: this piece of ransomware, it's loud and boisterous and a bit of a jerk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
