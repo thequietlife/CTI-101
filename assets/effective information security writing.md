@@ -111,7 +111,7 @@ Character ➡️ Setting ➡️ Conflict ➡️ Theme ➡️ Plot
 * Setting usually remains the same e.g. our network or the victim network we are targetting
 * Character features
       - qualities/traits e.g. stubborn, loyal, chatty. Steve is a little negative but a really friendly chap
-      - ransomware: this piece of ransomware, it's loud and boisterous and a bit of a jerk
+      - ransomware: this piece of ransomware, it's loud and boisterous and a bit of a jerk. We can describe files and computers with human personality traits. Ransomware infects your computer, encrypts your files, makes you pay to decrypt them or else it deletes them - sounds like a jerk move
 
 
 
