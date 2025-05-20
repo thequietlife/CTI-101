@@ -112,7 +112,8 @@ Character ➡️ Setting ➡️ Conflict ➡️ Theme ➡️ Plot
 * Character features
       - Qualities, Traits e.g. stubborn, loyal, chatty. Steve is a little negative but a really friendly chap. This piece of **ransomware**, it's **loud** and **boisterous** and a bit of a jerk. We can describe files and computers with human personality traits. Ransomware infects your computer, encrypts your files, makes you pay to decrypt them or else it deletes them, sounds like a jerk move.
       - Motives, Purpose, Goals. What drives characters altruistic good, destructive evil, money and/or power? The ransomware and malware is motivated money and/or power. A web server is motivated by availability and speed. Your reader will get a sense of motivation, traits, qualities and purpose based on the actions of the character. By showing the reader rather than by telling them they will relate and care. E.g. We can see Darth Vader is bad by the things he does. Luke Skywalker shows virtuous characteristics by his actions. We weren't told Luke was a good guy we could draw that conclusion ourselves.
-* Where the work is
+  
+* Where the work is:
       - 🆓 Free: The plot, setting and characters are provided by the event that has taken place
       - 💰 Expensive: **Theme**, **conflict** are the things we need to identify and bring them out in your story. These are where a lot of technical writing fails. Here we want to control the reader and what they think. All writing is to some degree persuasive.
 
@@ -159,4 +160,4 @@ Character ➡️ Setting ➡️ Conflict ➡️ Theme ➡️ Plot
 
 __________________
 Sources:
-1. [Chris Sanders Effective Information Security Writing, Applied Network Defense](https://www.networkdefense.io/p/course-list/)
+1. [Chris Sanders Effective Information Security Writing, Applied Network Defense](https://www.networkdefense.io/library/)
