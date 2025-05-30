@@ -3,7 +3,7 @@
 Notes from Chris Sanders Applied Network Defense Course
 
 ## Summary
-* xx
+* Once upon a time
 * xx
 
 
@@ -123,9 +123,9 @@ E.g. We can see Darth Vader is bad by the things he does. Luke Skywalker shows v
             🟦 Trust <br>
           - **Conflict**: Why do you need it? <br>
             🟪 Good vs. evil - your story describes the conflict between good and evil. e.g. your pc user and the malicious ad they clicked on <br>
-            🟪 You vs. visibility <br>
-
-
+            🟪 You vs. visibility <br> your story describes how you need to spend extra time digging into a case because your organisation doesn't have the necessary sensors or tools or how you were unable to come to a clear conclusion because there wasn't enough data available to answer the questions that you asked. <br>
+            🟪 You vs. detection tools - the conflict of having to spend heaps of time investigating false positives. You want the organisation to ditch the tool or fine tune it.<br>
+            🟪 You vs. internal politics - overcoming tension between internal teams when the recommendation is something that needs input from all teams to deliver. e.g. rolling out adblocker, password manager. You want a higher level manager to read your report and push the change from the top down. <br> 
 
 
 
