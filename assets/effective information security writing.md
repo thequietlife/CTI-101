@@ -127,7 +127,23 @@ E.g. We can see Darth Vader is bad by the things he does. Luke Skywalker shows v
             🟪 You vs. detection tools - the conflict of having to spend heaps of time investigating false positives. You want the organisation to ditch the tool or fine tune it.<br>
             🟪 You vs. internal politics - overcoming tension between internal teams when the recommendation is something that needs input from all teams to deliver. e.g. rolling out adblocker, password manager. You want a higher level manager to read your report and push the change from the top down. <br> 
 
+### The secret to good storytelling
 
+#### **Once upon a time**
+
+* when you hear those four words you know you're going to hear the start of a story
+* you're going to learn a bit about the characters, setting, plot points. The character information may help define the conflict, what is going on
+* start your story with the mindset of 'Once upon a time'
+
+#### The storytelling formula to become an effective writer
+
+1. **Once upon a time...**(set the scene, establish the key characters, provide any relevant plot points from the past that are necessary from the past to fill in the gaps)
+2. **And every day...**(the network operated successfully)
+3. **Until one day...**(something changed - until one day the bad person came in and did the things)
+4. **And because of this...**(there was an effect. this thing happened) e.g. because they sent the phishing email and because the user clicked on the phishing email, this thing happened and then that thing happened and eventually they got domain administrator access and then all this bad stuff happened. 
+5. **And because of this...**(this thing happened. write the timeline of events. describe what the attacker did)
+6. **Until finally...**
+7. **And every since that day...**
 
 
 
