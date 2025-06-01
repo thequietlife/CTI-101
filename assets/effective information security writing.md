@@ -144,7 +144,8 @@ E.g. We can see Darth Vader is bad by the things he does. Luke Skywalker shows v
 5. **And because of this...**
 6. **Until finally...**
 7. **And every since that day...**
-
+   
+<br>
 1. **Once upon a time...**(set the scene, establish the key characters, provide any relevant plot points from the past that are necessary from the past to fill in the gaps). Introduction.
 2. **And every day...**(the network operated successfully)
 3. **Until one day...**(something changed - until one day the bad person came in and did the things)
