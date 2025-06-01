@@ -154,10 +154,15 @@ E.g. We can see Darth Vader is bad by the things he does. Luke Skywalker shows v
 6. **Until finally...**(we get to our key event. e.g. we discovered the attacker and started remediation, describe what that entailed, from the attacker perspective that means the attacker achieved their ultimate goal. the climax. **describe what our actions were** that were critical to the climax. and our remediation.
 7. **And every since that day...** the things that come after the climax, more details on remediation, how this was fixed. Recommendations - how we recommend it could be fixed etc.
 
+#### The writing process with storytelling in mind
 
+1. Collect and review all the evidence and notes you've collected
+2. Identify characters, conflict, theme and audience (audience - which group of people you are writing for)
+3. Outline the plot - link everything together so that a basic skeleton starts to form
+4. Write everything out - don't focus on the target audience yet. Get something on paper first
+5. Revise the document with the target audience in mind
 
-
-
+Inspired from Stephen King On Writing
 
 
 
