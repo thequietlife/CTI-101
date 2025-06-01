@@ -145,14 +145,14 @@ E.g. We can see Darth Vader is bad by the things he does. Luke Skywalker shows v
 6. **Until finally...**
 7. **And every since that day...**
    
-<br> #### The formula with notes
+#### The formula with notes
 1. **Once upon a time...**(set the scene, establish the key characters, provide any relevant plot points from the past that are necessary from the past to fill in the gaps). Introduction.
 2. **And every day...**(the network operated successfully)
 3. **Until one day...**(something changed - until one day the bad person came in and did the things)
 4. **And because of this...**(there was an effect. this thing happened) e.g. because they sent the phishing email and because the user clicked on the phishing email, this thing happened and then that thing happened and eventually they got domain administrator access and then all this bad stuff happened.
 5. **And because of this...**(this thing happened. write the timeline of events. describe what the attacker did) 
 6. **Until finally...**(we get to our key event. e.g. we discovered the attacker and started remediation, describe what that entailed, from the attacker perspective that means the attacker achieved their ultimate goal. the climax. **describe what our actions were** that were critical to the climax. and our remediation.
-7. **And every since that day...**the things that come after the climax, more details on remediation, how this was fixed. Recommendations - how we recommend it could be fixed etc.
+7. **And every since that day...** the things that come after the climax, more details on remediation, how this was fixed. Recommendations - how we recommend it could be fixed etc.
 
 
 
