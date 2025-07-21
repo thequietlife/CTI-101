@@ -6,7 +6,8 @@ ___________________________
 
 ## Table of Contents
 
-### Basics
+### Sec+ level of knowledge
+
   * 💻 [How Computers Work](https://github.com/thequietlife/CTI-101/blob/ca3cadef9b37ead345df7ba0cc789fd69224e3a1/assets/how%20computers%20work.md)
         
   * 🍰 [Networking Fundamentals](https://github.com/thequietlife/CTI-101/blob/ca3cadef9b37ead345df7ba0cc789fd69224e3a1/assets/networking%20fundamentals.md)
