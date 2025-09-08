@@ -28,16 +28,11 @@ ___________________________
 
 * 📝 [Effective Information Security Writing](https://github.com/thequietlife/CTI-101/blob/6b98210765439fce49adfd19bdecb10995291df1/assets/effective%20information%20security%20writing.md)
   
-* 🔬 [Threat Research](https://github.com/thequietlife/threat-research)
-   - [Analysing scam SMS](https://github.com/thequietlife/phishing-analysis)
-
-* 🦠 [Malware Analysis](https://github.com/thequietlife/malware-analysis)
-   - [Setting up a malware analysis lab](https://github.com/thequietlife/malware-analysis/blob/37139c4c586354121b2a1a4341fd46e51ec317b3/assets/build%20a%20lab.md)
-
-* Study APT Reports
-* Critical Thinking 
 * Intelligence Analysis Fundamentals
   - 📘 Reading [Psychology of Intelligence Analysis, Richard J. Heuer, Jr.](https://www.cia.gov/resources/csi/books-monographs/psychology-of-intelligence-analysis-2/)
+
+[Study APT Reports]: # 
+[Critical Thinking]: # 
 
 ____________________________
 
