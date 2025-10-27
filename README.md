@@ -6,19 +6,14 @@ ___________________________
 
 ## Table of Contents
 
-### Sec+ level of knowledge
+* Sec+ level of knowledge
 
-  * 💻 [How Computers Work](https://github.com/thequietlife/CTI-101/blob/ca3cadef9b37ead345df7ba0cc789fd69224e3a1/assets/how%20computers%20work.md)
-        
-  * 🍰 [Networking Fundamentals](https://github.com/thequietlife/CTI-101/blob/ca3cadef9b37ead345df7ba0cc789fd69224e3a1/assets/networking%20fundamentals.md)
-        
-  * 📐 [Security Architecture](https://github.com/thequietlife/CTI-101/blob/8681b6029fd8e926a5290ef65bb68aaafef93436/assets/security%20architecture.md)
-         
-  * 📕 [Cybersecurity Concepts](https://github.com/thequietlife/CTI-Crash-Course/blob/2b7819a889344e539231a220c021aa4b42449392/assets/cybersecurity%20concepts.md)
-    
-  * 🦠 [Common Attack Types](https://github.com/thequietlife/CTI-101/blob/f9a1737d7bbaa49c2c89e057a155b485842478df/assets/common%20attack%20types.md)
-    
-  * 🔒 [Encryption Standards](https://github.com/thequietlife/CTI-101/blob/733d8d8df851cba5830b4b9d16514c09b24ef76d/assets/encryption%20standards.md)
+  - 💻 [How Computers Work](https://github.com/thequietlife/CTI-101/blob/ca3cadef9b37ead345df7ba0cc789fd69224e3a1/assets/how%20computers%20work.md)    
+  - 🍰 [Networking Fundamentals](https://github.com/thequietlife/CTI-101/blob/ca3cadef9b37ead345df7ba0cc789fd69224e3a1/assets/networking%20fundamentals.md)
+  - 📐 [Security Architecture](https://github.com/thequietlife/CTI-101/blob/8681b6029fd8e926a5290ef65bb68aaafef93436/assets/security%20architecture.md)
+  - 📕 [Cybersecurity Concepts](https://github.com/thequietlife/CTI-Crash-Course/blob/2b7819a889344e539231a220c021aa4b42449392/assets/cybersecurity%20concepts.md)
+  - 🦠 [Common Attack Types](https://github.com/thequietlife/CTI-101/blob/f9a1737d7bbaa49c2c89e057a155b485842478df/assets/common%20attack%20types.md)
+  - 🔒 [Encryption Standards](https://github.com/thequietlife/CTI-101/blob/733d8d8df851cba5830b4b9d16514c09b24ef76d/assets/encryption%20standards.md)
 
  * Writing
    - ✏️ [Writing with Clarity](https://github.com/thequietlife/CTI-101/blob/8b4d05c2a56e10ee65f5250734f940106d0a72fb/assets/writing%20with%20clarity.md)
