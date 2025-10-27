@@ -21,10 +21,10 @@ ___________________________
   * 🔒 [Encryption Standards](https://github.com/thequietlife/CTI-101/blob/733d8d8df851cba5830b4b9d16514c09b24ef76d/assets/encryption%20standards.md)
 
  * Writing
-  - ✏️ [Writing with Clarity](https://github.com/thequietlife/CTI-101/blob/8b4d05c2a56e10ee65f5250734f940106d0a72fb/assets/writing%20with%20clarity.md)
-  - 🖍️ [Threat Intel for Everyone: Writing Like A Journalist To Produce Clear, Concise Reports](https://github.com/thequietlife/CTI-101/blob/41678490effc6a4dbf28a0947be536ee391b6392/assets/writing%20like%20a%20journalist.md)
-  - 🖊️ [Pen-To-Paper and The Finished Report: The Key To Generating Threat Intelligence](https://github.com/thequietlife/CTI-101/blob/02ba8bac9239fc310e65aa813caf880b62c4676e/assets/pen-to-paper%20and%20the%20finished%20report.md)
-  - 📝 [Effective Information Security Writing](https://github.com/thequietlife/CTI-101/blob/6b98210765439fce49adfd19bdecb10995291df1/assets/effective%20information%20security%20writing.md)
+   - ✏️ [Writing with Clarity](https://github.com/thequietlife/CTI-101/blob/8b4d05c2a56e10ee65f5250734f940106d0a72fb/assets/writing%20with%20clarity.md)
+   - 🖍️ [Threat Intel for Everyone: Writing Like A Journalist To Produce Clear, Concise Reports](https://github.com/thequietlife/CTI-101/blob/41678490effc6a4dbf28a0947be536ee391b6392/assets/writing%20like%20a%20journalist.md)
+   - 🖊️ [Pen-To-Paper and The Finished Report: The Key To Generating Threat Intelligence](https://github.com/thequietlife/CTI-101/blob/02ba8bac9239fc310e65aa813caf880b62c4676e/assets/pen-to-paper%20and%20the%20finished%20report.md)
+   - 📝 [Effective Information Security Writing](https://github.com/thequietlife/CTI-101/blob/6b98210765439fce49adfd19bdecb10995291df1/assets/effective%20information%20security%20writing.md)
     
 * Intelligence Analysis Fundamentals
   - 📘 Reading [Psychology of Intelligence Analysis, Richard J. Heuer, Jr.](https://www.cia.gov/resources/csi/books-monographs/psychology-of-intelligence-analysis-2/)
