@@ -28,9 +28,10 @@ ___________________________
     
 * Intelligence Analysis Fundamentals
   
-  - 📘 Reading [Psychology of Intelligence Analysis, Richard J. Heuer, Jr.](https://www.cia.gov/resources/csi/books-monographs/psychology-of-intelligence-analysis-2/)
-  - 📗 Reading [A Tradecraft Primer: Structured Analytic Techniques for Improving Intelligence Analysis](https://www.cia.gov/resources/csi/books-monographs/a-tradecraft-primer/)
+   - 📗 Reading [A Tradecraft Primer: Structured Analytic Techniques for Improving Intelligence Analysis](https://www.cia.gov/resources/csi/books-monographs/a-tradecraft-primer/)
 
+  - 📘 Next [Psychology of Intelligence Analysis, Richard J. Heuer, Jr.](https://www.cia.gov/resources/csi/books-monographs/psychology-of-intelligence-analysis-2/)
+ 
 [Study APT Reports]: # 
 [Critical Thinking]: # 
 
