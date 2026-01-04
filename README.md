@@ -24,7 +24,7 @@ ___________________________
     
 * OSINT
   
-  - 📙 Book notes [we are bellingcat, eliot higgins](https://github.com/thequietlife/reading/blob/d17b24368c7b5aa736e2582d989dcfad966a1e81/books.md)
+  - 📙 Book notes [we are bellingcat, eliot higgins](https://github.com/thequietlife/CTI-101/blob/0d6c409707e1f53ca671bc7df32607171f237045/assets/we%20are%20bellingcat.md)
     
 * Intelligence Analysis Fundamentals
   
