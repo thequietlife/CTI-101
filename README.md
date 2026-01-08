@@ -9,6 +9,12 @@
   - 🦠 [Common Attack Types](https://github.com/thequietlife/CTI-101/blob/f9a1737d7bbaa49c2c89e057a155b485842478df/assets/common%20attack%20types.md)
   - 🔒 [Encryption Standards](https://github.com/thequietlife/CTI-101/blob/733d8d8df851cba5830b4b9d16514c09b24ef76d/assets/encryption%20standards.md)
 
+ * Web Application Vulnerabilities
+
+   - 💻 Cross-site scripting (XSS)
+   - 💉 SQL injection 
+   - ⚙️ Cross-site request forgery (CSRF)
+   
  * Writing
    
    - 🖋️ [Writing with Clarity](https://github.com/thequietlife/CTI-101/blob/8b4d05c2a56e10ee65f5250734f940106d0a72fb/assets/writing%20with%20clarity.md)
