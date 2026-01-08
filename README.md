@@ -11,9 +11,9 @@
 
  * Web Application Vulnerabilities
 
-   - 💻 Cross-site scripting (XSS)
-   - 💉 SQL injection 
-   - ⚙️ Cross-site request forgery (CSRF)
+   - ⛓️ Cross-Site Scripting (XSS)
+   - 💉 SQL Injection 
+   - ⚙️ Cross-Site Request Forgery (CSRF)
    
  * Writing
    
