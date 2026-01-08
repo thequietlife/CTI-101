@@ -1,10 +1,4 @@
-# 📓 Cyber Threat Intelligence (CTI) 101
-
-🚧 Putting all my notes in one spot. Notes from learning CTI. I have used Andy Piazza's [Cyber Threat Intelligence Study Plan](https://klrgrz.medium.com/cyber-threat-intelligence-study-plan-c60484d319cb) and Katie Nickels' [A Cyber Threat Intelligence Self-Study Plan](https://medium.com/katies-five-cents/a-cyber-threat-intelligence-self-study-plan-part-1-968b5a8daf9a) as guides. 
-
-___________________________
-
-## Table of Contents
+# 📓 Cyberzzz notes
 
 * Security+ 
 
@@ -26,14 +20,6 @@ ___________________________
   
   - 📙 Book notes [we are bellingcat, eliot higgins](https://github.com/thequietlife/CTI-101/blob/0d6c409707e1f53ca671bc7df32607171f237045/assets/we%20are%20bellingcat.md)
     
-* Intelligence Analysis Fundamentals
-  
-   - 📗 Reading [A Tradecraft Primer: Structured Analytic Techniques for Improving Intelligence Analysis](https://www.cia.gov/resources/csi/books-monographs/a-tradecraft-primer/)
-
-  - 📘 Next [Psychology of Intelligence Analysis, Richard J. Heuer, Jr.](https://www.cia.gov/resources/csi/books-monographs/psychology-of-intelligence-analysis-2/)
- 
-[Study APT Reports]: # 
-[Critical Thinking]: # 
 
 ____________________________
 
