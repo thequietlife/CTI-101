@@ -2,7 +2,7 @@
 
 🚧 Putting all my notes in one spot. Notes from learning Cyber Threat Intelligence (CTI). I have used [Andy Piazza's Cyber Threat Intelligence Study Plan](https://klrgrz.medium.com/cyber-threat-intelligence-study-plan-c60484d319cb) and [Katie Nickels' A Cyber Threat Intelligence Self-Study Plan](https://medium.com/katies-five-cents/a-cyber-threat-intelligence-self-study-plan-part-1-968b5a8daf9a).
 
-* Security+ 
+* Sec+ Level of Knowledge
 
   - 💻 [How Computers Work](https://github.com/thequietlife/CTI-101/blob/ca3cadef9b37ead345df7ba0cc789fd69224e3a1/assets/how%20computers%20work.md)    
   - 🍰 [How the Internet Works + Networking 101](https://github.com/thequietlife/CTI-101/blob/ca3cadef9b37ead345df7ba0cc789fd69224e3a1/assets/networking%20fundamentals.md)
