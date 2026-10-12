@@ -1,6 +1,6 @@
 # Cyber Threat Intelligence 101 Notes
 
-Putting all my notes in one spot. Notes from learning Cyber Threat Intelligence (CTI). I have used Andy Piazza's Cyber Threat Intelligence Study Plan and Katie Nickels' A Cyber Threat Intelligence Self-Study Plan.
+Putting all my notes in one spot. Notes from learning Cyber Threat Intelligence (CTI). I have used [Andy Piazza's Cyber Threat Intelligence Study Plan](https://klrgrz.medium.com/cyber-threat-intelligence-study-plan-c60484d319cb) and [Katie Nickels' A Cyber Threat Intelligence Self-Study Plan](https://medium.com/katies-five-cents/a-cyber-threat-intelligence-self-study-plan-part-1-968b5a8daf9a).
 
 * Security+ 
 
