@@ -1,7 +1,7 @@
 # CTI 101 Notes
 
 Notes from learning Cyber Threat Intelligence, following:
-- [Andy Piazza's Cyber Threat Intelligence Study Plan](https://klrgrz.medium.com/cyber-threat-intelligence-study-plan-c60484d319cb)
+- Andy Piazza's [Cyber Threat Intelligence Study Plan](https://klrgrz.medium.com/cyber-threat-intelligence-study-plan-c60484d319cb)
 - [Katie Nickels' self-study plan](https://medium.com/katies-five-cents/a-cyber-threat-intelligence-self-study-plan-part-1-968b5a8daf9a).
 
 
