@@ -9,7 +9,7 @@ Notes from learning Cyber Threat Intelligence, following:
 - [x] [How computers work](https://github.com/thequietlife/CTI-101/blob/b8552ab2ff43537285086f8498ed74246a05e1b8/assets/how%20computers%20work.md)
 - [x] [Networking 101](https://github.com/thequietlife/CTI-101/blob/6cecb52a5185ee9072643fe79917a25dbd3b2718/assets/fundamentals.md)
 - [x] [Security architecture](https://github.com/thequietlife/CTI-101/blob/99b4e54cc65d83424189254e1c008ec2b89bda8b/assets/security%20architecture.md)
-- [x] [Cybersecurity concepts](02-technical-foundations/cybersecurity-concepts.md)
+- [x] [Cybersecurity concepts](https://github.com/thequietlife/CTI-101/blob/2697ad78aec1258de0dd7c4f58e9d039704831c4/assets/cybersecurity%20concepts.md)
 - [x] [Common attack types](02-technical-foundations/common-attack-types.md)
 - [x] [Encryption standards](02-technical-foundations/encryption-standards.md)
       
