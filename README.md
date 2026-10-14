@@ -13,22 +13,9 @@ Notes from learning Cyber Threat Intelligence, following:
 - [x] [Common attack types](https://github.com/thequietlife/CTI-101/blob/86cf34e765cd823e899d9c6ba4cd8c316f40ab99/assets/common%20attack%20types.md)
 - [x] [Encryption standards](https://github.com/thequietlife/CTI-101/blob/86b1eddb1a1933f53915f4343a974872b4b0cf9e/assets/encryption%20standards.md)
       
-## 2. Intelligence
+## 2. Practice clear & concise writing
+
+## 3. Study APT reports
+
+## 4. Study intelligence analysis fundamentals
 - [x] Sherman Kent's analytic doctrine 🚧
-- [ ] Heuer, *Psychology of Intelligence Analysis*
-- [ ] Intelligence cycle
-- [ ] Cognitive biases
-
-## 3. CTI fundamentals
-- [x] Defining CTI and its history
-- [x] Requirements (strategic / operational / tactical)
-- [ ] Mandiant APT1 report
-
-## 4. Frameworks and models
-- [x] Cyber Kill Chain
-- [x] Diamond Model
-- [x] MITRE ATT&CK
-
-## 5. Books
-- [x] [We Are Bellingcat](books/we-are-bellingcat.md), Eliot Higgins
-- [x] Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin's Most Dangerous Hackers, Andy Greenberg ## 
