@@ -11,7 +11,7 @@ Notes from learning Cyber Threat Intelligence, following:
 - [x] [Security architecture](https://github.com/thequietlife/CTI-101/blob/99b4e54cc65d83424189254e1c008ec2b89bda8b/assets/security%20architecture.md)
 - [x] [Cybersecurity concepts](https://github.com/thequietlife/CTI-101/blob/2697ad78aec1258de0dd7c4f58e9d039704831c4/assets/cybersecurity%20concepts.md)
 - [x] [Common attack types](https://github.com/thequietlife/CTI-101/blob/86cf34e765cd823e899d9c6ba4cd8c316f40ab99/assets/common%20attack%20types.md)
-- [x] [Encryption standards](02-technical-foundations/encryption-standards.md)
+- [x] [Encryption standards](https://github.com/thequietlife/CTI-101/blob/86b1eddb1a1933f53915f4343a974872b4b0cf9e/assets/encryption%20standards.md)
       
 ## 2. Intelligence
 - [x] Sherman Kent's analytic doctrine 🚧
