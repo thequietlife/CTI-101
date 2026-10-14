@@ -18,7 +18,7 @@
    - 🖊️ [Pen-To-Paper and The Finished Report: The Key To Generating Threat Intelligence](https://github.com/thequietlife/CTI-101/blob/02ba8bac9239fc310e65aa813caf880b62c4676e/assets/pen-to-paper%20and%20the%20finished%20report.md)
    - 📝 [Effective Information Security Writing](https://github.com/thequietlife/CTI-101/blob/6b98210765439fce49adfd19bdecb10995291df1/assets/effective%20information%20security%20writing.md)
     
-* OSINT
+* Reading
   
   - 📙 Book notes [we are bellingcat, eliot higgins](https://github.com/thequietlife/CTI-101/blob/0d6c409707e1f53ca671bc7df32607171f237045/assets/we%20are%20bellingcat.md)
     
