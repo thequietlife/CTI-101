@@ -10,7 +10,7 @@ Notes from learning Cyber Threat Intelligence, following:
 - [x] [Networking 101](https://github.com/thequietlife/CTI-101/blob/6cecb52a5185ee9072643fe79917a25dbd3b2718/assets/fundamentals.md)
 - [x] [Security architecture](https://github.com/thequietlife/CTI-101/blob/99b4e54cc65d83424189254e1c008ec2b89bda8b/assets/security%20architecture.md)
 - [x] [Cybersecurity concepts](https://github.com/thequietlife/CTI-101/blob/2697ad78aec1258de0dd7c4f58e9d039704831c4/assets/cybersecurity%20concepts.md)
-- [x] [Common attack types](02-technical-foundations/common-attack-types.md)
+- [x] [Common attack types](https://github.com/thequietlife/CTI-101/blob/86cf34e765cd823e899d9c6ba4cd8c316f40ab99/assets/common%20attack%20types.md)
 - [x] [Encryption standards](02-technical-foundations/encryption-standards.md)
       
 ## 2. Intelligence
