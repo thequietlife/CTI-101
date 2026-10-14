@@ -3,7 +3,7 @@
 🚧 Putting all my notes in one spot. Notes from learning Cyber Threat Intelligence (CTI). I have used [Andy Piazza's Cyber Threat Intelligence Study Plan](https://klrgrz.medium.com/cyber-threat-intelligence-study-plan-c60484d319cb) and [Katie Nickels' A Cyber Threat Intelligence Self-Study Plan](https://medium.com/katies-five-cents/a-cyber-threat-intelligence-self-study-plan-part-1-968b5a8daf9a).
 
 * Intelligence
-  - Reading [Sherman Kent and the Profession of Intelligence Analysis](https://web.archive.org/web/20201102212401/https://www.cia.gov/library/kent-center-occasional-papers/pdf/OPNo5.pdf)
+  - Reading [Sherman Kent and the Profession of Intelligence Analysis](https://web.archive.org/web/20201102212401/https://www.cia.gov/library/kent-center-occasional-papers/pdf/OPNo5.pdf) ***(oct 14 '26)***
 
 * Sec+ Level of Knowledge
 
