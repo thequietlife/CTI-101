@@ -7,7 +7,7 @@ Notes from learning Cyber Threat Intelligence, following:
 
 ## 1. Technical foundations (Sec+ level)
 - [x] [How computers work](https://github.com/thequietlife/CTI-101/blob/b8552ab2ff43537285086f8498ed74246a05e1b8/assets/how%20computers%20work.md)
-- [x] [Networking 101]([02-technical-foundations/networking-fundamentals.md](https://github.com/thequietlife/CTI-101/blob/6cecb52a5185ee9072643fe79917a25dbd3b2718/assets/fundamentals.md))
+- [x] [Networking 101](https://github.com/thequietlife/CTI-101/blob/6cecb52a5185ee9072643fe79917a25dbd3b2718/assets/fundamentals.md))
 - [x] [Security architecture](02-technical-foundations/security-architecture.md)
 - [x] [Cybersecurity concepts](02-technical-foundations/cybersecurity-concepts.md)
 - [x] [Common attack types](02-technical-foundations/common-attack-types.md)
