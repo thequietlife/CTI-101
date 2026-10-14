@@ -29,8 +29,6 @@ Notes from learning Cyber Threat Intelligence, following:
 - [x] Diamond Model
 - [x] MITRE ATT&CK
 
-
-
-
-## Books
+## 5. Books
 - [x] [We Are Bellingcat](books/we-are-bellingcat.md), Eliot Higgins
+- [x] Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin's Most Dangerous Hackers, Andy Greenberg 
