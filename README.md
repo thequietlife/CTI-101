@@ -5,7 +5,7 @@ Notes from learning Cyber Threat Intelligence, following:
 - Katie Nickels' [A Cyber Threat Intelligence Self-Study Plan: Part 1](https://medium.com/katies-five-cents/a-cyber-threat-intelligence-self-study-plan-part-1-968b5a8daf9a).
 
 
-### 1. [Sec+ Level of Knowledge](https://github.com/thequietlife/CTI-101/tree/main/assets)
+### 1. [Sec+ level of knowledge](https://github.com/thequietlife/CTI-101/tree/main/assets)
 
 ### 2. [Practice clear & concise writing](https://github.com/thequietlife/CTI-101/tree/main/assets)
 
