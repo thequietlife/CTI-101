@@ -7,7 +7,7 @@ Notes from learning Cyber Threat Intelligence, following:
 
 ### 1. [Sec+ Level of Knowledge](https://github.com/thequietlife/CTI-101/tree/main/assets)
 
-### 2. Practice clear & concise writing
+### 2. [Practice clear & concise writing](https://github.com/thequietlife/CTI-101/tree/main/assets)
 
 ### 3. Study APT reports
 
